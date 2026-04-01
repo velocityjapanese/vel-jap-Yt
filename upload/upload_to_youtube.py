@@ -84,7 +84,9 @@ def generate_video_metadata(category: str, num_phrases: int, phrases: list = Non
             emoji = emojis[i] if i < len(emojis) else f"{i+1}."
             description_lines.append(f"{emoji} {phrase['english']}")
             description_lines.append(f"   📍 {phrase['japanese']}")
-            description_lines.append(f"   🔊 [{phrase.get('pronunciation', '')}]")
+            # Japanese uses 'romaji', other languages use 'pronunciation'
+            romaji = phrase.get('romaji') or phrase.get('pronunciation', '')
+            description_lines.append(f"   🔊 [{romaji}]")
             description_lines.append("")
 
     # Call to action and hashtags
