@@ -34,7 +34,42 @@
       "romaji": "Youkoso, douzo ohairi kudasai.",
       "category": "Greetings",
       "generated_at": "2026-04-01T23:29:30.725313"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "japanese": "毎日、少しずつ学びましょう。",
+      "romaji": "Mainichi, sukoshi zutsu manabimashou.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-01T23:48:01.188607"
+    },
+    {
+      "english": "Listen well, speak clearly.",
+      "japanese": "よく聞き、はっきり話す。",
+      "romaji": "Yoku kiki, hakkiri hanasu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-01T23:48:01.188621"
+    },
+    {
+      "english": "Practice makes progress.",
+      "japanese": "練習は、進歩のもと。",
+      "romaji": "Renshuu wa, shinpo no moto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-01T23:48:01.188623"
+    },
+    {
+      "english": "Don't be afraid, to try.",
+      "japanese": "恐れないで、挑戦する。",
+      "romaji": "Osoranaide, chousen suru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-01T23:48:01.188625"
+    },
+    {
+      "english": "Understand the meaning, not just words.",
+      "japanese": "言葉だけでなく、意味を理解する。",
+      "romaji": "Kotoba dake de naku, imi o rikai suru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-01T23:48:01.188627"
     }
   ],
-  "last_updated": "2026-04-01T23:29:30.725314"
+  "last_updated": "2026-04-01T23:48:01.188630"
 }
