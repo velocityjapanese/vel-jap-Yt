@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "Good morning, hope you slept well.",
+      "japanese": "おはようございます、よく眠れましたか？",
+      "romaji": "Ohayou gozaimasu, yoku nemuremashita ka?",
+      "category": "Greetings",
+      "generated_at": "2026-04-01T23:29:30.725300"
+    },
+    {
+      "english": "Hello there, what's new?",
+      "japanese": "こんにちは、何か新しいことはありますか？",
+      "romaji": "Konnichiwa, nanika atarashii koto wa arimasu ka?",
+      "category": "Greetings",
+      "generated_at": "2026-04-01T23:29:30.725309"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "japanese": "はじめまして、本当によろしくお願いします。",
+      "romaji": "Hajimemashite, hontou ni yoroshiku onegaishimasu.",
+      "category": "Greetings",
+      "generated_at": "2026-04-01T23:29:30.725310"
+    },
+    {
+      "english": "Good evening, have a nice night.",
+      "japanese": "こんばんは、良い夜をお過ごしください。",
+      "romaji": "Konbanwa, yoi yoru o osugoshi kudasai.",
+      "category": "Greetings",
+      "generated_at": "2026-04-01T23:29:30.725311"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "japanese": "ようこそ、どうぞお入りください。",
+      "romaji": "Youkoso, douzo ohairi kudasai.",
+      "category": "Greetings",
+      "generated_at": "2026-04-01T23:29:30.725313"
+    }
+  ],
+  "last_updated": "2026-04-01T23:29:30.725314"
+}
