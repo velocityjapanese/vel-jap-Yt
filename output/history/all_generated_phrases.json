@@ -174,7 +174,42 @@
       "romaji": "Mokuhyou ni shuuchuu shite.",
       "category": "Perseverance",
       "generated_at": "2026-04-02T17:12:40.107394"
+    },
+    {
+      "english": "Try your best, always.",
+      "japanese": "いつも、ベストを尽くして。",
+      "romaji": "itsumo, besuto o tsukushite.",
+      "category": "Confidence",
+      "generated_at": "2026-04-02T19:55:07.536020"
+    },
+    {
+      "english": "You can do it, I believe.",
+      "japanese": "できるよ、信じてる。",
+      "romaji": "dekiru yo, shinjiteru.",
+      "category": "Confidence",
+      "generated_at": "2026-04-02T19:55:07.536029"
+    },
+    {
+      "english": "One step, then another.",
+      "japanese": "一歩、また一歩。",
+      "romaji": "ippo, mata ippo.",
+      "category": "Confidence",
+      "generated_at": "2026-04-02T19:55:07.536031"
+    },
+    {
+      "english": "Don't be afraid, try.",
+      "japanese": "怖がらないで、挑戦して。",
+      "romaji": "kowagaranaide, chōsen shite.",
+      "category": "Confidence",
+      "generated_at": "2026-04-02T19:55:07.536032"
+    },
+    {
+      "english": "You're getting better, truly.",
+      "japanese": "上手くなってるよ、本当に。",
+      "romaji": "umaku natteru yo, hontō ni.",
+      "category": "Confidence",
+      "generated_at": "2026-04-02T19:55:07.536033"
     }
   ],
-  "last_updated": "2026-04-02T17:12:40.107396"
+  "last_updated": "2026-04-02T19:55:07.536035"
 }
