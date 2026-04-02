@@ -209,7 +209,42 @@
       "romaji": "umaku natteru yo, hontō ni.",
       "category": "Confidence",
       "generated_at": "2026-04-02T19:55:07.536033"
+    },
+    {
+      "english": "Excuse me, where is this?",
+      "japanese": "すみません、ここ、どこですか？",
+      "romaji": "Sumimasen, koko, doko desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-02T21:55:39.119743"
+    },
+    {
+      "english": "Could you speak slower, please?",
+      "japanese": "ゆっくり、話していただけますか？",
+      "romaji": "Yukkuri, hanashite itadakemasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-02T21:55:39.119752"
+    },
+    {
+      "english": "I'd like to order this, please.",
+      "japanese": "これを、お願いします。",
+      "romaji": "Kore o, onegaishimasu.",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-02T21:55:39.119753"
+    },
+    {
+      "english": "How much is this, please?",
+      "japanese": "これは、いくらですか？",
+      "romaji": "Kore wa, ikura desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-02T21:55:39.119755"
+    },
+    {
+      "english": "Where is the nearest station?",
+      "japanese": "一番近い駅は、どこですか？",
+      "romaji": "Ichiban chikai eki wa, doko desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-02T21:55:39.119756"
     }
   ],
-  "last_updated": "2026-04-02T19:55:07.536035"
+  "last_updated": "2026-04-02T21:55:39.119758"
 }
