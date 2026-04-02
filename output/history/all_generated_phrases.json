@@ -69,7 +69,42 @@
       "romaji": "Kotoba dake de naku, imi o rikai suru.",
       "category": "Self Improvement",
       "generated_at": "2026-04-01T23:48:01.188627"
+    },
+    {
+      "english": "I'm sorry, please forgive me.",
+      "japanese": "ごめんなさい、許してください。",
+      "romaji": "gomen nasai, yurushite kudasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-02T05:51:59.782521"
+    },
+    {
+      "english": "My mistake, please overlook it.",
+      "japanese": "私のミスです、大目に見てください。",
+      "romaji": "watashi no misu desu, oome ni mite kudasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-02T05:51:59.782529"
+    },
+    {
+      "english": "It was my fault, truly.",
+      "japanese": "私が悪かったです、本当に。",
+      "romaji": "watashi ga warukatta desu, hontou ni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-02T05:51:59.782531"
+    },
+    {
+      "english": "I regret my actions, please.",
+      "japanese": "行動を後悔しています、どうか。",
+      "romaji": "koudou o koukai shite imasu, douka.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-02T05:51:59.782532"
+    },
+    {
+      "english": "Can you forgive me, please?",
+      "japanese": "私を許せますか、お願いします。",
+      "romaji": "watashi o yurusmasu ka, onegai shimasu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-02T05:51:59.782533"
     }
   ],
-  "last_updated": "2026-04-01T23:48:01.188630"
+  "last_updated": "2026-04-02T05:51:59.782535"
 }
