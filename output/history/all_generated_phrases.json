@@ -139,7 +139,42 @@
       "romaji": "Heiwa wa, uchi kara kuru.",
       "category": "Happiness",
       "generated_at": "2026-04-02T15:39:18.324242"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "japanese": "諦めずに、頑張って。",
+      "romaji": "Akiramezu ni, ganbatte.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-02T17:12:40.107382"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "japanese": "小さな一歩、大きな進歩。",
+      "romaji": "Chiisana ippo, ooki na shinpo.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-02T17:12:40.107390"
+    },
+    {
+      "english": "Mistakes are learning.",
+      "japanese": "間違いは、学びです。",
+      "romaji": "Machigai wa, manabi desu.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-02T17:12:40.107392"
+    },
+    {
+      "english": "Even a little, every day.",
+      "japanese": "毎日、少しずつでも。",
+      "romaji": "Mainichi, sukoshi zutsu demo.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-02T17:12:40.107393"
+    },
+    {
+      "english": "Focus on your goal.",
+      "japanese": "目標に集中して。",
+      "romaji": "Mokuhyou ni shuuchuu shite.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-02T17:12:40.107394"
     }
   ],
-  "last_updated": "2026-04-02T15:39:18.324244"
+  "last_updated": "2026-04-02T17:12:40.107396"
 }
