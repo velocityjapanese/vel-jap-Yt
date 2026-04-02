@@ -104,7 +104,42 @@
       "romaji": "watashi o yurusmasu ka, onegai shimasu.",
       "category": "Forgiveness",
       "generated_at": "2026-04-02T05:51:59.782533"
+    },
+    {
+      "english": "Find joy, in the small things.",
+      "japanese": "小さなことに、喜びを見つけよう。",
+      "romaji": "Chiisana koto ni, yorokobi o mitsukeyou.",
+      "category": "Happiness",
+      "generated_at": "2026-04-02T15:39:18.324229"
+    },
+    {
+      "english": "Today is, a good day.",
+      "japanese": "今日は、良い日です。",
+      "romaji": "Kyou wa, yoi hi desu.",
+      "category": "Happiness",
+      "generated_at": "2026-04-02T15:39:18.324237"
+    },
+    {
+      "english": "Smile often, laugh more.",
+      "japanese": "よく笑って、もっと楽しもう。",
+      "romaji": "Yoku waratte, motto tanoshimou.",
+      "category": "Happiness",
+      "generated_at": "2026-04-02T15:39:18.324239"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "japanese": "自分に、優しくしよう。",
+      "romaji": "Jibun ni, yasashiku shiyou.",
+      "category": "Happiness",
+      "generated_at": "2026-04-02T15:39:18.324241"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "japanese": "平和は、内から来る。",
+      "romaji": "Heiwa wa, uchi kara kuru.",
+      "category": "Happiness",
+      "generated_at": "2026-04-02T15:39:18.324242"
     }
   ],
-  "last_updated": "2026-04-02T05:51:59.782535"
+  "last_updated": "2026-04-02T15:39:18.324244"
 }
