@@ -244,7 +244,42 @@
       "romaji": "Ichiban chikai eki wa, doko desu ka?",
       "category": "Travel Japanese",
       "generated_at": "2026-04-02T21:55:39.119756"
+    },
+    {
+      "english": "Little by little, progress is made.",
+      "japanese": "少しずつ、進歩します。",
+      "romaji": "sukoshi zutsu, shinpō shimasu.",
+      "category": "Patience",
+      "generated_at": "2026-04-03T05:52:44.068425"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "japanese": "良い時を待ちましょう。",
+      "romaji": "yoi toki o machimashō.",
+      "category": "Patience",
+      "generated_at": "2026-04-03T05:52:44.068434"
+    },
+    {
+      "english": "Don't rush, take your time.",
+      "japanese": "急がず、ゆっくりと。",
+      "romaji": "isogazu, yukkuri to.",
+      "category": "Patience",
+      "generated_at": "2026-04-03T05:52:44.068436"
+    },
+    {
+      "english": "Even a slow person, can succeed.",
+      "japanese": "遅い人でも、成功できます。",
+      "romaji": "osoi hito demo, seikō dekimasu.",
+      "category": "Patience",
+      "generated_at": "2026-04-03T05:52:44.068437"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "japanese": "良いことは、待つ人に訪れます。",
+      "romaji": "yoi koto wa, matsu hito ni otozuremasu.",
+      "category": "Patience",
+      "generated_at": "2026-04-03T05:52:44.068438"
     }
   ],
-  "last_updated": "2026-04-02T21:55:39.119758"
+  "last_updated": "2026-04-03T05:52:44.068440"
 }
