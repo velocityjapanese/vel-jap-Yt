@@ -314,7 +314,42 @@
       "romaji": "Mainichi, nanika o manabu.",
       "category": "Success",
       "generated_at": "2026-04-03T14:28:55.927770"
+    },
+    {
+      "english": "Thank you, very much.",
+      "japanese": "本当に、ありがとうございます。",
+      "romaji": "hontō ni, arigatō gozaimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-03T15:57:59.582695"
+    },
+    {
+      "english": "I'm so grateful, truly.",
+      "japanese": "心から、感謝しています。",
+      "romaji": "kokoro kara, kansha shite imasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-03T15:57:59.582704"
+    },
+    {
+      "english": "That was kind, of you.",
+      "japanese": "親切に、どうも。",
+      "romaji": "shinsetsu ni, dōmo.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-03T15:57:59.582705"
+    },
+    {
+      "english": "I appreciate, this effort.",
+      "japanese": "この努力に、感謝です。",
+      "romaji": "kono doryoku ni, kansha desu.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-03T15:57:59.582707"
+    },
+    {
+      "english": "You're a lifesaver, thank you.",
+      "japanese": "助かりました、ありがとう。",
+      "romaji": "tasukarimashita, arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-03T15:57:59.582708"
     }
   ],
-  "last_updated": "2026-04-03T14:28:55.927772"
+  "last_updated": "2026-04-03T15:57:59.582709"
 }
