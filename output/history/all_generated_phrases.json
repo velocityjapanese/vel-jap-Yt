@@ -279,7 +279,42 @@
       "romaji": "yoi koto wa, matsu hito ni otozuremasu.",
       "category": "Patience",
       "generated_at": "2026-04-03T05:52:44.068438"
+    },
+    {
+      "english": "Keep going, step by step.",
+      "japanese": "一歩ずつ、進みましょう。",
+      "romaji": "Ippo zutsu, susumimashou.",
+      "category": "Success",
+      "generated_at": "2026-04-03T14:28:55.927757"
+    },
+    {
+      "english": "Small efforts, big results.",
+      "japanese": "小さな努力、大きな成果。",
+      "romaji": "Chiisana doryoku, ookina seika.",
+      "category": "Success",
+      "generated_at": "2026-04-03T14:28:55.927766"
+    },
+    {
+      "english": "You can do it, believe.",
+      "japanese": "できるよ、信じて。",
+      "romaji": "Dekiru yo, shinjite.",
+      "category": "Success",
+      "generated_at": "2026-04-03T14:28:55.927768"
+    },
+    {
+      "english": "Never give up, try again.",
+      "japanese": "諦めないで、また挑戦。",
+      "romaji": "Akiramenaide, mata chousen.",
+      "category": "Success",
+      "generated_at": "2026-04-03T14:28:55.927769"
+    },
+    {
+      "english": "Every day, learn something.",
+      "japanese": "毎日、何かを学ぶ。",
+      "romaji": "Mainichi, nanika o manabu.",
+      "category": "Success",
+      "generated_at": "2026-04-03T14:28:55.927770"
     }
   ],
-  "last_updated": "2026-04-03T05:52:44.068440"
+  "last_updated": "2026-04-03T14:28:55.927772"
 }
