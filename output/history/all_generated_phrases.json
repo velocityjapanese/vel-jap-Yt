@@ -349,7 +349,42 @@
       "romaji": "tasukarimashita, arigatō.",
       "category": "Gratitude",
       "generated_at": "2026-04-03T15:57:59.582708"
+    },
+    {
+      "english": "You're, a great friend.",
+      "japanese": "あなたは、素晴らしい友達です。",
+      "romaji": "Anata wa, subarashii tomodachi desu.",
+      "category": "Friendship",
+      "generated_at": "2026-04-03T19:28:59.423512"
+    },
+    {
+      "english": "Let's, hang out soon.",
+      "japanese": "また、近いうちに遊びましょう。",
+      "romaji": "Mata, chikai uchi ni asobimashou.",
+      "category": "Friendship",
+      "generated_at": "2026-04-03T19:28:59.423521"
+    },
+    {
+      "english": "Thanks, for always listening.",
+      "japanese": "いつも、聞いてくれてありがとう。",
+      "romaji": "Itsumo, kiite kurete arigatou.",
+      "category": "Friendship",
+      "generated_at": "2026-04-03T19:28:59.423523"
+    },
+    {
+      "english": "I'm, glad we met.",
+      "japanese": "出会えて、嬉しいです。",
+      "romaji": "Deaete, ureshii desu.",
+      "category": "Friendship",
+      "generated_at": "2026-04-03T19:28:59.423528"
+    },
+    {
+      "english": "We, understand each other.",
+      "japanese": "私たちは、お互いを理解しています。",
+      "romaji": "Watashitachi wa, otagai o rikai shite imasu.",
+      "category": "Friendship",
+      "generated_at": "2026-04-03T19:28:59.423529"
     }
   ],
-  "last_updated": "2026-04-03T15:57:59.582709"
+  "last_updated": "2026-04-03T19:28:59.423531"
 }
