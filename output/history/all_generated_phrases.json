@@ -559,7 +559,42 @@
       "romaji": "kore wa, oishii desu.",
       "category": "Basic Phrases",
       "generated_at": "2026-04-04T18:01:56.965285"
+    },
+    {
+      "english": "Strong mind, strong body.",
+      "japanese": "強い心、強い体。",
+      "romaji": "Tsuyoi kokoro, tsuyoi karada.",
+      "category": "Strength",
+      "generated_at": "2026-04-04T21:03:17.318591"
+    },
+    {
+      "english": "Inner strength, grows from within.",
+      "japanese": "内なる強さ、内から育つ。",
+      "romaji": "Uchi naru tsuyosa, uchi kara sodatsu.",
+      "category": "Strength",
+      "generated_at": "2026-04-04T21:03:17.318599"
+    },
+    {
+      "english": "Never give up, always try.",
+      "japanese": "諦めない、いつも挑戦。",
+      "romaji": "Akiramenai, itsumo chousen.",
+      "category": "Strength",
+      "generated_at": "2026-04-04T21:03:17.318601"
+    },
+    {
+      "english": "Your power, is limitless.",
+      "japanese": "君の力、無限大。",
+      "romaji": "Kimi no chikara, mugendai.",
+      "category": "Strength",
+      "generated_at": "2026-04-04T21:03:17.318602"
+    },
+    {
+      "english": "Face challenges, with courage.",
+      "japanese": "困難に、勇気を持って。",
+      "romaji": "Konnan ni, yuuki wo motte.",
+      "category": "Strength",
+      "generated_at": "2026-04-04T21:03:17.318603"
     }
   ],
-  "last_updated": "2026-04-04T18:01:56.965287"
+  "last_updated": "2026-04-04T21:03:17.318605"
 }
