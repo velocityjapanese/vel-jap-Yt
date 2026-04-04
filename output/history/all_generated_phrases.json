@@ -454,7 +454,42 @@
       "romaji": "Yasashii omoi, sotto saku.",
       "category": "Mindfulness",
       "generated_at": "2026-04-04T05:15:31.604739"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "japanese": "ちょっと見てるだけです、ありがとう。",
+      "romaji": "Chotto miteru dake desu, arigatou.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-04-04T14:04:07.136618"
+    },
+    {
+      "english": "Do you have this, smaller?",
+      "japanese": "これの、小さいサイズはありますか？",
+      "romaji": "Kore no, chiisai saizu wa arimasu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-04-04T14:04:07.136627"
+    },
+    {
+      "english": "Can I try this on?",
+      "japanese": "これを試着してもいいですか？",
+      "romaji": "Kore o shichaku shite mo ii desu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-04-04T14:04:07.136628"
+    },
+    {
+      "english": "This color is nice.",
+      "japanese": "この色、いいですね。",
+      "romaji": "Kono iro, ii desu ne.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-04-04T14:04:07.136629"
+    },
+    {
+      "english": "I'll take this one.",
+      "japanese": "これをください。",
+      "romaji": "Kore o kudasai.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-04-04T14:04:07.136631"
     }
   ],
-  "last_updated": "2026-04-04T05:15:31.604741"
+  "last_updated": "2026-04-04T14:04:07.136633"
 }
