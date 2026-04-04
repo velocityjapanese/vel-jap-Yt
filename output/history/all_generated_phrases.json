@@ -524,7 +524,42 @@
       "romaji": "Anata nara dekiru, wakatteru.",
       "category": "Hope",
       "generated_at": "2026-04-04T15:05:01.408700"
+    },
+    {
+      "english": "Hello, how are you?",
+      "japanese": "こんにちは、お元気ですか？",
+      "romaji": "konnichiwa, ogenki desu ka?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-04T18:01:56.965272"
+    },
+    {
+      "english": "Excuse me, please wait.",
+      "japanese": "すみません、ちょっと待ってください。",
+      "romaji": "sumimasen, chotto matte kudasai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-04T18:01:56.965281"
+    },
+    {
+      "english": "I don't understand.",
+      "japanese": "わかりません、ごめんなさい。",
+      "romaji": "wakarimasen, gomen nasai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-04T18:01:56.965283"
+    },
+    {
+      "english": "Where is the station?",
+      "japanese": "駅はどこですか？",
+      "romaji": "eki wa doko desu ka?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-04T18:01:56.965284"
+    },
+    {
+      "english": "This, is delicious.",
+      "japanese": "これは、美味しいです。",
+      "romaji": "kore wa, oishii desu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-04T18:01:56.965285"
     }
   ],
-  "last_updated": "2026-04-04T15:05:01.408702"
+  "last_updated": "2026-04-04T18:01:56.965287"
 }
