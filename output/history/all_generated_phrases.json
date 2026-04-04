@@ -489,7 +489,42 @@
       "romaji": "Kore o kudasai.",
       "category": "Shopping Japanese",
       "generated_at": "2026-04-04T14:04:07.136631"
+    },
+    {
+      "english": "Even a small step, forward.",
+      "japanese": "小さな一歩でも、前へ。",
+      "romaji": "Chiisana ippo demo, mae e.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T15:05:01.408688"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "japanese": "自分を信じて、いつも。",
+      "romaji": "Jibun o shinjite, itsumo.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T15:05:01.408696"
+    },
+    {
+      "english": "Tomorrow will be better, I think.",
+      "japanese": "明日はきっと、良くなる。",
+      "romaji": "Ashita wa kitto, yoku naru.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T15:05:01.408698"
+    },
+    {
+      "english": "A new beginning, awaits.",
+      "japanese": "新しい始まりが、待っている。",
+      "romaji": "Atarashii hajimari ga, matte iru.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T15:05:01.408699"
+    },
+    {
+      "english": "You can do it, I know.",
+      "japanese": "あなたならできる、分かってる。",
+      "romaji": "Anata nara dekiru, wakatteru.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T15:05:01.408700"
     }
   ],
-  "last_updated": "2026-04-04T14:04:07.136633"
+  "last_updated": "2026-04-04T15:05:01.408702"
 }
