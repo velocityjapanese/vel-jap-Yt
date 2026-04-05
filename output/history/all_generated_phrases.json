@@ -664,7 +664,42 @@
       "romaji": "gamantsuyoku, shuuchuu wo tamotsu.",
       "category": "Balance",
       "generated_at": "2026-04-05T14:05:08.296254"
+    },
+    {
+      "english": "One, is it enough?",
+      "japanese": "一つ、でいいですか？",
+      "romaji": "hitotsu, de ii desu ka?",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-05T15:49:42.951134"
+    },
+    {
+      "english": "Two, please come in.",
+      "japanese": "二人、どうぞお入りください。",
+      "romaji": "futari, douzo ohairi kudasai.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-05T15:49:42.951143"
+    },
+    {
+      "english": "Three, it's a good number.",
+      "japanese": "三つ、いい数字ですね。",
+      "romaji": "mittsu, ii suuji desu ne.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-05T15:49:42.951149"
+    },
+    {
+      "english": "Four, that's four people.",
+      "japanese": "四人、それが四人です。",
+      "romaji": "yohnin, sore ga yohnin desu.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-05T15:49:42.951150"
+    },
+    {
+      "english": "Five, how many, exactly?",
+      "japanese": "五つ、いくつ、正確には？",
+      "romaji": "itsutsu, ikutsu, seikaku ni wa?",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-05T15:49:42.951151"
     }
   ],
-  "last_updated": "2026-04-05T14:05:08.296255"
+  "last_updated": "2026-04-05T15:49:42.951153"
 }
