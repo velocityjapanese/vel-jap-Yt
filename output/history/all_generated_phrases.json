@@ -629,7 +629,42 @@
       "romaji": "Anata to iru to, sekai ga akaruku narimasu.",
       "category": "Love",
       "generated_at": "2026-04-05T05:56:34.272218"
+    },
+    {
+      "english": "Work hard, play harder.",
+      "japanese": "一生懸命働く、もっと楽しむ。",
+      "romaji": "isshoukenmei hataraku, motto tanoshimu.",
+      "category": "Balance",
+      "generated_at": "2026-04-05T14:05:08.296235"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "japanese": "よく聞いて、少し話す。",
+      "romaji": "yoku kiite, sukoshi hanasu.",
+      "category": "Balance",
+      "generated_at": "2026-04-05T14:05:08.296248"
+    },
+    {
+      "english": "Learn deeply, teach simply.",
+      "japanese": "深く学び、分かりやすく教える。",
+      "romaji": "fukaku manabi, wakariyasuku oshieru.",
+      "category": "Balance",
+      "generated_at": "2026-04-05T14:05:08.296250"
+    },
+    {
+      "english": "Think big, act now.",
+      "japanese": "大きく考え、すぐに行動。",
+      "romaji": "ookiku kangae, sugu ni koudou.",
+      "category": "Balance",
+      "generated_at": "2026-04-05T14:05:08.296252"
+    },
+    {
+      "english": "Be patient, stay focused.",
+      "japanese": "我慢強く、集中を保つ。",
+      "romaji": "gamantsuyoku, shuuchuu wo tamotsu.",
+      "category": "Balance",
+      "generated_at": "2026-04-05T14:05:08.296254"
     }
   ],
-  "last_updated": "2026-04-05T05:56:34.272220"
+  "last_updated": "2026-04-05T14:05:08.296255"
 }
