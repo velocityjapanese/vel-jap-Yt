@@ -874,7 +874,42 @@
       "romaji": "anata no kokoro ni, mimi o sumasete.",
       "category": "Inner Peace",
       "generated_at": "2026-04-06T16:12:15.412324"
+    },
+    {
+      "english": "Learn Japanese, for travel.",
+      "japanese": "日本語を勉強します、旅行のために。",
+      "romaji": "Nihongo o benkyou shimasu, ryokou no tame ni.",
+      "category": "Purpose",
+      "generated_at": "2026-04-06T19:57:13.292981"
+    },
+    {
+      "english": "Study hard, to pass the test.",
+      "japanese": "テストに合格するために、一生懸命勉強します。",
+      "romaji": "Tesuto ni goukaku suru tame ni, isshoukenmei benkyou shimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-04-06T19:57:13.292988"
+    },
+    {
+      "english": "Practice speaking, to get better.",
+      "japanese": "上達するために、話す練習をします。",
+      "romaji": "Joutatsu suru tame ni, hanasu renshuu o shimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-04-06T19:57:13.292990"
+    },
+    {
+      "english": "Read manga, for fun.",
+      "japanese": "趣味で、漫画を読みます。",
+      "romaji": "Shumi de, manga o yomimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-04-06T19:57:13.292991"
+    },
+    {
+      "english": "Watch anime, to understand.",
+      "japanese": "理解するために、アニメを見ます。",
+      "romaji": "Rikai suru tame ni, anime o mimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-04-06T19:57:13.292992"
     }
   ],
-  "last_updated": "2026-04-06T16:12:15.412326"
+  "last_updated": "2026-04-06T19:57:13.292994"
 }
