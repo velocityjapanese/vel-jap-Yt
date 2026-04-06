@@ -839,7 +839,42 @@
       "romaji": "Chiisana shinsetsu ga, ookina henka o.",
       "category": "Kindness",
       "generated_at": "2026-04-06T14:39:20.959452"
+    },
+    {
+      "english": "Breathe in calm, breathe out stress.",
+      "japanese": "静けさを吸い込み、ストレスを吐き出す。",
+      "romaji": "shizukesa o suikomi, sutoresu o hakidasu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-06T16:12:15.412311"
+    },
+    {
+      "english": "Find your center, gently.",
+      "japanese": "あなたの中心を、優しく見つけましょう。",
+      "romaji": "anata no chuushin o, yasashiku mitsukemashou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-06T16:12:15.412320"
+    },
+    {
+      "english": "Stillness, within you.",
+      "japanese": "静寂は、あなたの中に。",
+      "romaji": "seijaku wa, anata no naka ni.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-06T16:12:15.412322"
+    },
+    {
+      "english": "Let go, of worries.",
+      "japanese": "心配事を、手放しましょう。",
+      "romaji": "shinpai goto o, tebanashimashou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-06T16:12:15.412323"
+    },
+    {
+      "english": "Listen, to your heart.",
+      "japanese": "あなたの心に、耳を澄ませて。",
+      "romaji": "anata no kokoro ni, mimi o sumasete.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-06T16:12:15.412324"
     }
   ],
-  "last_updated": "2026-04-06T14:39:20.959454"
+  "last_updated": "2026-04-06T16:12:15.412326"
 }
