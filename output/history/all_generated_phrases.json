@@ -979,7 +979,42 @@
       "romaji": "Zutto, tomodachi de imashou.",
       "category": "Friendship",
       "generated_at": "2026-04-07T17:37:23.263715"
+    },
+    {
+      "english": "Right now, let's start.",
+      "japanese": "今すぐ、始めましょう。",
+      "romaji": "Ima sugu, hajimemashou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-04-07T20:01:22.895787"
+    },
+    {
+      "english": "Later, maybe tomorrow.",
+      "japanese": "後で、たぶん明日。",
+      "romaji": "Ato de, tabun ashita.",
+      "category": "Time Japanese",
+      "generated_at": "2026-04-07T20:01:22.895794"
+    },
+    {
+      "english": "Just a moment, please.",
+      "japanese": "少々お待ちください。",
+      "romaji": "Shoushou omachi kudasai.",
+      "category": "Time Japanese",
+      "generated_at": "2026-04-07T20:01:22.895795"
+    },
+    {
+      "english": "It's already late.",
+      "japanese": "もう遅いですね。",
+      "romaji": "Mou osoi desu ne.",
+      "category": "Time Japanese",
+      "generated_at": "2026-04-07T20:01:22.895797"
+    },
+    {
+      "english": "After a while, we'll go.",
+      "japanese": "しばらくしたら、行きます。",
+      "romaji": "Shibaraku shitara, ikimasu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-04-07T20:01:22.895798"
     }
   ],
-  "last_updated": "2026-04-07T17:37:23.263717"
+  "last_updated": "2026-04-07T20:01:22.895799"
 }
