@@ -909,7 +909,42 @@
       "romaji": "Rikai suru tame ni, anime o mimasu.",
       "category": "Purpose",
       "generated_at": "2026-04-06T19:57:13.292992"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "japanese": "進んで、止まらないで。",
+      "romaji": "susunde, tomaranaide.",
+      "category": "Confidence",
+      "generated_at": "2026-04-07T06:00:07.254998"
+    },
+    {
+      "english": "Mistakes are learning, right?",
+      "japanese": "間違いは学び、でしょ？",
+      "romaji": "machigai wa manabi, desho?",
+      "category": "Confidence",
+      "generated_at": "2026-04-07T06:00:07.255007"
+    },
+    {
+      "english": "You are amazing, seriously.",
+      "japanese": "すごいよ、マジで。",
+      "romaji": "sugoi yo, maji de.",
+      "category": "Confidence",
+      "generated_at": "2026-04-07T06:00:07.255009"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "japanese": "話してみて、声は大切。",
+      "romaji": "hanashite mite, koe wa taisetsu.",
+      "category": "Confidence",
+      "generated_at": "2026-04-07T06:00:07.255010"
+    },
+    {
+      "english": "Little by little, you'll get there.",
+      "japanese": "少しずつ、たどり着くよ。",
+      "romaji": "sukoshi zutsu, tadoritsuku yo.",
+      "category": "Confidence",
+      "generated_at": "2026-04-07T06:00:07.255011"
     }
   ],
-  "last_updated": "2026-04-06T19:57:13.292994"
+  "last_updated": "2026-04-07T06:00:07.255012"
 }
