@@ -1049,7 +1049,42 @@
       "romaji": "Kore, totemo oishii desu!",
       "category": "Travel Japanese",
       "generated_at": "2026-04-08T06:03:10.037353"
+    },
+    {
+      "english": "Deeply, thankful.",
+      "japanese": "深く、感謝します。",
+      "romaji": "fukaku, kansha shimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T17:26:43.360492"
+    },
+    {
+      "english": "This means a lot, thank you.",
+      "japanese": "とても嬉しいです、ありがとう。",
+      "romaji": "totemo ureshī desu, arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T17:26:43.360503"
+    },
+    {
+      "english": "I owe you, one.",
+      "japanese": "恩に着ます、本当に。",
+      "romaji": "on ni kimasu, hontō ni.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T17:26:43.360505"
+    },
+    {
+      "english": "So helpful, thank you.",
+      "japanese": "助かります、ありがとう。",
+      "romaji": "tasukarimasu, arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T17:26:43.360506"
+    },
+    {
+      "english": "You're the best, really.",
+      "japanese": "最高です、本当に。",
+      "romaji": "saikō desu, hontō ni.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T17:26:43.360507"
     }
   ],
-  "last_updated": "2026-04-08T06:03:10.037355"
+  "last_updated": "2026-04-08T17:26:43.360509"
 }
