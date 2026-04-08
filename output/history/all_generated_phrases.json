@@ -1014,7 +1014,42 @@
       "romaji": "Shibaraku shitara, ikimasu.",
       "category": "Time Japanese",
       "generated_at": "2026-04-07T20:01:22.895798"
+    },
+    {
+      "english": "Do you have this, perhaps?",
+      "japanese": "これ、ありますか？",
+      "romaji": "Kore, arimasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-08T06:03:10.037338"
+    },
+    {
+      "english": "Thank you very much, indeed.",
+      "japanese": "本当に、ありがとうございます。",
+      "romaji": "Hontou ni, arigatou gozaimasu.",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-08T06:03:10.037349"
+    },
+    {
+      "english": "I'm looking for a restroom.",
+      "japanese": "トイレは、どこですか？",
+      "romaji": "Toire wa, doko desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-08T06:03:10.037351"
+    },
+    {
+      "english": "Could you recommend something?",
+      "japanese": "何か、おすすめはありますか？",
+      "romaji": "Nanika, osusume wa arimasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-08T06:03:10.037352"
+    },
+    {
+      "english": "This is very delicious!",
+      "japanese": "これ、とても美味しいです！",
+      "romaji": "Kore, totemo oishii desu!",
+      "category": "Travel Japanese",
+      "generated_at": "2026-04-08T06:03:10.037353"
     }
   ],
-  "last_updated": "2026-04-07T20:01:22.895799"
+  "last_updated": "2026-04-08T06:03:10.037355"
 }
