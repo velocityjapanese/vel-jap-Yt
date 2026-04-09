@@ -1259,7 +1259,42 @@
       "romaji": "mizu no you ni, nagareru.",
       "category": "Inner Peace",
       "generated_at": "2026-04-09T20:10:13.087108"
+    },
+    {
+      "english": "May I have a table, for two, please?",
+      "japanese": "二人席、お願いします。",
+      "romaji": "futari seki, onegaishimasu.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-04-09T22:02:06.380813"
+    },
+    {
+      "english": "What is today's, special dish?",
+      "japanese": "今日のおすすめは、何ですか？",
+      "romaji": "kyou no osusume wa, nan desu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-04-09T22:02:06.380826"
+    },
+    {
+      "english": "Could I see, the menu, please?",
+      "japanese": "メニューを、見せてもらえますか？",
+      "romaji": "menyuu o, misete moraemasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-04-09T22:02:06.380828"
+    },
+    {
+      "english": "This looks, delicious, thank you.",
+      "japanese": "美味しそうですね、ありがとうございます。",
+      "romaji": "oishisou desu ne, arigatou gozaimasu.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-04-09T22:02:06.380829"
+    },
+    {
+      "english": "Excuse me, water, please.",
+      "japanese": "すみません、お水、ください。",
+      "romaji": "sumimasen, omizu, kudasai.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-04-09T22:02:06.380830"
     }
   ],
-  "last_updated": "2026-04-09T20:10:13.087116"
+  "last_updated": "2026-04-09T22:02:06.380832"
 }
