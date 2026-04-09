@@ -1154,7 +1154,42 @@
       "romaji": "Jibun ni yasashiku, kyou.",
       "category": "Mindfulness",
       "generated_at": "2026-04-08T20:03:59.300265"
+    },
+    {
+      "english": "Every mistake, is a lesson.",
+      "japanese": "どんな間違いも、学びです。",
+      "romaji": "Donna machigai mo, manabi desu.",
+      "category": "Motivation",
+      "generated_at": "2026-04-09T06:00:44.496053"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "japanese": "続けて、諦めないで。",
+      "romaji": "Tsuzukete, akiramenaide.",
+      "category": "Motivation",
+      "generated_at": "2026-04-09T06:00:44.496059"
+    },
+    {
+      "english": "Your effort, will pay off.",
+      "japanese": "あなたの努力は、報われます。",
+      "romaji": "Anata no doryoku wa, mukawaremasu.",
+      "category": "Motivation",
+      "generated_at": "2026-04-09T06:00:44.496061"
+    },
+    {
+      "english": "Enjoy the journey, of learning.",
+      "japanese": "学ぶ旅を、楽しんでください。",
+      "romaji": "Manabu tabi o, tanoshinde kudasai.",
+      "category": "Motivation",
+      "generated_at": "2026-04-09T06:00:44.496062"
+    },
+    {
+      "english": "One word, at a time.",
+      "japanese": "一度に、一語ずつ。",
+      "romaji": "Ichido ni, ichigo zutsu.",
+      "category": "Motivation",
+      "generated_at": "2026-04-09T06:00:44.496063"
     }
   ],
-  "last_updated": "2026-04-08T20:03:59.300267"
+  "last_updated": "2026-04-09T06:00:44.496065"
 }
