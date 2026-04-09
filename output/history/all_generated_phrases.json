@@ -1224,7 +1224,42 @@
       "romaji": "yukkuri seichou shi, mankai ni saku.",
       "category": "Balance",
       "generated_at": "2026-04-09T18:00:59.143055"
+    },
+    {
+      "english": "Peace, is a choice.",
+      "japanese": "平和は、選択です。",
+      "romaji": "heiwa wa, sentaku desu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-09T20:10:13.087089"
+    },
+    {
+      "english": "Simply be, present.",
+      "japanese": "ただ、今にいる。",
+      "romaji": "tada, ima ni iru.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-09T20:10:13.087100"
+    },
+    {
+      "english": "Soft breath, soft mind.",
+      "japanese": "穏やかな息、穏やかな心。",
+      "romaji": "odayaka na iki, odayaka na kokoro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-09T20:10:13.087103"
+    },
+    {
+      "english": "Inner calm, shines.",
+      "japanese": "内なる静けさが、輝く。",
+      "romaji": "uchinaru shizukesa ga, kagayaku.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-09T20:10:13.087106"
+    },
+    {
+      "english": "Flow, like water.",
+      "japanese": "水のように、流れる。",
+      "romaji": "mizu no you ni, nagareru.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-09T20:10:13.087108"
     }
   ],
-  "last_updated": "2026-04-09T18:00:59.143057"
+  "last_updated": "2026-04-09T20:10:13.087116"
 }
