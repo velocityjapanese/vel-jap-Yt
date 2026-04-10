@@ -1294,7 +1294,42 @@
       "romaji": "sumimasen, omizu, kudasai.",
       "category": "Restaurant Japanese",
       "generated_at": "2026-04-09T22:02:06.380830"
+    },
+    {
+      "english": "Focus now, succeed later.",
+      "japanese": "今に集中、後に成功。",
+      "romaji": "Ima ni shuuchuu, ato ni seikou.",
+      "category": "Success",
+      "generated_at": "2026-04-10T14:41:28.454303"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "japanese": "忍耐は、報いをもたらす。",
+      "romaji": "Nintai wa, muku i o motarasu.",
+      "category": "Success",
+      "generated_at": "2026-04-10T14:41:28.454312"
+    },
+    {
+      "english": "Your effort, shines bright.",
+      "japanese": "君の努力、輝く。",
+      "romaji": "Kimi no doryoku, kagayaku.",
+      "category": "Success",
+      "generated_at": "2026-04-10T14:41:28.454314"
+    },
+    {
+      "english": "Mistakes are, lessons learned.",
+      "japanese": "間違いは、学びの糧。",
+      "romaji": "Machigai wa, manabi no kate.",
+      "category": "Success",
+      "generated_at": "2026-04-10T14:41:28.454315"
+    },
+    {
+      "english": "Reach your goals, slowly.",
+      "japanese": "目標へ、ゆっくりと。",
+      "romaji": "Mokuhyou e, yukkuri to.",
+      "category": "Success",
+      "generated_at": "2026-04-10T14:41:28.454316"
     }
   ],
-  "last_updated": "2026-04-09T22:02:06.380832"
+  "last_updated": "2026-04-10T14:41:28.454318"
 }
