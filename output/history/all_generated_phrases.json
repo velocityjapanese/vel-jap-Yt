@@ -1399,7 +1399,42 @@
       "romaji": "shinbou tsuyoku, zenshin shi tsuzukeyou.",
       "category": "Growth",
       "generated_at": "2026-04-10T21:57:02.816632"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "japanese": "母は、優しいです。",
+      "romaji": "haha wa, yasashii desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-04-11T05:19:32.621216"
+    },
+    {
+      "english": "Father, please rest.",
+      "japanese": "お父さん、休んでください。",
+      "romaji": "otousan, yasunde kudasai.",
+      "category": "Family Terms",
+      "generated_at": "2026-04-11T05:19:32.621226"
+    },
+    {
+      "english": "Older sister, where are you?",
+      "japanese": "お姉ちゃん、どこ？",
+      "romaji": "oneechan, doko?",
+      "category": "Family Terms",
+      "generated_at": "2026-04-11T05:19:32.621228"
+    },
+    {
+      "english": "Younger brother, play here.",
+      "japanese": "弟、ここで遊んで。",
+      "romaji": "otouto, koko de asonde.",
+      "category": "Family Terms",
+      "generated_at": "2026-04-11T05:19:32.621229"
+    },
+    {
+      "english": "Grandfather, is he well?",
+      "japanese": "おじいさん、元気ですか？",
+      "romaji": "ojiisan, genki desu ka?",
+      "category": "Family Terms",
+      "generated_at": "2026-04-11T05:19:32.621230"
     }
   ],
-  "last_updated": "2026-04-10T21:57:02.816633"
+  "last_updated": "2026-04-11T05:19:32.621232"
 }
