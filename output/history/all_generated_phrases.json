@@ -1434,7 +1434,42 @@
       "romaji": "ojiisan, genki desu ka?",
       "category": "Family Terms",
       "generated_at": "2026-04-11T05:19:32.621230"
+    },
+    {
+      "english": "Six, we need six.",
+      "japanese": "六つ、私たちには六つ必要です。",
+      "romaji": "muttsu, watashitachi ni wa muttsu hitsuyou desu.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-11T18:03:18.733014"
+    },
+    {
+      "english": "Seven, it's seven o'clock.",
+      "japanese": "七時、七時です。",
+      "romaji": "shichiji, shichiji desu.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-11T18:03:18.733025"
+    },
+    {
+      "english": "Eight, can you make eight?",
+      "japanese": "八つ、八つ作れますか？",
+      "romaji": "yattsu, yattsu tsukuremasu ka?",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-11T18:03:18.733028"
+    },
+    {
+      "english": "Nine, almost ten, right?",
+      "japanese": "九つ、もうすぐ十ですね？",
+      "romaji": "kokonotsu, mou sugu juu desu ne?",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-11T18:03:18.733030"
+    },
+    {
+      "english": "Ten, ten is perfect.",
+      "japanese": "十個、十個が完璧です。",
+      "romaji": "juukko, juukko ga kanpeki desu.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-04-11T18:03:18.733033"
     }
   ],
-  "last_updated": "2026-04-11T05:19:32.621232"
+  "last_updated": "2026-04-11T18:03:18.733035"
 }
