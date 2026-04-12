@@ -1469,7 +1469,42 @@
       "romaji": "juukko, juukko ga kanpeki desu.",
       "category": "Numbers Japanese",
       "generated_at": "2026-04-11T18:03:18.733033"
+    },
+    {
+      "english": "See you soon, take care.",
+      "japanese": "またすぐ、お元気で。",
+      "romaji": "Mata sugu, ogenki de.",
+      "category": "Greetings",
+      "generated_at": "2026-04-12T06:11:22.949946"
+    },
+    {
+      "english": "How are you, today?",
+      "japanese": "お元気ですか、今日は？",
+      "romaji": "Ogenki desu ka, kyou wa?",
+      "category": "Greetings",
+      "generated_at": "2026-04-12T06:11:22.949955"
+    },
+    {
+      "english": "Long time no see, friend.",
+      "japanese": "お久しぶりです、友人よ。",
+      "romaji": "Ohisashiburi desu, yuujin yo.",
+      "category": "Greetings",
+      "generated_at": "2026-04-12T06:11:22.949956"
+    },
+    {
+      "english": "Hello, just checking in.",
+      "japanese": "こんにちは、ちょっと様子を見に来ました。",
+      "romaji": "Konnichiwa, chotto yousu o mi ni kimashita.",
+      "category": "Greetings",
+      "generated_at": "2026-04-12T06:11:22.949957"
+    },
+    {
+      "english": "Hi there, ready for today?",
+      "japanese": "やあ、今日の準備はできましたか？",
+      "romaji": "Yaa, kyou no junbi wa dekimashita ka?",
+      "category": "Greetings",
+      "generated_at": "2026-04-12T06:11:22.949958"
     }
   ],
-  "last_updated": "2026-04-11T18:03:18.733035"
+  "last_updated": "2026-04-12T06:11:22.949960"
 }
