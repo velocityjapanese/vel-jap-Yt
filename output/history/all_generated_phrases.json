@@ -1539,7 +1539,42 @@
       "romaji": "Kokoro kara, kansha o tsutaeyou.",
       "category": "Kindness",
       "generated_at": "2026-04-12T19:29:29.853612"
+    },
+    {
+      "english": "Breathe slowly, steady your mind, then act",
+      "japanese": "ゆっくり呼吸して, 気持ちを整え, から行動する",
+      "romaji": "yukkuri kokyū shite, kimochi o totonoete, kara kōdō suru",
+      "category": "Balance",
+      "generated_at": "2026-07-12T02:46:51.332090"
+    },
+    {
+      "english": "Pause for a moment, keep your balance",
+      "japanese": "いったん止まって, バランスを保つ",
+      "romaji": "ittan tomatte, baransu o tamotsu",
+      "category": "Balance",
+      "generated_at": "2026-07-12T02:46:51.332100"
+    },
+    {
+      "english": "Choose one thing, do it calmly",
+      "japanese": "一つに決めて, 落ち着いてやる",
+      "romaji": "hitotsu ni kimete, ochitsuite yaru",
+      "category": "Balance",
+      "generated_at": "2026-07-12T02:46:51.332101"
+    },
+    {
+      "english": "Listen first, speak after, stay gentle",
+      "japanese": "まず聞いて, それから話して, やさしく",
+      "romaji": "mazu kiite, sorekara hanashite, yasashiku",
+      "category": "Balance",
+      "generated_at": "2026-07-12T02:46:51.332102"
+    },
+    {
+      "english": "Even when busy, move with patience",
+      "japanese": "忙しくても, 焦らず進む",
+      "romaji": "isogashikute mo, aserazu susumu",
+      "category": "Balance",
+      "generated_at": "2026-07-12T02:46:51.332103"
     }
   ],
-  "last_updated": "2026-04-12T19:29:29.853614"
+  "last_updated": "2026-07-12T02:46:51.332104"
 }
