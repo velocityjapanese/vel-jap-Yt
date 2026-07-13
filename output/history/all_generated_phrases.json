@@ -1644,7 +1644,42 @@
       "romaji": "Itsumo, arigatou.",
       "category": "Friendship",
       "generated_at": "2026-07-12T20:51:45.703425"
+    },
+    {
+      "english": "Do you have this size?",
+      "japanese": "このサイズ、ありますか？",
+      "romaji": "Kono saizu, arimasu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-13T16:28:41.761179"
+    },
+    {
+      "english": "Is there a discount?",
+      "japanese": "割引はありますか？",
+      "romaji": "Waribiki wa arimasu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-13T16:28:41.761187"
+    },
+    {
+      "english": "I need a bag, please.",
+      "japanese": "袋、お願いします。",
+      "romaji": "Fukuro, onegaishimasu.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-13T16:28:41.761189"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "japanese": "試着室はどこですか？",
+      "romaji": "Shichakushitsu wa doko desu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-13T16:28:41.761190"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "japanese": "クレジットカード、使えますか？",
+      "romaji": "Kurejitto kaado, tsukaemasu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-13T16:28:41.761191"
     }
   ],
-  "last_updated": "2026-07-12T20:51:45.703426"
+  "last_updated": "2026-07-13T16:28:41.761193"
 }
