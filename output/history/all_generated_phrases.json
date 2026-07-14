@@ -1714,7 +1714,42 @@
       "romaji": "Nintai wa, anata no shinyuu.",
       "category": "Growth",
       "generated_at": "2026-07-13T20:58:27.834215"
+    },
+    {
+      "english": "Feeling a bit tired, today.",
+      "japanese": "今日は、少し疲れています。",
+      "romaji": "kyō wa, sukoshi tsukarete imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-14T15:21:46.431641"
+    },
+    {
+      "english": "So happy, right now.",
+      "japanese": "今、とても嬉しいです。",
+      "romaji": "ima, totemo ureshī desu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-14T15:21:46.431650"
+    },
+    {
+      "english": "Feeling lonely, sometimes.",
+      "japanese": "時々、寂しいです。",
+      "romaji": "tokidoki, sabishī desu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-14T15:21:46.431652"
+    },
+    {
+      "english": "A little nervous, I think.",
+      "japanese": "少し、緊張しています。",
+      "romaji": "sukoshi, kinchō shite imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-14T15:21:46.431653"
+    },
+    {
+      "english": "Feeling excited, for sure.",
+      "japanese": "確かに、ワクワクしています。",
+      "romaji": "tashika ni, wakuwaku shite imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-14T15:21:46.431654"
     }
   ],
-  "last_updated": "2026-07-13T20:58:27.834217"
+  "last_updated": "2026-07-14T15:21:46.431656"
 }
