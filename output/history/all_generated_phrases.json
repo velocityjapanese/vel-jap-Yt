@@ -1819,7 +1819,42 @@
       "romaji": "konbini no, tonari ni arimasu.",
       "category": "Direction Japanese",
       "generated_at": "2026-07-15T15:24:53.294787"
+    },
+    {
+      "english": "Listen, the wind whispers.",
+      "japanese": "聞いて、風がささやいている。",
+      "romaji": "Kiite, kaze ga sasayaite iru.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-07-15T21:02:34.764041"
+    },
+    {
+      "english": "Look, a flower blooms.",
+      "japanese": "見て、花が咲いている。",
+      "romaji": "Mite, hana ga saite iru.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-07-15T21:02:34.764050"
+    },
+    {
+      "english": "Feel, the sun's warmth.",
+      "japanese": "感じて、太陽の暖かさ。",
+      "romaji": "Kanjite, taiyou no atatakasa.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-07-15T21:02:34.764051"
+    },
+    {
+      "english": "The river flows, peacefully.",
+      "japanese": "川が流れる、静かに。",
+      "romaji": "Kawa ga nagareru, shizuka ni.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-07-15T21:02:34.764053"
+    },
+    {
+      "english": "See, the stars shine.",
+      "japanese": "見て、星が輝いている。",
+      "romaji": "Mite, hoshi ga kagayaite iru.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-07-15T21:02:34.764054"
     }
   ],
-  "last_updated": "2026-07-15T15:24:53.294789"
+  "last_updated": "2026-07-15T21:02:34.764056"
 }
