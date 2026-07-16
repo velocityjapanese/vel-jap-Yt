@@ -1854,7 +1854,42 @@
       "romaji": "Mite, hoshi ga kagayaite iru.",
       "category": "Nature Japanese",
       "generated_at": "2026-07-15T21:02:34.764054"
+    },
+    {
+      "english": "Joyful heart, bright day.",
+      "japanese": "楽しい心、明るい日。",
+      "romaji": "tanoshii kokoro, akarui hi.",
+      "category": "Happiness",
+      "generated_at": "2026-07-16T15:30:05.797718"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "japanese": "もっと笑って、悩み減らそう。",
+      "romaji": "motto waratte, nayami herasou.",
+      "category": "Happiness",
+      "generated_at": "2026-07-16T15:30:05.797730"
+    },
+    {
+      "english": "Find beauty, everywhere.",
+      "japanese": "美しさを見つけよう、どこにでも。",
+      "romaji": "utsukushisa o mitsukeyou, doko ni demo.",
+      "category": "Happiness",
+      "generated_at": "2026-07-16T15:30:05.797731"
+    },
+    {
+      "english": "Peace within, peace without.",
+      "japanese": "内なる平和、外なる平和。",
+      "romaji": "uchinaru heiwa, gainaru heiwa.",
+      "category": "Happiness",
+      "generated_at": "2026-07-16T15:30:05.797732"
+    },
+    {
+      "english": "Cherish small moments.",
+      "japanese": "小さな瞬間を大切に。",
+      "romaji": "chiisana shunkan o taisetsu ni.",
+      "category": "Happiness",
+      "generated_at": "2026-07-16T15:30:05.797734"
     }
   ],
-  "last_updated": "2026-07-15T21:02:34.764056"
+  "last_updated": "2026-07-16T15:30:05.797736"
 }
