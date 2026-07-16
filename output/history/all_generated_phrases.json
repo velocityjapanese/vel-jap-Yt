@@ -1889,7 +1889,42 @@
       "romaji": "chiisana shunkan o taisetsu ni.",
       "category": "Happiness",
       "generated_at": "2026-07-16T15:30:05.797734"
+    },
+    {
+      "english": "I love you, quietly, every day",
+      "japanese": "あなたを、静かに、毎日愛しています",
+      "romaji": "anata o, shizuka ni, mainichi aishiteimasu",
+      "category": "Love",
+      "generated_at": "2026-07-16T21:02:32.504546"
+    },
+    {
+      "english": "Stay with me, tonight, just a little",
+      "japanese": "今夜は、少しだけ、そばにいて",
+      "romaji": "kon'ya wa, sukoshi dake, soba ni ite",
+      "category": "Love",
+      "generated_at": "2026-07-16T21:02:32.504554"
+    },
+    {
+      "english": "My heart is yours, forever, okay",
+      "japanese": "私の心は、ずっと、あなたのもの",
+      "romaji": "watashi no kokoro wa, zutto, anata no mono",
+      "category": "Love",
+      "generated_at": "2026-07-16T21:02:32.504556"
+    },
+    {
+      "english": "I miss you, softly, when you’re away",
+      "japanese": "会えないとき、やさしく、あなたが恋しい",
+      "romaji": "aenai toki, yasashiku, anata ga koishii",
+      "category": "Love",
+      "generated_at": "2026-07-16T21:02:32.504557"
+    },
+    {
+      "english": "Let’s walk together, hand in hand",
+      "japanese": "手をつないで、一緒に歩こう",
+      "romaji": "te o tsunaide, issho ni arukou",
+      "category": "Love",
+      "generated_at": "2026-07-16T21:02:32.504559"
     }
   ],
-  "last_updated": "2026-07-16T15:30:05.797736"
+  "last_updated": "2026-07-16T21:02:32.504560"
 }
