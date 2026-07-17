@@ -1959,7 +1959,42 @@
       "romaji": "kenkou no tame, yoku tabete, yoku neyou.",
       "category": "Purpose",
       "generated_at": "2026-07-17T15:10:49.585891"
+    },
+    {
+      "english": "Breathe deep, keep going, today.",
+      "japanese": "深呼吸して, 進もう, 今日も。",
+      "romaji": "shinkokyuu shite, susumou, kyou mo",
+      "category": "Strength",
+      "generated_at": "2026-07-17T20:58:43.084339"
+    },
+    {
+      "english": "Stand up now, move forward, slowly.",
+      "japanese": "今立ち上がって, 前へ, ゆっくり。",
+      "romaji": "ima tachiagatte, mae e, yukkuri",
+      "category": "Strength",
+      "generated_at": "2026-07-17T20:58:43.084348"
+    },
+    {
+      "english": "One step, then another, you can.",
+      "japanese": "一歩ずつ, また一歩, できる。",
+      "romaji": "ippo zutsu, mata ippo, dekiru",
+      "category": "Strength",
+      "generated_at": "2026-07-17T20:58:43.084349"
+    },
+    {
+      "english": "Stay calm, focus on the next.",
+      "japanese": "落ち着いて, 次に集中。",
+      "romaji": "ochitsuite, tsugi ni shuchuu",
+      "category": "Strength",
+      "generated_at": "2026-07-17T20:58:43.084351"
+    },
+    {
+      "english": "Fail once, learn fast, try again.",
+      "japanese": "一度失敗して, 早く学び, また挑戦。",
+      "romaji": "ichido shippai shite, hayaku manabi, mata chousen",
+      "category": "Strength",
+      "generated_at": "2026-07-17T20:58:43.084352"
     }
   ],
-  "last_updated": "2026-07-17T15:10:49.585893"
+  "last_updated": "2026-07-17T20:58:43.084354"
 }
