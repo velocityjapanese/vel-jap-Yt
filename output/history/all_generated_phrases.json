@@ -1924,7 +1924,42 @@
       "romaji": "te o tsunaide, issho ni arukou",
       "category": "Love",
       "generated_at": "2026-07-16T21:02:32.504559"
+    },
+    {
+      "english": "Let's practice, little by little.",
+      "japanese": "少しずつ、練習しましょう。",
+      "romaji": "sukoshi zutsu, renshuu shimashou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T15:10:49.585879"
+    },
+    {
+      "english": "To understand, we must listen.",
+      "japanese": "理解するため、聞きましょう。",
+      "romaji": "rikai suru tame, kikimashou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T15:10:49.585887"
+    },
+    {
+      "english": "For a better future, study hard.",
+      "japanese": "より良い未来のために、勉強しよう。",
+      "romaji": "yori yoi mirai no tame ni, benkyou shiyou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T15:10:49.585889"
+    },
+    {
+      "english": "To communicate, speak clearly.",
+      "japanese": "伝えるために、はっきり話そう。",
+      "romaji": "tsutaeru tame ni, hakkiri hanasou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T15:10:49.585890"
+    },
+    {
+      "english": "For health, eat well, sleep well.",
+      "japanese": "健康のため、よく食べて、よく寝よう。",
+      "romaji": "kenkou no tame, yoku tabete, yoku neyou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T15:10:49.585891"
     }
   ],
-  "last_updated": "2026-07-16T21:02:32.504560"
+  "last_updated": "2026-07-17T15:10:49.585893"
 }
