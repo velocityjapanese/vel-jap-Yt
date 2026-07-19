@@ -2099,7 +2099,42 @@
       "romaji": "Sumaho o mimasu, messēji kakunin.",
       "category": "Daily Routine",
       "generated_at": "2026-07-19T14:51:55.119443"
+    },
+    {
+      "english": "Keep trying, you'll get there.",
+      "japanese": "頑張って、きっと大丈夫。",
+      "romaji": "Ganbatte, kitto daijoubu.",
+      "category": "Success",
+      "generated_at": "2026-07-19T20:52:26.811767"
+    },
+    {
+      "english": "Your effort, is paying off.",
+      "japanese": "あなたの努力は、実を結ぶ。",
+      "romaji": "Anata no doryoku wa, mi o musubu.",
+      "category": "Success",
+      "generated_at": "2026-07-19T20:52:26.811774"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "japanese": "自分を信じて、できるよ。",
+      "romaji": "Jibun o shinjite, dekiru yo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T20:52:26.811775"
+    },
+    {
+      "english": "Each day, learn something new.",
+      "japanese": "毎日、新しいことを学ぼう。",
+      "romaji": "Mainichi, atarashii koto o manabou.",
+      "category": "Success",
+      "generated_at": "2026-07-19T20:52:26.811777"
+    },
+    {
+      "english": "Don't give up, keep pushing.",
+      "japanese": "諦めないで、前へ進もう。",
+      "romaji": "Akiramenai de, mae e susumou.",
+      "category": "Success",
+      "generated_at": "2026-07-19T20:52:26.811778"
     }
   ],
-  "last_updated": "2026-07-19T14:51:55.119445"
+  "last_updated": "2026-07-19T20:52:26.811780"
 }
