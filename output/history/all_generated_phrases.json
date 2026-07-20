@@ -2169,7 +2169,42 @@
       "romaji": "murasaki no hana, kirei de, yasashiku shizuka",
       "category": "Colors Japanese",
       "generated_at": "2026-07-20T15:49:17.054681"
+    },
+    {
+      "english": "Let's go, together.",
+      "japanese": "一緒に行きましょう。",
+      "romaji": "Issho ni ikimashou.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T21:13:39.042789"
+    },
+    {
+      "english": "Don't worry, be happy.",
+      "japanese": "心配しないで、楽しくね。",
+      "romaji": "Shinpai shinaide, tanoshiku ne.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T21:13:39.042801"
+    },
+    {
+      "english": "What do you think, hmm?",
+      "japanese": "どう思いますか、ね？",
+      "romaji": "Dou omoimasu ka, ne?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T21:13:39.042803"
+    },
+    {
+      "english": "Just a little, please.",
+      "japanese": "少しだけで、お願いします。",
+      "romaji": "Sukoshi dake de, onegaishimasu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T21:13:39.042804"
+    },
+    {
+      "english": "It's okay, really.",
+      "japanese": "大丈夫ですよ、本当に。",
+      "romaji": "Daijoubu desu yo, hontou ni.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T21:13:39.042805"
     }
   ],
-  "last_updated": "2026-07-20T15:49:17.054683"
+  "last_updated": "2026-07-20T21:13:39.042806"
 }
