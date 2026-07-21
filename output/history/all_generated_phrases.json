@@ -2204,7 +2204,42 @@
       "romaji": "Daijoubu desu yo, hontou ni.",
       "category": "Common Expressions",
       "generated_at": "2026-07-20T21:13:39.042805"
+    },
+    {
+      "english": "Thank you, for today’s kindness",
+      "japanese": "今日のやさしさに、ありがとうございます。",
+      "romaji": "kyou no yasashisa ni, arigatou gozaimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-21T15:42:46.202266"
+    },
+    {
+      "english": "I’m grateful, for your patient help",
+      "japanese": "ご親切に、助けてくれてありがとう。",
+      "romaji": "go-shinsetsu ni, tasukete kurete arigatou.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-21T15:42:46.202275"
+    },
+    {
+      "english": "Thanks again, for listening to me",
+      "japanese": "聞いてくれて、ありがとうございます。",
+      "romaji": "kiite kurete, arigatou gozaimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-21T15:42:46.202277"
+    },
+    {
+      "english": "I appreciate it, your steady support",
+      "japanese": "いつも支えてくれて、感謝します。",
+      "romaji": "itsumo sasaete kurete, kansha shimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-21T15:42:46.202278"
+    },
+    {
+      "english": "Thank you, for your warm words",
+      "japanese": "あたたかい言葉に、元気をもらった。",
+      "romaji": "atatakai kotoba ni, genki o mora tta.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-21T15:42:46.202279"
     }
   ],
-  "last_updated": "2026-07-20T21:13:39.042806"
+  "last_updated": "2026-07-21T15:42:46.202281"
 }
