@@ -2239,7 +2239,42 @@
       "romaji": "atatakai kotoba ni, genki o mora tta.",
       "category": "Gratitude",
       "generated_at": "2026-07-21T15:42:46.202279"
+    },
+    {
+      "english": "Today, it's sunny, isn't it?",
+      "japanese": "今日、晴れていますね。",
+      "romaji": "kyou, harete imasu ne.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-07-21T21:12:11.215608"
+    },
+    {
+      "english": "It looks like rain, soon.",
+      "japanese": "もうすぐ、雨が降りそうです。",
+      "romaji": "mou sugu, ame ga furi sou desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-07-21T21:12:11.215620"
+    },
+    {
+      "english": "The wind is strong, today.",
+      "japanese": "今日は、風が強いです。",
+      "romaji": "kyou wa, kaze ga tsuyoi desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-07-21T21:12:11.215622"
+    },
+    {
+      "english": "It's very cloudy, isn't it?",
+      "japanese": "とても、曇っていますね。",
+      "romaji": "totemo, kumotte imasu ne.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-07-21T21:12:11.215623"
+    },
+    {
+      "english": "Is it cold, outside?",
+      "japanese": "外は、寒いですか？",
+      "romaji": "soto wa, samui desu ka?",
+      "category": "Weather Japanese",
+      "generated_at": "2026-07-21T21:12:11.215624"
     }
   ],
-  "last_updated": "2026-07-21T15:42:46.202281"
+  "last_updated": "2026-07-21T21:12:11.215625"
 }
