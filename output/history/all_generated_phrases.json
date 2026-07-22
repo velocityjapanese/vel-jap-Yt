@@ -2274,7 +2274,42 @@
       "romaji": "soto wa, samui desu ka?",
       "category": "Weather Japanese",
       "generated_at": "2026-07-21T21:12:11.215624"
+    },
+    {
+      "english": "Imagine freely, create boldly.",
+      "japanese": "自由に想像し、大胆に創ろう。",
+      "romaji": "Jiyuu ni souzou shi, daitan ni tsukurou.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T15:30:07.516089"
+    },
+    {
+      "english": "New ideas, bloom here.",
+      "japanese": "新しいアイデア、ここで咲く。",
+      "romaji": "Atarashii aidea, koko de saku.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T15:30:07.516098"
+    },
+    {
+      "english": "Think outside, the box.",
+      "japanese": "枠の外、考えて。",
+      "romaji": "Waku no soto, kangaete.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T15:30:07.516100"
+    },
+    {
+      "english": "Spark your mind, find your voice.",
+      "japanese": "心に火をつけ、声を見つけよう。",
+      "romaji": "Kokoro ni hi o tsuke, koe o mitsukeyou.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T15:30:07.516101"
+    },
+    {
+      "english": "Every mistake, a lesson.",
+      "japanese": "すべての間違い、学び。",
+      "romaji": "Subete no machigai, manabi.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T15:30:07.516102"
     }
   ],
-  "last_updated": "2026-07-21T21:12:11.215625"
+  "last_updated": "2026-07-22T15:30:07.516104"
 }
