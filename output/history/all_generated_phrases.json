@@ -2309,7 +2309,42 @@
       "romaji": "Subete no machigai, manabi.",
       "category": "Creativity",
       "generated_at": "2026-07-22T15:30:07.516102"
+    },
+    {
+      "english": "So relaxed, today.",
+      "japanese": "今日は、とてもリラックスしています。",
+      "romaji": "kyō wa, totemo rirakkusu shite imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-22T21:10:23.153858"
+    },
+    {
+      "english": "Feeling a bit sad, here.",
+      "japanese": "ここで、少し悲しいです。",
+      "romaji": "koko de, sukoshi kanashī desu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-22T21:10:23.153869"
+    },
+    {
+      "english": "Very surprised, wow.",
+      "japanese": "とても、驚いています。",
+      "romaji": "totemo, odoroite imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-22T21:10:23.153871"
+    },
+    {
+      "english": "Feeling bored, a little.",
+      "japanese": "少し、退屈しています。",
+      "romaji": "sukoshi, taikutsu shite imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-22T21:10:23.153872"
+    },
+    {
+      "english": "This is interesting, hmm.",
+      "japanese": "これは、面白いですね。",
+      "romaji": "kore wa, omoshiroi desu ne.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-07-22T21:10:23.153873"
     }
   ],
-  "last_updated": "2026-07-22T15:30:07.516104"
+  "last_updated": "2026-07-22T21:10:23.153875"
 }
