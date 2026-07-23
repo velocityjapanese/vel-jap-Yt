@@ -2344,7 +2344,42 @@
       "romaji": "kore wa, omoshiroi desu ne.",
       "category": "Feelings Japanese",
       "generated_at": "2026-07-22T21:10:23.153873"
+    },
+    {
+      "english": "Good morning, how are you today?",
+      "japanese": "おはようございます、今日はいかがですか。",
+      "romaji": "ohayou gozaimasu, kyou wa ikaga desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T16:20:35.986265"
+    },
+    {
+      "english": "Excuse me, where is the station?",
+      "japanese": "すみません、駅はどこですか。",
+      "romaji": "sumimasen, eki wa doko desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T16:20:35.986274"
+    },
+    {
+      "english": "Please wait a moment, thank you.",
+      "japanese": "少し待ってください、ありがとうございます。",
+      "romaji": "sukoshi matte kudasai, arigatou gozaimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T16:20:35.986276"
+    },
+    {
+      "english": "I like this, how much is it?",
+      "japanese": "これが好きです、いくらですか。",
+      "romaji": "kore ga suki desu, ikura desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T16:20:35.986277"
+    },
+    {
+      "english": "I don’t understand, can you speak slowly?",
+      "japanese": "わかりません、ゆっくり話してください。",
+      "romaji": "wakarimasen, yukkuri hanashite kudasai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T16:20:35.986278"
     }
   ],
-  "last_updated": "2026-07-22T21:10:23.153875"
+  "last_updated": "2026-07-23T16:20:35.986280"
 }
