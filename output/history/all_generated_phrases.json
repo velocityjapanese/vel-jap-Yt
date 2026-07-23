@@ -2379,7 +2379,42 @@
       "romaji": "wakarimasen, yukkuri hanashite kudasai.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-23T16:20:35.986278"
+    },
+    {
+      "english": "Where is the station, please?",
+      "japanese": "駅は、どこですか？",
+      "romaji": "eki wa, doko desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-07-23T21:06:26.706998"
+    },
+    {
+      "english": "One ticket, please.",
+      "japanese": "切符を、一枚ください。",
+      "romaji": "kippu o, ichi-mai kudasai.",
+      "category": "Travel Japanese",
+      "generated_at": "2026-07-23T21:06:26.707009"
+    },
+    {
+      "english": "Excuse me, can you help me?",
+      "japanese": "すみません、助けてください。",
+      "romaji": "sumimasen, tasukete kudasai.",
+      "category": "Travel Japanese",
+      "generated_at": "2026-07-23T21:06:26.707010"
+    },
+    {
+      "english": "Where is the restroom?",
+      "japanese": "トイレは、どこですか？",
+      "romaji": "toire wa, doko desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-07-23T21:06:26.707012"
+    },
+    {
+      "english": "This is delicious!",
+      "japanese": "これ、おいしいです！",
+      "romaji": "kore, oishii desu!",
+      "category": "Travel Japanese",
+      "generated_at": "2026-07-23T21:06:26.707013"
     }
   ],
-  "last_updated": "2026-07-23T16:20:35.986280"
+  "last_updated": "2026-07-23T21:06:26.707014"
 }
