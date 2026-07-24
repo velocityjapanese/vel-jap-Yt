@@ -2414,7 +2414,42 @@
       "romaji": "kore, oishii desu!",
       "category": "Travel Japanese",
       "generated_at": "2026-07-23T21:06:26.707013"
+    },
+    {
+      "english": "My younger sister, is cute.",
+      "japanese": "妹は、かわいいです。",
+      "romaji": "imouto wa, kawaii desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T07:20:45.221361"
+    },
+    {
+      "english": "My grandparents, live nearby.",
+      "japanese": "祖父母は、近くに住んでいます。",
+      "romaji": "sofubo wa, chikaku ni sunde imasu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T07:20:45.221374"
+    },
+    {
+      "english": "My grandmother, bakes cakes.",
+      "japanese": "おばあさんは、ケーキを焼きます。",
+      "romaji": "obaasan wa, keeki o yakimasu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T07:20:45.221375"
+    },
+    {
+      "english": "My grandfather, tells stories.",
+      "japanese": "おじいさんは、話をしてくれます。",
+      "romaji": "ojiisan wa, hanashi o shite kuremasu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T07:20:45.221376"
+    },
+    {
+      "english": "My family, is happy together.",
+      "japanese": "家族は、一緒に幸せです。",
+      "romaji": "kazoku wa, issho ni shiawase desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T07:20:45.221376"
     }
   ],
-  "last_updated": "2026-07-23T21:06:26.707014"
+  "last_updated": "2026-07-24T07:20:45.221378"
 }
