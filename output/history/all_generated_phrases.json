@@ -2484,7 +2484,42 @@
       "romaji": "mizu wo, yoku nonde kudasai.",
       "category": "Health Japanese",
       "generated_at": "2026-07-24T15:23:49.097744"
+    },
+    {
+      "english": "Listen well, speak little.",
+      "japanese": "よく聞き、少なく話す。",
+      "romaji": "yoku kiki, sukunaku hanasu.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T21:06:20.145165"
+    },
+    {
+      "english": "Practice makes, perfect fluency.",
+      "japanese": "練習が、流暢さを生む。",
+      "romaji": "renshuu ga, ryuuchou-sa o umu.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T21:06:20.145174"
+    },
+    {
+      "english": "Small steps, lead far.",
+      "japanese": "小さな一歩が、遠くへ導く。",
+      "romaji": "chiisana ippo ga, tooku e michibiku.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T21:06:20.145176"
+    },
+    {
+      "english": "Mistakes are, good lessons.",
+      "japanese": "間違いは、良い学び。",
+      "romaji": "machigai wa, yoi manabi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T21:06:20.145177"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "japanese": "自分に、優しく。",
+      "romaji": "jibun ni, yasashiku.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T21:06:20.145178"
     }
   ],
-  "last_updated": "2026-07-24T15:23:49.097745"
+  "last_updated": "2026-07-24T21:06:20.145180"
 }
