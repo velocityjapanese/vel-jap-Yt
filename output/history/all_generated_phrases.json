@@ -2449,7 +2449,42 @@
       "romaji": "kazoku wa, issho ni shiawase desu.",
       "category": "Family Terms",
       "generated_at": "2026-07-24T07:20:45.221376"
+    },
+    {
+      "english": "How are you, feeling today?",
+      "japanese": "今日の調子はどうですか？",
+      "romaji": "kyou no choushi wa dou desu ka?",
+      "category": "Health Japanese",
+      "generated_at": "2026-07-24T15:23:49.097730"
+    },
+    {
+      "english": "I need to rest, a little.",
+      "japanese": "少し、休みが必要です。",
+      "romaji": "sukoshi, yasumi ga hitsuyou desu.",
+      "category": "Health Japanese",
+      "generated_at": "2026-07-24T15:23:49.097739"
+    },
+    {
+      "english": "This medicine, tastes bad.",
+      "japanese": "この薬は、まずいです。",
+      "romaji": "kono kusuri wa, mazui desu.",
+      "category": "Health Japanese",
+      "generated_at": "2026-07-24T15:23:49.097741"
+    },
+    {
+      "english": "Are you feeling, better now?",
+      "japanese": "もう、気分は良いですか？",
+      "romaji": "mou, kibun wa ii desu ka?",
+      "category": "Health Japanese",
+      "generated_at": "2026-07-24T15:23:49.097742"
+    },
+    {
+      "english": "Drink water, often.",
+      "japanese": "水を、よく飲んでください。",
+      "romaji": "mizu wo, yoku nonde kudasai.",
+      "category": "Health Japanese",
+      "generated_at": "2026-07-24T15:23:49.097744"
     }
   ],
-  "last_updated": "2026-07-24T07:20:45.221378"
+  "last_updated": "2026-07-24T15:23:49.097745"
 }
