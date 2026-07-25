@@ -2519,7 +2519,42 @@
       "romaji": "jibun ni, yasashiku.",
       "category": "Wisdom",
       "generated_at": "2026-07-24T21:06:20.145178"
+    },
+    {
+      "english": "Take a step, forward.",
+      "japanese": "一歩、前に進もう。",
+      "romaji": "ippo, mae ni susumou.",
+      "category": "Courage",
+      "generated_at": "2026-07-25T14:59:15.131739"
+    },
+    {
+      "english": "Be strong, in spirit.",
+      "japanese": "心、強くあれ。",
+      "romaji": "kokoro, tsuyoku are.",
+      "category": "Courage",
+      "generated_at": "2026-07-25T14:59:15.131748"
+    },
+    {
+      "english": "Embrace the challenge, with a smile.",
+      "japanese": "挑戦を、笑顔で受け入れよう。",
+      "romaji": "chousen wo, egao de ukeireyou.",
+      "category": "Courage",
+      "generated_at": "2026-07-25T14:59:15.131750"
+    },
+    {
+      "english": "Stand tall, do your best.",
+      "japanese": "背筋を伸ばして、頑張ろう。",
+      "romaji": "sesuji wo nobashite, ganbarou.",
+      "category": "Courage",
+      "generated_at": "2026-07-25T14:59:15.131751"
+    },
+    {
+      "english": "Your strength, will grow.",
+      "japanese": "君の力、伸びていく。",
+      "romaji": "kimi no chikara, nobite iku.",
+      "category": "Courage",
+      "generated_at": "2026-07-25T14:59:15.131753"
     }
   ],
-  "last_updated": "2026-07-24T21:06:20.145180"
+  "last_updated": "2026-07-25T14:59:15.131754"
 }
