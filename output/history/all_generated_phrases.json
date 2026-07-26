@@ -2589,7 +2589,42 @@
       "romaji": "Jounetsu o mitsuke, oikakemashou.",
       "category": "Self Improvement",
       "generated_at": "2026-07-25T20:55:59.920714"
+    },
+    {
+      "english": "Excuse me, where is the fitting room?",
+      "japanese": "すみません、試着室はどこですか？",
+      "romaji": "Sumimasen, shichakushitsu wa doko desu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-26T15:03:48.799572"
+    },
+    {
+      "english": "Do you have this, in black?",
+      "japanese": "これの、黒色はありますか？",
+      "romaji": "Kore no, kuro-iro wa arimasu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-26T15:03:48.799582"
+    },
+    {
+      "english": "Where are the women's shoes?",
+      "japanese": "婦人靴は、どこですか？",
+      "romaji": "Fujin kutsu wa, doko desu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-26T15:03:48.799584"
+    },
+    {
+      "english": "It's a little too big.",
+      "japanese": "少し、大きすぎます。",
+      "romaji": "Sukoshi, ōki sugimasu.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-26T15:03:48.799585"
+    },
+    {
+      "english": "Does this come with a bag?",
+      "japanese": "袋は、付いてますか？",
+      "romaji": "Fukuro wa, tsuite masu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-07-26T15:03:48.799586"
     }
   ],
-  "last_updated": "2026-07-25T20:55:59.920715"
+  "last_updated": "2026-07-26T15:03:48.799588"
 }
