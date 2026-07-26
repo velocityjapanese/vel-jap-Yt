@@ -2624,7 +2624,42 @@
       "romaji": "Fukuro wa, tsuite masu ka?",
       "category": "Shopping Japanese",
       "generated_at": "2026-07-26T15:03:48.799586"
+    },
+    {
+      "english": "One, a single chance.",
+      "japanese": "一つ、たった一度のチャンス。",
+      "romaji": "Hitotsu, tatta ichido no chansu.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-07-26T20:59:48.510500"
+    },
+    {
+      "english": "Two, we can go.",
+      "japanese": "二つ、一緒に行きましょう。",
+      "romaji": "Futatsu, issho ni ikimashou.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-07-26T20:59:48.510510"
+    },
+    {
+      "english": "Three, I'll try my best.",
+      "japanese": "三つ、頑張ります。",
+      "romaji": "Mittsu, ganbarimasu.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-07-26T20:59:48.510511"
+    },
+    {
+      "english": "Four, see you later.",
+      "japanese": "四つ、また後で。",
+      "romaji": "Yottsu, mata ato de.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-07-26T20:59:48.510513"
+    },
+    {
+      "english": "Five, it's a deal.",
+      "japanese": "五つ、それで決まり。",
+      "romaji": "Itsutsu, sore de kimari.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-07-26T20:59:48.510514"
     }
   ],
-  "last_updated": "2026-07-26T15:03:48.799588"
+  "last_updated": "2026-07-26T20:59:48.510515"
 }
