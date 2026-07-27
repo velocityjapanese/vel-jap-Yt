@@ -2694,7 +2694,42 @@
       "romaji": "Yasashii kotoba wa, kokoro o iyasu.",
       "category": "Kindness",
       "generated_at": "2026-07-27T16:37:02.881708"
+    },
+    {
+      "english": "We, understand, each other.",
+      "japanese": "私たち、分かり合えるね。",
+      "romaji": "Watashitachi, wakariaeru ne.",
+      "category": "Friendship",
+      "generated_at": "2026-07-27T21:12:01.367209"
+    },
+    {
+      "english": "Your, smile, is my, sunshine.",
+      "japanese": "君の笑顔が, 私の, 太陽だよ。",
+      "romaji": "Kimi no egao ga, watashi no, taiyou da yo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-27T21:12:01.367221"
+    },
+    {
+      "english": "Let's, keep in, touch.",
+      "japanese": "連絡, 取り合おうね。",
+      "romaji": "Renraku, toriaou ne.",
+      "category": "Friendship",
+      "generated_at": "2026-07-27T21:12:01.367223"
+    },
+    {
+      "english": "Glad, we met, you.",
+      "japanese": "君に, 会えて, よかった。",
+      "romaji": "Kimi ni, aete, yokatta.",
+      "category": "Friendship",
+      "generated_at": "2026-07-27T21:12:01.367224"
+    },
+    {
+      "english": "Let's, grow, together.",
+      "japanese": "一緒に, 成長, しようね。",
+      "romaji": "Issho ni, seichou, shiyou ne.",
+      "category": "Friendship",
+      "generated_at": "2026-07-27T21:12:01.367225"
     }
   ],
-  "last_updated": "2026-07-27T16:37:02.881710"
+  "last_updated": "2026-07-27T21:12:01.367227"
 }
