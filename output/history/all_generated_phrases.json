@@ -2659,7 +2659,42 @@
       "romaji": "Itsutsu, sore de kimari.",
       "category": "Numbers Japanese",
       "generated_at": "2026-07-26T20:59:48.510514"
+    },
+    {
+      "english": "Be kind, always.",
+      "japanese": "優しく、いつも。",
+      "romaji": "Yasashiku, itsumo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-27T16:37:02.881694"
+    },
+    {
+      "english": "Help others, you will see.",
+      "japanese": "人を助けなさい、そうすればわかる。",
+      "romaji": "Hito o tasukenasai, sou sureba wakaru.",
+      "category": "Kindness",
+      "generated_at": "2026-07-27T16:37:02.881704"
+    },
+    {
+      "english": "Share your smile, freely.",
+      "japanese": "笑顔を、自由に分け合って。",
+      "romaji": "Egao o, jiyuu ni wakeatte.",
+      "category": "Kindness",
+      "generated_at": "2026-07-27T16:37:02.881706"
+    },
+    {
+      "english": "Listen well, understand more.",
+      "japanese": "よく聞いて、もっと理解して。",
+      "romaji": "Yoku kiite, motto rikai shite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-27T16:37:02.881707"
+    },
+    {
+      "english": "Gentle words, heal hearts.",
+      "japanese": "優しい言葉は、心を癒す。",
+      "romaji": "Yasashii kotoba wa, kokoro o iyasu.",
+      "category": "Kindness",
+      "generated_at": "2026-07-27T16:37:02.881708"
     }
   ],
-  "last_updated": "2026-07-26T20:59:48.510515"
+  "last_updated": "2026-07-27T16:37:02.881710"
 }
