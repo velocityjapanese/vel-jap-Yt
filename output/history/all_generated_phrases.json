@@ -2729,7 +2729,42 @@
       "romaji": "Issho ni, seichou, shiyou ne.",
       "category": "Friendship",
       "generated_at": "2026-07-27T21:12:01.367225"
+    },
+    {
+      "english": "Little by little, day by day.",
+      "japanese": "少しずつ、毎日。",
+      "romaji": "Sukoshi zutsu, mainichi.",
+      "category": "Motivation",
+      "generated_at": "2026-07-28T16:03:41.456957"
+    },
+    {
+      "english": "Your effort, will bloom soon.",
+      "japanese": "あなたの努力、やがて花開きます。",
+      "romaji": "Anata no doryoku, yagate hanahira-kimasu.",
+      "category": "Motivation",
+      "generated_at": "2026-07-28T16:03:41.456967"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "japanese": "続けて、あなたは素晴らしいです。",
+      "romaji": "Tsuzukete, anata wa subarashii desu.",
+      "category": "Motivation",
+      "generated_at": "2026-07-28T16:03:41.456970"
+    },
+    {
+      "english": "Every mistake, a lesson learned.",
+      "japanese": "全ての失敗、学ぶべき教訓。",
+      "romaji": "Subete no shippai, manabu beki kyōkun.",
+      "category": "Motivation",
+      "generated_at": "2026-07-28T16:03:41.456973"
+    },
+    {
+      "english": "Believe in your journey, it's yours.",
+      "japanese": "あなたの旅を信じて、それはあなたのです。",
+      "romaji": "Anata no tabi o shinjite, sore wa anata no desu.",
+      "category": "Motivation",
+      "generated_at": "2026-07-28T16:03:41.456975"
     }
   ],
-  "last_updated": "2026-07-27T21:12:01.367227"
+  "last_updated": "2026-07-28T16:03:41.456978"
 }
