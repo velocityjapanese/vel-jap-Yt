@@ -2799,7 +2799,42 @@
       "romaji": "Yoku kiite, chiisana oto.",
       "category": "Mindfulness",
       "generated_at": "2026-07-28T21:10:19.385065"
+    },
+    {
+      "english": "To improve, try new things.",
+      "japanese": "成長するために、新しいことに挑戦しよう。",
+      "romaji": "seichou suru tame ni, atarashii koto ni chousen shiyou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-29T15:48:56.868993"
+    },
+    {
+      "english": "For fun, let's play a game.",
+      "japanese": "楽しむために、ゲームをしよう。",
+      "romaji": "tanoshimu tame ni, geemu o shiyou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-29T15:48:56.869000"
+    },
+    {
+      "english": "To connect, make friends.",
+      "japanese": "繋がるために、友達を作ろう。",
+      "romaji": "tsunagaru tame ni, tomodachi o tsukurou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-29T15:48:56.869001"
+    },
+    {
+      "english": "For peace, be kind to others.",
+      "japanese": "平和のために、人に優しくしよう。",
+      "romaji": "heiwa no tame ni, hito ni yasashiku shiyou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-29T15:48:56.869002"
+    },
+    {
+      "english": "To succeed, never give up.",
+      "japanese": "成功するために、諦めないで。",
+      "romaji": "seikou suru tame ni, akiramenaide.",
+      "category": "Purpose",
+      "generated_at": "2026-07-29T15:48:56.869003"
     }
   ],
-  "last_updated": "2026-07-28T21:10:19.385067"
+  "last_updated": "2026-07-29T15:48:56.869005"
 }
