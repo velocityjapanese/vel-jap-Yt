@@ -2834,7 +2834,42 @@
       "romaji": "seikou suru tame ni, akiramenaide.",
       "category": "Purpose",
       "generated_at": "2026-07-29T15:48:56.869003"
+    },
+    {
+      "english": "Try again, you can do it.",
+      "japanese": "もう一度、できるよ。",
+      "romaji": "mou ichido, dekiru yo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T20:58:19.375058"
+    },
+    {
+      "english": "Speak slowly, I understand.",
+      "japanese": "ゆっくり話して、わかります。",
+      "romaji": "yukkuri hanashite, wakarimasu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T20:58:19.375068"
+    },
+    {
+      "english": "Don't worry, it's okay.",
+      "japanese": "心配しないで、大丈夫。",
+      "romaji": "shinpai shinaide, daijoubu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T20:58:19.375069"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "japanese": "すごく上手、続けて。",
+      "romaji": "sugoku jouzu, tsuzukete.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T20:58:19.375070"
+    },
+    {
+      "english": "Ask questions, that's how.",
+      "japanese": "質問して、それが一番。",
+      "romaji": "shitsumon shite, sore ga ichiban.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T20:58:19.375071"
     }
   ],
-  "last_updated": "2026-07-29T15:48:56.869005"
+  "last_updated": "2026-07-29T20:58:19.375072"
 }
