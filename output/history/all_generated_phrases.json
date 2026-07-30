@@ -2869,7 +2869,42 @@
       "romaji": "shitsumon shite, sore ga ichiban.",
       "category": "Confidence",
       "generated_at": "2026-07-29T20:58:19.375071"
+    },
+    {
+      "english": "Grow slowly, learn every day, keep going",
+      "japanese": "ゆっくり成長して,毎日学び,続けよう",
+      "romaji": "yukkuri seichishite, mainitchi manabi, tsuzukeyou",
+      "category": "Growth",
+      "generated_at": "2026-07-30T15:49:24.251811"
+    },
+    {
+      "english": "Start with one step, then one more",
+      "japanese": "一歩始めて,次はもう一歩",
+      "romaji": "ippo hajimete, tsugi wa mou ippo",
+      "category": "Growth",
+      "generated_at": "2026-07-30T15:49:24.251822"
+    },
+    {
+      "english": "Ask questions, breathe, and try again",
+      "japanese": "質問して,深呼吸して,また挑戦しよう",
+      "romaji": "shitsumon shite, shin kokyuu shite, mata chousenshiyou",
+      "category": "Growth",
+      "generated_at": "2026-07-30T15:49:24.251824"
+    },
+    {
+      "english": "Practice a little, change your mindset",
+      "japanese": "少し練習して,気持ちを変えよう",
+      "romaji": "sukoshi renshuu shite, kimochi o kaeyou",
+      "category": "Growth",
+      "generated_at": "2026-07-30T15:49:24.251826"
+    },
+    {
+      "english": "Make mistakes, learn fast, keep moving",
+      "japanese": "失敗しても,早く学んで,進もう",
+      "romaji": "shippai shitemo, hayaku manande, susumou",
+      "category": "Growth",
+      "generated_at": "2026-07-30T15:49:24.251827"
     }
   ],
-  "last_updated": "2026-07-29T20:58:19.375072"
+  "last_updated": "2026-07-30T15:49:24.251829"
 }
