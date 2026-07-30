@@ -2904,7 +2904,42 @@
       "romaji": "shippai shitemo, hayaku manande, susumou",
       "category": "Growth",
       "generated_at": "2026-07-30T15:49:24.251827"
+    },
+    {
+      "english": "Thank you very much.",
+      "japanese": "どうも、ありがとうございます。",
+      "romaji": "doumo, arigatou gozaimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T21:12:11.141574"
+    },
+    {
+      "english": "Excuse me, please.",
+      "japanese": "すみません、お願いします。",
+      "romaji": "sumimasen, onegaishimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T21:12:11.141583"
+    },
+    {
+      "english": "Yes, that's right.",
+      "japanese": "はい、そうです、あの。",
+      "romaji": "hai, sou desu, ano.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T21:12:11.141584"
+    },
+    {
+      "english": "This is delicious.",
+      "japanese": "これ、おいしいですね。",
+      "romaji": "kore, oishii desu ne.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T21:12:11.141585"
+    },
+    {
+      "english": "Nice to meet you.",
+      "japanese": "はじめまして、どうぞ。",
+      "romaji": "hajimemashite, douzo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T21:12:11.141587"
     }
   ],
-  "last_updated": "2026-07-30T15:49:24.251829"
+  "last_updated": "2026-07-30T21:12:11.141588"
 }
