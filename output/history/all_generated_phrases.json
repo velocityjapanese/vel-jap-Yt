@@ -2939,7 +2939,42 @@
       "romaji": "hajimemashite, douzo.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-30T21:12:11.141587"
+    },
+    {
+      "english": "Steady wins, the race.",
+      "japanese": "着実に, 勝つ。",
+      "romaji": "Chakujitsu ni, katsu.",
+      "category": "Balance",
+      "generated_at": "2026-07-31T16:13:33.464846"
+    },
+    {
+      "english": "Find your center, breathe.",
+      "japanese": "中心を見つけ, 息を吸って。",
+      "romaji": "Chūshin o mitsuke, iki o sutte.",
+      "category": "Balance",
+      "generated_at": "2026-07-31T16:13:33.464854"
+    },
+    {
+      "english": "Every step, matters.",
+      "japanese": "一歩一歩, 大切。",
+      "romaji": "Ippo ippo, taisetsu.",
+      "category": "Balance",
+      "generated_at": "2026-07-31T16:13:33.464856"
+    },
+    {
+      "english": "One day at, a time.",
+      "japanese": "一日ずつ, 行こう。",
+      "romaji": "Ichinichi zutsu, ikou.",
+      "category": "Balance",
+      "generated_at": "2026-07-31T16:13:33.464857"
+    },
+    {
+      "english": "Work and rest, equal.",
+      "japanese": "仕事と休息, 同じくらい。",
+      "romaji": "Shigoto to kyūsoku, onaji kurai.",
+      "category": "Balance",
+      "generated_at": "2026-07-31T16:13:33.464858"
     }
   ],
-  "last_updated": "2026-07-30T21:12:11.141588"
+  "last_updated": "2026-07-31T16:13:33.464860"
 }
