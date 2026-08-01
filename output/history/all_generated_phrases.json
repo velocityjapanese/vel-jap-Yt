@@ -3009,7 +3009,42 @@
       "romaji": "murasaki no sora ga, yūgure doki desu.",
       "category": "Colors Japanese",
       "generated_at": "2026-08-01T14:57:02.194103"
+    },
+    {
+      "english": "I feel calm, my breath is steady.",
+      "japanese": "心は落ち着く, 息が安定する。",
+      "romaji": "kokoro wa ochitsuku, iki ga antei suru",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-01T20:54:42.283506"
+    },
+    {
+      "english": "I feel excited, today is starting.",
+      "japanese": "わくわくする, 今日が始まる。",
+      "romaji": "waku waku suru, kyou ga hajimaru",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-01T20:54:42.283518"
+    },
+    {
+      "english": "I feel nervous, my hands are cold.",
+      "japanese": "緊張する, 手が冷える。",
+      "romaji": "kinchou suru, te ga hiyaseru",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-01T20:54:42.283520"
+    },
+    {
+      "english": "I feel relieved, the problem is solved.",
+      "japanese": "ほっとする, 問題が解けた。",
+      "romaji": "hottosuru, mondai ga toketa",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-01T20:54:42.283521"
+    },
+    {
+      "english": "I feel sad, I miss you.",
+      "japanese": "悲しい, あなたが恋しい。",
+      "romaji": "kanashii, anata ga koishii",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-01T20:54:42.283522"
     }
   ],
-  "last_updated": "2026-08-01T14:57:02.194105"
+  "last_updated": "2026-08-01T20:54:42.283524"
 }
