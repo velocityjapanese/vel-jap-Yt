@@ -2974,7 +2974,42 @@
       "romaji": "Shigoto to kyūsoku, onaji kurai.",
       "category": "Balance",
       "generated_at": "2026-07-31T16:13:33.464858"
+    },
+    {
+      "english": "This blue, is very deep.",
+      "japanese": "この青は、とても深いです。",
+      "romaji": "kono ao wa, totemo fukai desu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-01T14:57:02.194088"
+    },
+    {
+      "english": "That red, shines brightly.",
+      "japanese": "あの赤は、鮮やかに光ります。",
+      "romaji": "ano aka wa, azayaka ni hikarimasu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-01T14:57:02.194100"
+    },
+    {
+      "english": "Green leaves, are rustling.",
+      "japanese": "緑の葉が、そよそよ揺れています。",
+      "romaji": "midori no ha ga, soyosoyo yurete imasu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-01T14:57:02.194101"
+    },
+    {
+      "english": "Yellow flowers, bloom now.",
+      "japanese": "黄色い花が、今咲いています。",
+      "romaji": "kiiroi hana ga, ima saite imasu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-01T14:57:02.194102"
+    },
+    {
+      "english": "Purple sky, at sunset.",
+      "japanese": "紫の空が、夕暮れ時です。",
+      "romaji": "murasaki no sora ga, yūgure doki desu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-01T14:57:02.194103"
     }
   ],
-  "last_updated": "2026-07-31T16:13:33.464860"
+  "last_updated": "2026-08-01T14:57:02.194105"
 }
