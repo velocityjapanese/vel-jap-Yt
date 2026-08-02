@@ -3079,7 +3079,42 @@
       "romaji": "kaidan wo agatte, sonomama susumimasu",
       "category": "Direction Japanese",
       "generated_at": "2026-08-02T15:00:25.487269"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "japanese": "間違いは学び、活かそう。",
+      "romaji": "Machigai wa manabi, ikasou.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T20:57:13.271322"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "japanese": "ゆっくり着実に、勝利。",
+      "romaji": "Yukkuri chakujitsu ni, shouri.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T20:57:13.271331"
+    },
+    {
+      "english": "Every day, a little more.",
+      "japanese": "毎日、少しずつ。",
+      "romaji": "Mainichi, sukoshi zutsu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T20:57:13.271333"
+    },
+    {
+      "english": "You can do it, really.",
+      "japanese": "できるよ、本当に。",
+      "romaji": "Dekiru yo, hontou ni.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T20:57:13.271334"
+    },
+    {
+      "english": "Don't fear failure.",
+      "japanese": "失敗を恐れない。",
+      "romaji": "Shippai o osorena.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T20:57:13.271336"
     }
   ],
-  "last_updated": "2026-08-02T15:00:25.487271"
+  "last_updated": "2026-08-02T20:57:13.271338"
 }
