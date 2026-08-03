@@ -3114,7 +3114,42 @@
       "romaji": "Shippai o osorena.",
       "category": "Perseverance",
       "generated_at": "2026-08-02T20:57:13.271336"
+    },
+    {
+      "english": "Excuse me, where is the nearest station?",
+      "japanese": "すみません、いちばん近い駅はどこですか。",
+      "romaji": "sumimasen, ichiban chikai eki wa doko desu ka",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-03T16:20:23.807319"
+    },
+    {
+      "english": "Please, can I have a map, too?",
+      "japanese": "地図も、いただけますか。",
+      "romaji": "chizu mo, itadakemasu ka",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-03T16:20:23.807331"
+    },
+    {
+      "english": "I’d like a window seat, please.",
+      "japanese": "窓側の席を、お願いします。",
+      "romaji": "madosoki no seki o, onegaishimasu",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-03T16:20:23.807333"
+    },
+    {
+      "english": "Is there a bus to downtown?",
+      "japanese": "繁華街へ行くバスはありますか。",
+      "romaji": "han-kagai e iku basu wa arimasu ka",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-03T16:20:23.807334"
+    },
+    {
+      "english": "Where can I buy a subway ticket?",
+      "japanese": "地下鉄の切符は、どこで買えますか。",
+      "romaji": "chikatetsu no kippu wa, doko de kaemasu ka",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-03T16:20:23.807335"
     }
   ],
-  "last_updated": "2026-08-02T20:57:13.271338"
+  "last_updated": "2026-08-03T16:20:23.807337"
 }
