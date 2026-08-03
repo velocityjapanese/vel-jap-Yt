@@ -3149,7 +3149,42 @@
       "romaji": "chikatetsu no kippu wa, doko de kaemasu ka",
       "category": "Travel Japanese",
       "generated_at": "2026-08-03T16:20:23.807335"
+    },
+    {
+      "english": "Smell, the fresh rain.",
+      "japanese": "嗅いで、雨の匂い。",
+      "romaji": "Kaide, ame no nioi.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-08-03T21:04:48.172185"
+    },
+    {
+      "english": "A mountain stands, tall.",
+      "japanese": "山が立つ、高く。",
+      "romaji": "Yama ga tatsu, takaku.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-08-03T21:04:48.172193"
+    },
+    {
+      "english": "The ocean breathes, deeply.",
+      "japanese": "海が息をする、深く。",
+      "romaji": "Umi ga iki o suru, fukaku.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-08-03T21:04:48.172195"
+    },
+    {
+      "english": "Birds sing, a melody.",
+      "japanese": "鳥が歌う、メロディー。",
+      "romaji": "Tori ga utau, merodii.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-08-03T21:04:48.172196"
+    },
+    {
+      "english": "Walk, on the soft grass.",
+      "japanese": "歩こう、柔らかい芝生の上。",
+      "romaji": "Arukou, yawarakai shibafu no ue.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-08-03T21:04:48.172197"
     }
   ],
-  "last_updated": "2026-08-03T16:20:23.807337"
+  "last_updated": "2026-08-03T21:04:48.172199"
 }
