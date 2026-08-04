@@ -3184,7 +3184,42 @@
       "romaji": "Arukou, yawarakai shibafu no ue.",
       "category": "Nature Japanese",
       "generated_at": "2026-08-03T21:04:48.172197"
+    },
+    {
+      "english": "Hello there, hope you're well.",
+      "japanese": "こんにちは、お元気ですか。",
+      "romaji": "Konnichiwa, ogenki desu ka?",
+      "category": "Greetings",
+      "generated_at": "2026-08-04T16:13:03.541585"
+    },
+    {
+      "english": "Good morning, let's have a great day.",
+      "japanese": "おはようございます、良い一日を。",
+      "romaji": "Ohayou gozaimasu, yoi ichinichi o.",
+      "category": "Greetings",
+      "generated_at": "2026-08-04T16:13:03.541594"
+    },
+    {
+      "english": "Hello again, it's good to see you.",
+      "japanese": "またお会いできて、嬉しいです。",
+      "romaji": "Mata oaidekite, ureshii desu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-04T16:13:03.541595"
+    },
+    {
+      "english": "Excuse me, just a moment.",
+      "japanese": "すみません、少々お待ちください。",
+      "romaji": "Sumimasen, shoushou omachi kudasai.",
+      "category": "Greetings",
+      "generated_at": "2026-08-04T16:13:03.541597"
+    },
+    {
+      "english": "Hi everyone, how is it going?",
+      "japanese": "皆さん、調子はどうですか？",
+      "romaji": "Minasan, choushi wa dou desu ka?",
+      "category": "Greetings",
+      "generated_at": "2026-08-04T16:13:03.541598"
     }
   ],
-  "last_updated": "2026-08-03T21:04:48.172199"
+  "last_updated": "2026-08-04T16:13:03.541600"
 }
