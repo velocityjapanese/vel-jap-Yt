@@ -3219,7 +3219,42 @@
       "romaji": "Minasan, choushi wa dou desu ka?",
       "category": "Greetings",
       "generated_at": "2026-08-04T16:13:03.541598"
+    },
+    {
+      "english": "Breathe, then take one brave step.",
+      "japanese": "息をして、勇気ある一歩を踏み出す。",
+      "romaji": "iki o shite, yuuki aru ippo o fumidasu",
+      "category": "Courage",
+      "generated_at": "2026-08-04T21:14:05.862920"
+    },
+    {
+      "english": "Fear is normal, act anyway.",
+      "japanese": "こわいのは普通、でも進む。",
+      "romaji": "kowai no wa futsuu, demo susumu",
+      "category": "Courage",
+      "generated_at": "2026-08-04T21:14:05.862929"
+    },
+    {
+      "english": "Small courage, strong change starts today.",
+      "japanese": "小さな勇気が、今日変える。",
+      "romaji": "chiisana yuuki ga, kyou kaeru",
+      "category": "Courage",
+      "generated_at": "2026-08-04T21:14:05.862931"
+    },
+    {
+      "english": "Say it out loud, start now.",
+      "japanese": "はっきり言う、今始めよう。",
+      "romaji": "hakkiri iu, ima hajimeyou",
+      "category": "Courage",
+      "generated_at": "2026-08-04T21:14:05.862933"
+    },
+    {
+      "english": "When you fall, stand up again.",
+      "japanese": "転んでも、また立ち上がる。",
+      "romaji": "korondemo, mata tachiagaru",
+      "category": "Courage",
+      "generated_at": "2026-08-04T21:14:05.862934"
     }
   ],
-  "last_updated": "2026-08-04T16:13:03.541600"
+  "last_updated": "2026-08-04T21:14:05.862935"
 }
