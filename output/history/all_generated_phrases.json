@@ -3254,7 +3254,42 @@
       "romaji": "korondemo, mata tachiagaru",
       "category": "Courage",
       "generated_at": "2026-08-04T21:14:05.862934"
+    },
+    {
+      "english": "Help, please. I'm lost.",
+      "japanese": "助けてください。道に迷いました。",
+      "romaji": "Tasukete kudasai. Michi ni mayoi mashita.",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-05T18:25:18.669595"
+    },
+    {
+      "english": "Is there a doctor? Nearby?",
+      "japanese": "お医者さんはいますか？近くに？",
+      "romaji": "Oisha-san wa imasu ka? Chikaku ni?",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-05T18:25:18.669606"
+    },
+    {
+      "english": "I need a taxi. Quickly.",
+      "japanese": "タクシーが必要です。すぐに。",
+      "romaji": "Takushi- ga hitsuyou desu. Suguni.",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-05T18:25:18.669609"
+    },
+    {
+      "english": "Where is the police? Station?",
+      "japanese": "警察署はどこですか？",
+      "romaji": "Keisatsu-sho wa doko desu ka?",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-05T18:25:18.669611"
+    },
+    {
+      "english": "My passport, is missing.",
+      "japanese": "パスポートが、ありません。",
+      "romaji": "Pasupo-to ga, arimasen.",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-05T18:25:18.669613"
     }
   ],
-  "last_updated": "2026-08-04T21:14:05.862935"
+  "last_updated": "2026-08-05T18:25:18.669616"
 }
