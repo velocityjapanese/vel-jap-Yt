@@ -3394,7 +3394,42 @@
       "romaji": "yukkuri demo hanashite, rizumu o tsuzukeyou",
       "category": "Motivation",
       "generated_at": "2026-08-07T14:50:08.086540"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "japanese": "深く息をして、穏やかに。",
+      "romaji": "Fukaku iki o shite, odayaka ni.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-07T20:42:30.694762"
+    },
+    {
+      "english": "Let go, find peace.",
+      "japanese": "手放して、安らぎを見つけよう。",
+      "romaji": "Tebanashite, yasuragi o mitsukeyou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-07T20:42:30.694774"
+    },
+    {
+      "english": "Quiet mind, clear heart.",
+      "japanese": "静かな心、澄んだ心。",
+      "romaji": "Shizuka na kokoro, sunda kokoro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-07T20:42:30.694775"
+    },
+    {
+      "english": "Be present, truly live.",
+      "japanese": "今ここに、生きていこう。",
+      "romaji": "Ima koko ni, ikite ikou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-07T20:42:30.694777"
+    },
+    {
+      "english": "Slow down, enjoy this.",
+      "japanese": "ゆっくりと、楽しもう。",
+      "romaji": "Yukkuri to, tanoshimou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-07T20:42:30.694778"
     }
   ],
-  "last_updated": "2026-08-07T14:50:08.086541"
+  "last_updated": "2026-08-07T20:42:30.694779"
 }
