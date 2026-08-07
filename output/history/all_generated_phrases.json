@@ -3324,7 +3324,42 @@
       "romaji": "jikan o taisetsu ni, mokuhyou wa susumu",
       "category": "Wisdom",
       "generated_at": "2026-08-05T21:11:16.505627"
+    },
+    {
+      "english": "I'm sorry, okay?",
+      "japanese": "ごめんね、いい？",
+      "romaji": "Gomen ne, ii?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-07T00:54:36.767264"
+    },
+    {
+      "english": "Please forgive me, really.",
+      "japanese": "本当に、許してほしい。",
+      "romaji": "Hontou ni, yurushite hoshii.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-07T00:54:36.767287"
+    },
+    {
+      "english": "My mistake, I apologize.",
+      "japanese": "私のミス、ごめんなさい。",
+      "romaji": "Watashi no misu, gomen nasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-07T00:54:36.767289"
+    },
+    {
+      "english": "Can you forgive this?",
+      "japanese": "これを、許してもらえますか？",
+      "romaji": "Kore o, yurushite moraemasu ka?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-07T00:54:36.767289"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "japanese": "やっちゃった、すみません。",
+      "romaji": "Yacchatta, sumimasen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-07T00:54:36.767290"
     }
   ],
-  "last_updated": "2026-08-05T21:11:16.505630"
+  "last_updated": "2026-08-07T00:54:36.767292"
 }
