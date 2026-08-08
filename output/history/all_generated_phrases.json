@@ -3464,7 +3464,42 @@
       "romaji": "renshuu wa, kanpeki o tsukurimasu.",
       "category": "Inspiration",
       "generated_at": "2026-08-08T14:28:06.532170"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "japanese": "ありがとう、本当に。",
+      "romaji": "Arigatou, hontou ni.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T20:31:52.960209"
+    },
+    {
+      "english": "I'm grateful, for your kindness.",
+      "japanese": "親切に、感謝します。",
+      "romaji": "Shinsetsu ni, kansha shimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T20:31:52.960235"
+    },
+    {
+      "english": "Thanks, for your help.",
+      "japanese": "助けてくれて、ありがとう。",
+      "romaji": "Tasukete kurete, arigatou.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T20:31:52.960237"
+    },
+    {
+      "english": "I appreciate, this opportunity.",
+      "japanese": "この機会に、感謝しています。",
+      "romaji": "Kono kikai ni, kansha shite imasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T20:31:52.960238"
+    },
+    {
+      "english": "I'm so thankful, for you.",
+      "japanese": "あなたに、とても感謝しています。",
+      "romaji": "Anata ni, totemo kansha shite imasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T20:31:52.960239"
     }
   ],
-  "last_updated": "2026-08-08T14:28:06.532172"
+  "last_updated": "2026-08-08T20:31:52.960241"
 }
