@@ -3499,7 +3499,42 @@
       "romaji": "Anata ni, totemo kansha shite imasu.",
       "category": "Gratitude",
       "generated_at": "2026-08-08T20:31:52.960239"
+    },
+    {
+      "english": "Let go, worries float away.",
+      "japanese": "手放して、心配は流れる。",
+      "romaji": "Tebanashite, shinpai wa nagareru.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T14:30:21.517742"
+    },
+    {
+      "english": "Warm sun, on your skin.",
+      "japanese": "温かい日差し、肌に。",
+      "romaji": "Atatakai hizashi, hada ni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T14:30:21.517751"
+    },
+    {
+      "english": "One step, slow and sure.",
+      "japanese": "一歩、ゆっくり、確実に。",
+      "romaji": "Ippo, yukkuri, kakujitsu ni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T14:30:21.517753"
+    },
+    {
+      "english": "Gratitude fills, the heart.",
+      "japanese": "感謝が満ちる、心。",
+      "romaji": "Kansha ga michiru, kokoro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T14:30:21.517755"
+    },
+    {
+      "english": "Stillness within, find calm.",
+      "japanese": "内なる静けさ、穏やかさ。",
+      "romaji": "Uchi naru shizukesa, odayakasa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T14:30:21.517756"
     }
   ],
-  "last_updated": "2026-08-08T20:31:52.960241"
+  "last_updated": "2026-08-09T14:30:21.517758"
 }
