@@ -3604,7 +3604,42 @@
       "romaji": "Tasukarimashita, arigatou gozaimasu.",
       "category": "Work Japanese",
       "generated_at": "2026-08-10T14:54:02.838972"
+    },
+    {
+      "english": "Stand tall, be brave.",
+      "japanese": "背筋を伸ばして、勇敢に。",
+      "romaji": "sesuji o nobashite, yuukan ni.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T20:43:44.513072"
+    },
+    {
+      "english": "Your effort, shines brightly.",
+      "japanese": "あなたの努力は、輝く。",
+      "romaji": "anata no doryoku wa, kagayaku.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T20:43:44.513084"
+    },
+    {
+      "english": "Believe yourself, you can.",
+      "japanese": "自分を信じて、できる。",
+      "romaji": "jibun o shinjite, dekiru.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T20:43:44.513086"
+    },
+    {
+      "english": "Inner strength, grows daily.",
+      "japanese": "内なる強さ、日々育つ。",
+      "romaji": "uchinaru tsuyosa, hi hi sodatsu.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T20:43:44.513087"
+    },
+    {
+      "english": "Face it, with courage.",
+      "japanese": "立ち向かって、勇気を持って。",
+      "romaji": "tachimukatte, yuuki o motte.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T20:43:44.513088"
     }
   ],
-  "last_updated": "2026-08-10T14:54:02.838974"
+  "last_updated": "2026-08-10T20:43:44.513090"
 }
