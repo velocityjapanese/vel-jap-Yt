@@ -3569,7 +3569,42 @@
       "romaji": "Shū ni nikai, kendō no renshū o shimasu.",
       "category": "Hobbies Japanese",
       "generated_at": "2026-08-09T20:34:24.118226"
+    },
+    {
+      "english": "Let's start, please.",
+      "japanese": "始めましょう、お願いします。",
+      "romaji": "Hajimemashou, onegaishimasu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-08-10T14:54:02.838957"
+    },
+    {
+      "english": "Please check, this.",
+      "japanese": "こちらを、確認してください。",
+      "romaji": "Kochira o, kakunin shite kudasai.",
+      "category": "Work Japanese",
+      "generated_at": "2026-08-10T14:54:02.838968"
+    },
+    {
+      "english": "Is that, okay?",
+      "japanese": "それは、大丈夫ですか？",
+      "romaji": "Sore wa, daijoubu desu ka?",
+      "category": "Work Japanese",
+      "generated_at": "2026-08-10T14:54:02.838970"
+    },
+    {
+      "english": "I'll do it, later.",
+      "japanese": "後で、やります。",
+      "romaji": "Ato de, yarimasu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-08-10T14:54:02.838971"
+    },
+    {
+      "english": "Thank you, for your help.",
+      "japanese": "助かりました、ありがとうございます。",
+      "romaji": "Tasukarimashita, arigatou gozaimasu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-08-10T14:54:02.838972"
     }
   ],
-  "last_updated": "2026-08-09T20:34:24.118228"
+  "last_updated": "2026-08-10T14:54:02.838974"
 }
