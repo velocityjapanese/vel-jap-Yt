@@ -3639,7 +3639,42 @@
       "romaji": "tachimukatte, yuuki o motte.",
       "category": "Strength",
       "generated_at": "2026-08-10T20:43:44.513088"
+    },
+    {
+      "english": "My head, it hurts.",
+      "japanese": "頭が, 痛いです。",
+      "romaji": "Atama ga, itai desu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-11T14:54:21.362571"
+    },
+    {
+      "english": "My hand, is cold.",
+      "japanese": "手が, 冷たいです。",
+      "romaji": "Te ga, tsumetai desu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-11T14:54:21.362583"
+    },
+    {
+      "english": "My leg, is tired.",
+      "japanese": "足が, 疲れました。",
+      "romaji": "Ashi ga, tsukaremashita.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-11T14:54:21.362585"
+    },
+    {
+      "english": "My stomach, is hungry.",
+      "japanese": "お腹が, 空きました。",
+      "romaji": "Onaka ga, sukimashita.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-11T14:54:21.362586"
+    },
+    {
+      "english": "My eyes, are sleepy.",
+      "japanese": "目が, 眠いです。",
+      "romaji": "Me ga, nemui desu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-11T14:54:21.362587"
     }
   ],
-  "last_updated": "2026-08-10T20:43:44.513090"
+  "last_updated": "2026-08-11T14:54:21.362589"
 }
