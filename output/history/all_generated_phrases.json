@@ -3674,7 +3674,42 @@
       "romaji": "Me ga, nemui desu.",
       "category": "Body Japanese",
       "generated_at": "2026-08-11T14:54:21.362587"
+    },
+    {
+      "english": "I feel grateful, thank you for helping.",
+      "japanese": "ありがたい, 手伝ってくれてありがとう。",
+      "romaji": "arigatai, tetsudatte kurete arigatou",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-11T20:46:50.446028"
+    },
+    {
+      "english": "I feel proud, I did my best.",
+      "japanese": "誇らしい, 最善を尽くした。",
+      "romaji": "hokorashii, saizen o tsukushita",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-11T20:46:50.446037"
+    },
+    {
+      "english": "I feel annoyed, that noise is loud.",
+      "japanese": "イライラする, その音がうるさい。",
+      "romaji": "ira ira suru, sono oto ga urusai",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-11T20:46:50.446039"
+    },
+    {
+      "english": "I feel worried, what if something goes wrong?",
+      "japanese": "不安だ, 何か起きないかな。",
+      "romaji": "fuan da, nanika okinai kana",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-11T20:46:50.446040"
+    },
+    {
+      "english": "I feel hopeful, tomorrow will be better.",
+      "japanese": "希望がある, 明日はきっと良い。",
+      "romaji": "kibou ga aru, ashita wa kitto ii",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-08-11T20:46:50.446041"
     }
   ],
-  "last_updated": "2026-08-11T14:54:21.362589"
+  "last_updated": "2026-08-11T20:46:50.446043"
 }
