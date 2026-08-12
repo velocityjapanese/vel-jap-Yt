@@ -3744,7 +3744,42 @@
       "romaji": "egao o wakete, mainichi o akaruku",
       "category": "Kindness",
       "generated_at": "2026-08-12T14:53:17.376039"
+    },
+    {
+      "english": "I have a headache, mildly.",
+      "japanese": "頭が、少し痛いです。",
+      "romaji": "atama ga, sukoshi itai desu.",
+      "category": "Health Japanese",
+      "generated_at": "2026-08-12T20:46:54.926919"
+    },
+    {
+      "english": "Let's eat, something healthy.",
+      "japanese": "何か、健康的なものを食べましょう。",
+      "romaji": "nanika, kenkou-teki na mono wo tabemashou.",
+      "category": "Health Japanese",
+      "generated_at": "2026-08-12T20:46:54.926931"
+    },
+    {
+      "english": "My body, feels heavy.",
+      "japanese": "体が、だるいです。",
+      "romaji": "karada ga, darui desu.",
+      "category": "Health Japanese",
+      "generated_at": "2026-08-12T20:46:54.926933"
+    },
+    {
+      "english": "Sleep well, tonight.",
+      "japanese": "今夜は、よく眠ってください。",
+      "romaji": "kon'ya wa, yoku nemutte kudasai.",
+      "category": "Health Japanese",
+      "generated_at": "2026-08-12T20:46:54.926934"
+    },
+    {
+      "english": "I'm a little, tired.",
+      "japanese": "少し、疲れました。",
+      "romaji": "sukoshi, tsukaremashita.",
+      "category": "Health Japanese",
+      "generated_at": "2026-08-12T20:46:54.926935"
     }
   ],
-  "last_updated": "2026-08-12T14:53:17.376041"
+  "last_updated": "2026-08-12T20:46:54.926937"
 }
