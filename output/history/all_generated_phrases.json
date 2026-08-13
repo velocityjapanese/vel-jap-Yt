@@ -3814,7 +3814,42 @@
       "romaji": "Anata e no ai wa, sodatte ikimasu.",
       "category": "Love",
       "generated_at": "2026-08-13T14:54:45.455841"
+    },
+    {
+      "english": "Could I, have the menu, please?",
+      "japanese": "メニューを、いただけますか？",
+      "romaji": "menyuu o, itadakemasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-08-13T20:44:42.500917"
+    },
+    {
+      "english": "One more, of this, please.",
+      "japanese": "これを、もう一つ、お願いします。",
+      "romaji": "Kore o, mou hitotsu, onegaishimasu.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-08-13T20:44:42.500926"
+    },
+    {
+      "english": "Is this, spicy, by any chance?",
+      "japanese": "これって、辛いですか、もしかして？",
+      "romaji": "Kore tte, karai desu ka, moshikashite?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-08-13T20:44:42.500928"
+    },
+    {
+      "english": "We are ready, to order, now.",
+      "japanese": "注文、できます、もう。",
+      "romaji": "Chuumon, dekimasu, mou.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-08-13T20:44:42.500929"
+    },
+    {
+      "english": "Could we have, some water, please?",
+      "japanese": "お水を、いただけますか？",
+      "romaji": "Omizu o, itadakemasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-08-13T20:44:42.500930"
     }
   ],
-  "last_updated": "2026-08-13T14:54:45.455843"
+  "last_updated": "2026-08-13T20:44:42.500932"
 }
