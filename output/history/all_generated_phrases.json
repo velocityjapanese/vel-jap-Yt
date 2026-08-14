@@ -3849,7 +3849,42 @@
       "romaji": "Omizu o, itadakemasu ka?",
       "category": "Restaurant Japanese",
       "generated_at": "2026-08-13T20:44:42.500930"
+    },
+    {
+      "english": "Bright smile, shines on.",
+      "japanese": "明るい笑顔は、輝き続ける。",
+      "romaji": "Akarui egao wa, kagayaki tsuzukeru.",
+      "category": "Joy",
+      "generated_at": "2026-08-14T14:49:26.110128"
+    },
+    {
+      "english": "My spirit, feels light.",
+      "japanese": "私の心は、軽やかだ。",
+      "romaji": "Watashi no kokoro wa, karoyaka da.",
+      "category": "Joy",
+      "generated_at": "2026-08-14T14:49:26.110139"
+    },
+    {
+      "english": "A moment, of pure bliss.",
+      "japanese": "至福のひととき。",
+      "romaji": "Shifuku no hitotoki.",
+      "category": "Joy",
+      "generated_at": "2026-08-14T14:49:26.110141"
+    },
+    {
+      "english": "Feeling good, right now.",
+      "japanese": "気分がいい、今。",
+      "romaji": "Kibun ga ii, ima.",
+      "category": "Joy",
+      "generated_at": "2026-08-14T14:49:26.110142"
+    },
+    {
+      "english": "Joy blooms, inside me.",
+      "japanese": "喜びが咲く、心の中に。",
+      "romaji": "Yorokobi ga saku, kokoro no naka ni.",
+      "category": "Joy",
+      "generated_at": "2026-08-14T14:49:26.110143"
     }
   ],
-  "last_updated": "2026-08-13T20:44:42.500932"
+  "last_updated": "2026-08-14T14:49:26.110145"
 }
