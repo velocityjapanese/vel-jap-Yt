@@ -4024,7 +4024,42 @@
       "romaji": "ichido kiite, yukkuri kikaou",
       "category": "Inspiration",
       "generated_at": "2026-08-16T14:18:20.979465"
+    },
+    {
+      "english": "Thank you, I truly appreciate your help.",
+      "japanese": "助けてくれて、ほんとうにありがとうございます。",
+      "romaji": "tasukete kurete, hontou ni arigatou gozaimasu",
+      "category": "Gratitude",
+      "generated_at": "2026-08-16T20:23:35.217822"
+    },
+    {
+      "english": "Thanks, your kindness means a lot to me.",
+      "japanese": "ありがとうございます、あなたのやさしさがうれしいです。",
+      "romaji": "arigatou gozaimasu, anata no yasashisa ga ureshii desu",
+      "category": "Gratitude",
+      "generated_at": "2026-08-16T20:23:35.217829"
+    },
+    {
+      "english": "I’m grateful, you listened to me patiently.",
+      "japanese": "聞いてくれて、ありがとうございます、やさしく待ってくれました。",
+      "romaji": "kiite kurete, arigatou gozaimasu, yasashiku matte kuremashita",
+      "category": "Gratitude",
+      "generated_at": "2026-08-16T20:23:35.217831"
+    },
+    {
+      "english": "Thank you, I feel lucky to meet you.",
+      "japanese": "会えてよかったです、ありがとうございます。",
+      "romaji": "aete yokatta desu, arigatou gozaimasu",
+      "category": "Gratitude",
+      "generated_at": "2026-08-16T20:23:35.217833"
+    },
+    {
+      "english": "Thanks again, your support kept me going.",
+      "japanese": "支えてくれて、またありがとうございます、がんばれました。",
+      "romaji": "sasaete kurete, mata arigatou gozaimasu, ganbaremashita",
+      "category": "Gratitude",
+      "generated_at": "2026-08-16T20:23:35.217834"
     }
   ],
-  "last_updated": "2026-08-16T14:18:20.979467"
+  "last_updated": "2026-08-16T20:23:35.217835"
 }
