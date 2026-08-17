@@ -4094,7 +4094,42 @@
       "romaji": "mou ichido yat te, ashita wa raku ni naru",
       "category": "Motivation",
       "generated_at": "2026-08-17T14:23:43.036186"
+    },
+    {
+      "english": "Don't worry, about it.",
+      "japanese": "心配しないでください。",
+      "romaji": "shinpai shinaide kudasai.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:28:56.725664"
+    },
+    {
+      "english": "This way, please.",
+      "japanese": "こちらへどうぞ。",
+      "romaji": "kochira e douzo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:28:56.725673"
+    },
+    {
+      "english": "I understand, a little.",
+      "japanese": "少し、わかります。",
+      "romaji": "sukoshi, wakarimasu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:28:56.725675"
+    },
+    {
+      "english": "It's delicious, isn't it?",
+      "japanese": "美味しいですね。",
+      "romaji": "oishii desu ne.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:28:56.725676"
+    },
+    {
+      "english": "May I help, you?",
+      "japanese": "何かお手伝いしましょうか？",
+      "romaji": "nanika otetsudai shimashou ka?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:28:56.725677"
     }
   ],
-  "last_updated": "2026-08-17T14:23:43.036188"
+  "last_updated": "2026-08-17T20:28:56.725679"
 }
