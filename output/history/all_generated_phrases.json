@@ -4129,7 +4129,42 @@
       "romaji": "nanika otetsudai shimashou ka?",
       "category": "Common Expressions",
       "generated_at": "2026-08-17T20:28:56.725677"
+    },
+    {
+      "english": "My mom, is a great cook.",
+      "japanese": "母は、料理が上手です。",
+      "romaji": "Haha wa, ryouri ga jouzu desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-18T14:29:27.654998"
+    },
+    {
+      "english": "My dad, is always busy.",
+      "japanese": "父は、いつも忙しいです。",
+      "romaji": "Chichi wa, itsumo isogashii desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-18T14:29:27.655011"
+    },
+    {
+      "english": "My older brother, likes games.",
+      "japanese": "兄は、ゲームが好きです。",
+      "romaji": "Ani wa, geemu ga suki desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-18T14:29:27.655012"
+    },
+    {
+      "english": "My older sister, is kind.",
+      "japanese": "姉は、優しいです。",
+      "romaji": "Ane wa, yasashii desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-18T14:29:27.655014"
+    },
+    {
+      "english": "My younger brother, is energetic.",
+      "japanese": "弟は、元気です。",
+      "romaji": "Otouto wa, genki desu.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-18T14:29:27.655015"
     }
   ],
-  "last_updated": "2026-08-17T20:28:56.725679"
+  "last_updated": "2026-08-18T14:29:27.655017"
 }
