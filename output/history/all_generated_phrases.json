@@ -4234,7 +4234,42 @@
       "romaji": "yasashiku shiyou, tsukarete itemo",
       "category": "Friendship",
       "generated_at": "2026-08-19T15:12:34.019061"
+    },
+    {
+      "english": "It's sunny, today.",
+      "japanese": "今日は、晴れです。",
+      "romaji": "kyou wa, hare desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-08-19T20:29:24.187131"
+    },
+    {
+      "english": "It's raining, lightly.",
+      "japanese": "小雨が、降っています。",
+      "romaji": "kosame ga, futte imasu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-08-19T20:29:24.187139"
+    },
+    {
+      "english": "The wind, is strong.",
+      "japanese": "風が、強いです。",
+      "romaji": "kaze ga, tsuyoi desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-08-19T20:29:24.187141"
+    },
+    {
+      "english": "It's cloudy, a little.",
+      "japanese": "少し、曇っています。",
+      "romaji": "sukoshi, kumotte imasu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-08-19T20:29:24.187142"
+    },
+    {
+      "english": "It's cold, outside.",
+      "japanese": "外は、寒いです。",
+      "romaji": "soto wa, samui desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-08-19T20:29:24.187143"
     }
   ],
-  "last_updated": "2026-08-19T15:12:34.019063"
+  "last_updated": "2026-08-19T20:29:24.187145"
 }
