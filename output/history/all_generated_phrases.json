@@ -4304,7 +4304,42 @@
       "romaji": "Basu wa, dore kurai kakarimasu ka?",
       "category": "Travel Japanese",
       "generated_at": "2026-08-20T14:32:15.683394"
+    },
+    {
+      "english": "My ear, it itches.",
+      "japanese": "耳が, かゆいです。",
+      "romaji": "Mimi ga, kayui desu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-20T20:30:04.601866"
+    },
+    {
+      "english": "My nose, it tickles.",
+      "japanese": "鼻が, くすぐったいです。",
+      "romaji": "Hana ga, kusuguttai desu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-20T20:30:04.601876"
+    },
+    {
+      "english": "My throat, is dry.",
+      "japanese": "喉が, 乾きました。",
+      "romaji": "Nodo ga, kawakimashita.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-20T20:30:04.601878"
+    },
+    {
+      "english": "My back, feels stiff.",
+      "japanese": "背中が, こっています。",
+      "romaji": "Senaka ga, kotte imasu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-20T20:30:04.601879"
+    },
+    {
+      "english": "My foot, is sore.",
+      "japanese": "足の裏が, 痛みます。",
+      "romaji": "Ashi no ura ga, itamimasu.",
+      "category": "Body Japanese",
+      "generated_at": "2026-08-20T20:30:04.601880"
     }
   ],
-  "last_updated": "2026-08-20T14:32:15.683396"
+  "last_updated": "2026-08-20T20:30:04.601882"
 }
