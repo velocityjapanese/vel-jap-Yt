@@ -4269,7 +4269,42 @@
       "romaji": "soto wa, samui desu.",
       "category": "Weather Japanese",
       "generated_at": "2026-08-19T20:29:24.187143"
+    },
+    {
+      "english": "Where is the nearest subway station?",
+      "japanese": "一番近い地下鉄は、どこですか？",
+      "romaji": "Ichi-ban chikai chikatetsu wa, doko desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-20T14:32:15.683378"
+    },
+    {
+      "english": "Can you take a photo of us, please?",
+      "japanese": "写真を撮ってもらえますか？",
+      "romaji": "Shashin o totte moraemasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-20T14:32:15.683389"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "japanese": "学生割引はありますか？",
+      "romaji": "Gakusei waribiki wa arimasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-20T14:32:15.683391"
+    },
+    {
+      "english": "I’d like this, and that too",
+      "japanese": "これと、それもください",
+      "romaji": "Kore to, sore mo kudasai",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-20T14:32:15.683393"
+    },
+    {
+      "english": "How long does the bus take?",
+      "japanese": "バスは、どれくらいかかりますか？",
+      "romaji": "Basu wa, dore kurai kakarimasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-08-20T14:32:15.683394"
     }
   ],
-  "last_updated": "2026-08-19T20:29:24.187145"
+  "last_updated": "2026-08-20T14:32:15.683396"
 }
