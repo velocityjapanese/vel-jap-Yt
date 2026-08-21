@@ -4374,7 +4374,42 @@
       "romaji": "Shigoto o hajimemasu, shūchū shimasu.",
       "category": "Daily Routine",
       "generated_at": "2026-08-21T14:30:03.829849"
+    },
+    {
+      "english": "White snow, falls gently.",
+      "japanese": "白い雪が、静かに降っています。",
+      "romaji": "shiroi yuki ga, shizuka ni futte imasu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-21T20:27:21.788988"
+    },
+    {
+      "english": "Black night, is silent.",
+      "japanese": "黒い夜は、静かです。",
+      "romaji": "kuroi yoru wa, shizuka desu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-21T20:27:21.788998"
+    },
+    {
+      "english": "Orange fruit, tastes sweet.",
+      "japanese": "オレンジ色の果物は、甘いです。",
+      "romaji": "orenji-iro no kudamono wa, amai desu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-21T20:27:21.788999"
+    },
+    {
+      "english": "Pink ribbon, looks cute.",
+      "japanese": "ピンクのリボンは、可愛いです。",
+      "romaji": "pinku no ribon wa, kawaii desu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-21T20:27:21.789001"
+    },
+    {
+      "english": "Brown earth, feels warm.",
+      "japanese": "茶色い大地は、暖かく感じます。",
+      "romaji": "chairoi daichi wa, atatakaku kanjimasu.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-08-21T20:27:21.789002"
     }
   ],
-  "last_updated": "2026-08-21T14:30:03.829850"
+  "last_updated": "2026-08-21T20:27:21.789004"
 }
