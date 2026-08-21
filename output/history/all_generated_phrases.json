@@ -4339,7 +4339,42 @@
       "romaji": "Ashi no ura ga, itamimasu.",
       "category": "Body Japanese",
       "generated_at": "2026-08-20T20:30:04.601880"
+    },
+    {
+      "english": "Get dressed, choose clothes.",
+      "japanese": "服を着ます、選びます。",
+      "romaji": "Fuku o kimasu, erabimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-21T14:30:03.829834"
+    },
+    {
+      "english": "Go to work, by train.",
+      "japanese": "仕事に行きます、電車で。",
+      "romaji": "Shigoto ni ikimasu, densha de.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-21T14:30:03.829844"
+    },
+    {
+      "english": "Listen to music, on the way.",
+      "japanese": "音楽を聴きます、道中で。",
+      "romaji": "Ongaku o kikimasu, dōchū de.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-21T14:30:03.829846"
+    },
+    {
+      "english": "Arrive at office, say hello.",
+      "japanese": "会社に着きます、挨拶します。",
+      "romaji": "Kaisha ni tsukimasu, aisatsu shimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-21T14:30:03.829847"
+    },
+    {
+      "english": "Start work, focus now.",
+      "japanese": "仕事を始めます、集中します。",
+      "romaji": "Shigoto o hajimemasu, shūchū shimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-21T14:30:03.829849"
     }
   ],
-  "last_updated": "2026-08-20T20:30:04.601882"
+  "last_updated": "2026-08-21T14:30:03.829850"
 }
