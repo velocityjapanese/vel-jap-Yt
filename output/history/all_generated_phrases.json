@@ -4444,7 +4444,42 @@
       "romaji": "Kaji desu! Abunai! Nigete!",
       "category": "Emergency Japanese",
       "generated_at": "2026-08-22T14:16:53.382077"
+    },
+    {
+      "english": "Hello, nice to meet you, today is great",
+      "japanese": "こんにちは、はじめまして、今日はいい日ですね",
+      "romaji": "konnichiwa, hajimemashite, kyou wa ii hi desu ne",
+      "category": "Greetings",
+      "generated_at": "2026-08-22T20:24:23.640705"
+    },
+    {
+      "english": "Good morning, how are you, today’s fresh",
+      "japanese": "おはようございます、元気ですか、今日は爽やか",
+      "romaji": "ohayou gozaimasu, genki desu ka, kyou wa sawa yaka",
+      "category": "Greetings",
+      "generated_at": "2026-08-22T20:24:23.640716"
+    },
+    {
+      "english": "Good evening, please come in, have a seat",
+      "japanese": "こんばんは、どうぞお入りください、座ってください",
+      "romaji": "konbanwa, douzo ohairi kudasai, suwatte kudasai",
+      "category": "Greetings",
+      "generated_at": "2026-08-22T20:24:23.640717"
+    },
+    {
+      "english": "Hi there, what’s up, let’s talk",
+      "japanese": "やあ、調子どう？ ちょっと話しましょう",
+      "romaji": "yaa, choushi dou? chotto hanashimashou",
+      "category": "Greetings",
+      "generated_at": "2026-08-22T20:24:23.640718"
+    },
+    {
+      "english": "Nice to see you again, welcome back, today",
+      "japanese": "また会えました、ようこそお帰りなさい、今日は",
+      "romaji": "mata aerimashita, youkoso okaeri nasai, kyou wa",
+      "category": "Greetings",
+      "generated_at": "2026-08-22T20:24:23.640719"
     }
   ],
-  "last_updated": "2026-08-22T14:16:53.382079"
+  "last_updated": "2026-08-22T20:24:23.640721"
 }
