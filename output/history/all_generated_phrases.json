@@ -4409,7 +4409,42 @@
       "romaji": "chairoi daichi wa, atatakaku kanjimasu.",
       "category": "Colors Japanese",
       "generated_at": "2026-08-21T20:27:21.789002"
+    },
+    {
+      "english": "I feel sick. Very.",
+      "japanese": "気分が悪いです。とても。",
+      "romaji": "Kibun ga warui desu. Totemo.",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-22T14:16:53.382063"
+    },
+    {
+      "english": "Call an ambulance. Now.",
+      "japanese": "救急車を呼んでください。今。",
+      "romaji": "Kyuukyuu-sha o yonde kudasai. Ima.",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-22T14:16:53.382073"
+    },
+    {
+      "english": "Is there a hospital? Here?",
+      "japanese": "病院はありますか？ここに？",
+      "romaji": "Byouin wa arimasu ka? Koko ni?",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-22T14:16:53.382075"
+    },
+    {
+      "english": "I need a restroom. Where?",
+      "japanese": "トイレはどこですか？",
+      "romaji": "Toire wa doko desu ka?",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-22T14:16:53.382076"
+    },
+    {
+      "english": "Fire! Danger! Run!",
+      "japanese": "火事です！危ない！逃げて！",
+      "romaji": "Kaji desu! Abunai! Nigete!",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-22T14:16:53.382077"
     }
   ],
-  "last_updated": "2026-08-21T20:27:21.789004"
+  "last_updated": "2026-08-22T14:16:53.382079"
 }
