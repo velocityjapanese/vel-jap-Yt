@@ -4514,7 +4514,42 @@
       "romaji": "Doryoku wa subete, imi ga aru yo.",
       "category": "Success",
       "generated_at": "2026-08-23T14:19:15.914641"
+    },
+    {
+      "english": "Work smart, play hard.",
+      "japanese": "賢く働き、思いっきり遊ぶ。",
+      "romaji": "Kashikoku hataraki, omoikkiri asobu.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T20:24:24.082965"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "japanese": "深く息をして、話しましょう。",
+      "romaji": "Fukaku iki o shite, hanashimashou.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T20:24:24.082974"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "japanese": "よく聞いて、少なく話す。",
+      "romaji": "Yoku kiite, sukunaku hanasu.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T20:24:24.082975"
+    },
+    {
+      "english": "Save now, enjoy later.",
+      "japanese": "今貯めて、後で楽しむ。",
+      "romaji": "Ima tamete, ato de tanoshimu.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T20:24:24.082976"
+    },
+    {
+      "english": "Move slow, stay steady.",
+      "japanese": "ゆっくり動いて、安定を保つ。",
+      "romaji": "Yukkuri ugoite, antei o tamotsu.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T20:24:24.082978"
     }
   ],
-  "last_updated": "2026-08-23T14:19:15.914643"
+  "last_updated": "2026-08-23T20:24:24.082979"
 }
