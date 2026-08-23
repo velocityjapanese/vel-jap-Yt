@@ -4479,7 +4479,42 @@
       "romaji": "mata aerimashita, youkoso okaeri nasai, kyou wa",
       "category": "Greetings",
       "generated_at": "2026-08-22T20:24:23.640719"
+    },
+    {
+      "english": "Little by little, progress.",
+      "japanese": "少しずつ、進歩だ。",
+      "romaji": "Sukoshi zutsu, shinpo da.",
+      "category": "Success",
+      "generated_at": "2026-08-23T14:19:15.914626"
+    },
+    {
+      "english": "One step at a time.",
+      "japanese": "一歩ずつ、着実に。",
+      "romaji": "Ippo zutsu, chakujitsu ni.",
+      "category": "Success",
+      "generated_at": "2026-08-23T14:19:15.914637"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "japanese": "諦めないで、もう一度。",
+      "romaji": "Akiramenai de, mou ichido.",
+      "category": "Success",
+      "generated_at": "2026-08-23T14:19:15.914639"
+    },
+    {
+      "english": "Learning is fun, isn't it?",
+      "japanese": "勉強は楽しいね、そうだろ？",
+      "romaji": "Benkyou wa tanoshii ne, sou daro?",
+      "category": "Success",
+      "generated_at": "2026-08-23T14:19:15.914640"
+    },
+    {
+      "english": "Every effort counts, you know.",
+      "japanese": "努力は全て、意味があるよ。",
+      "romaji": "Doryoku wa subete, imi ga aru yo.",
+      "category": "Success",
+      "generated_at": "2026-08-23T14:19:15.914641"
     }
   ],
-  "last_updated": "2026-08-22T20:24:23.640721"
+  "last_updated": "2026-08-23T14:19:15.914643"
 }
