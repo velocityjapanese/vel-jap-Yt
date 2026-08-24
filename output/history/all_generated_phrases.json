@@ -4584,7 +4584,42 @@
       "romaji": "Machigai wa, mananda kyoukun.",
       "category": "Self Improvement",
       "generated_at": "2026-08-24T14:37:19.104692"
+    },
+    {
+      "english": "Share your smile, often.",
+      "japanese": "笑顔を, たくさん見せてね。",
+      "romaji": "egao o, takusan misete ne.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T20:32:20.295677"
+    },
+    {
+      "english": "Help a friend, today.",
+      "japanese": "友達を, 今日助けてあげよう。",
+      "romaji": "tomodachi o, kyō tasukete ageyō.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T20:32:20.295690"
+    },
+    {
+      "english": "Listen carefully, to others.",
+      "japanese": "相手の話, よく聞いてあげて。",
+      "romaji": "aite no hanashi, yoku kiite agete.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T20:32:20.295691"
+    },
+    {
+      "english": "Be gentle, with everyone.",
+      "japanese": "皆に, 優しく接しましょう。",
+      "romaji": "minna ni, yasashiku sesshimashō.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T20:32:20.295692"
+    },
+    {
+      "english": "Offer help, when you can.",
+      "japanese": "できる時は, 手を貸してあげて。",
+      "romaji": "dekiru toki wa, te o kashite agete.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T20:32:20.295693"
     }
   ],
-  "last_updated": "2026-08-24T14:37:19.104694"
+  "last_updated": "2026-08-24T20:32:20.295695"
 }
