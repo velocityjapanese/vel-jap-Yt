@@ -4794,7 +4794,42 @@
       "romaji": "jikan o arigatou, doryoku shite kurete kansha shimasu",
       "category": "Gratitude",
       "generated_at": "2026-08-27T23:31:31.620846"
+    },
+    {
+      "english": "Turn left, at the next corner.",
+      "japanese": "次の角で、左に曲がってください。",
+      "romaji": "tsugi no kado de, hidari ni magatte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-08-28T04:06:00.183521"
+    },
+    {
+      "english": "Go straight, until you see the station.",
+      "japanese": "駅が見えるまで、まっすぐ行ってください。",
+      "romaji": "eki ga mieru made, massugu itte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-08-28T04:06:00.183532"
+    },
+    {
+      "english": "Cross the bridge, and keep going.",
+      "japanese": "橋を渡って、そのまま進んでください。",
+      "romaji": "hashi o watatte, sonomama susunde kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-08-28T04:06:00.183533"
+    },
+    {
+      "english": "It's on your right, across the street.",
+      "japanese": "道の向こう側、右手にあります。",
+      "romaji": "michi no mukou gawa, migite ni arimasu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-08-28T04:06:00.183535"
+    },
+    {
+      "english": "Walk past the convenience store.",
+      "japanese": "コンビニを通り過ぎてください。",
+      "romaji": "konbini o toorisugite kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-08-28T04:06:00.183535"
     }
   ],
-  "last_updated": "2026-08-27T23:31:31.620849"
+  "last_updated": "2026-08-28T04:06:00.183537"
 }
