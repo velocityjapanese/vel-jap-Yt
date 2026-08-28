@@ -4829,7 +4829,42 @@
       "romaji": "konbini o toorisugite kudasai.",
       "category": "Direction Japanese",
       "generated_at": "2026-08-28T04:06:00.183535"
+    },
+    {
+      "english": "Let's try, just try.",
+      "japanese": "やってみよう、とにかく。",
+      "romaji": "yatte miyou, tonikaku.",
+      "category": "Confidence",
+      "generated_at": "2026-08-28T23:22:39.507445"
+    },
+    {
+      "english": "Every step, counts.",
+      "japanese": "一歩一歩が、大切。",
+      "romaji": "ippo ippo ga, taisetsu.",
+      "category": "Confidence",
+      "generated_at": "2026-08-28T23:22:39.507456"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "japanese": "恥ずかしがらず、話そう。",
+      "romaji": "hazukashi garazu, hanasou.",
+      "category": "Confidence",
+      "generated_at": "2026-08-28T23:22:39.507457"
+    },
+    {
+      "english": "Mistakes are good, lessons.",
+      "japanese": "間違いは良い、学び。",
+      "romaji": "machigai wa yoi, manabi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-28T23:22:39.507459"
+    },
+    {
+      "english": "You can do this, I believe.",
+      "japanese": "できるよ、信じてる。",
+      "romaji": "dekiru yo, shinjiteru.",
+      "category": "Confidence",
+      "generated_at": "2026-08-28T23:22:39.507460"
     }
   ],
-  "last_updated": "2026-08-28T04:06:00.183537"
+  "last_updated": "2026-08-28T23:22:39.507462"
 }
