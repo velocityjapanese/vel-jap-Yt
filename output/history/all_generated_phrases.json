@@ -4934,7 +4934,42 @@
       "romaji": "mune ni te o atete, ima ochitsuite",
       "category": "Body Japanese",
       "generated_at": "2026-08-29T17:29:23.915279"
+    },
+    {
+      "english": "For my future, I study hard.",
+      "japanese": "未来のために、一生懸命勉強します。",
+      "romaji": "mirai no tame ni, isshōkenmei benkyō shimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-29T22:27:58.048878"
+    },
+    {
+      "english": "To communicate, I learn Japanese.",
+      "japanese": "話せるように、日本語を学びます。",
+      "romaji": "hanaseru yō ni, nihongo o manabimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-29T22:27:58.048887"
+    },
+    {
+      "english": "For travel, I practice phrases.",
+      "japanese": "旅行のために、フレーズを練習します。",
+      "romaji": "ryokō no tame ni, furēzu o renshū shimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-29T22:27:58.048888"
+    },
+    {
+      "english": "To understand, I listen closely.",
+      "japanese": "理解するために、よく聞きます。",
+      "romaji": "rikai suru tame ni, yoku kikimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-29T22:27:58.048890"
+    },
+    {
+      "english": "For culture, I read books.",
+      "japanese": "文化のために、本を読みます。",
+      "romaji": "bunka no tame ni, hon o yomimasu.",
+      "category": "Purpose",
+      "generated_at": "2026-08-29T22:27:58.048891"
     }
   ],
-  "last_updated": "2026-08-29T17:29:23.915281"
+  "last_updated": "2026-08-29T22:27:58.048892"
 }
