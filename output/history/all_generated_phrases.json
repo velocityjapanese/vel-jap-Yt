@@ -4864,7 +4864,42 @@
       "romaji": "dekiru yo, shinjiteru.",
       "category": "Confidence",
       "generated_at": "2026-08-28T23:22:39.507460"
+    },
+    {
+      "english": "I’ll be here, when you need me",
+      "japanese": "必要なときは、そばにいるよ",
+      "romaji": "hitsuyou na toki wa, soba ni iru yo",
+      "category": "Friendship",
+      "generated_at": "2026-08-29T02:45:22.029412"
+    },
+    {
+      "english": "We walk forward, one step at a time",
+      "japanese": "一歩ずつ進もう、いっしょにね",
+      "romaji": "ippozutsu susumou, isshoni ne",
+      "category": "Friendship",
+      "generated_at": "2026-08-29T02:45:22.029421"
+    },
+    {
+      "english": "Listen well, your words matter",
+      "japanese": "よく聞いてね、あなたの言葉は大切",
+      "romaji": "yoku kiite ne, anata no kotoba wa taisetsu",
+      "category": "Friendship",
+      "generated_at": "2026-08-29T02:45:22.029423"
+    },
+    {
+      "english": "Keep your promises, friends count on you",
+      "japanese": "約束を守ろう、友だちは信じる",
+      "romaji": "yakusoku o mamorou, tomodachiwa shinjiru",
+      "category": "Friendship",
+      "generated_at": "2026-08-29T02:45:22.029424"
+    },
+    {
+      "english": "Together is better, let’s do this",
+      "japanese": "いっしょがいいね、やろう",
+      "romaji": "isshoga ii ne, yarou",
+      "category": "Friendship",
+      "generated_at": "2026-08-29T02:45:22.029426"
     }
   ],
-  "last_updated": "2026-08-28T23:22:39.507462"
+  "last_updated": "2026-08-29T02:45:22.029427"
 }
