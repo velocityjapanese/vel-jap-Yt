@@ -4969,7 +4969,42 @@
       "romaji": "bunka no tame ni, hon o yomimasu.",
       "category": "Purpose",
       "generated_at": "2026-08-29T22:27:58.048891"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "japanese": "おはようございます、元気ですか。",
+      "romaji": "ohayou gozaimasu, genki desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T17:52:57.084132"
+    },
+    {
+      "english": "Please wait here, just a moment.",
+      "japanese": "ここで待ってください、少しだけ。",
+      "romaji": "koko de matte kudasai, sukoshi dake.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T17:52:57.084142"
+    },
+    {
+      "english": "I want coffee, not tea, please.",
+      "japanese": "コーヒーがいいです、紅茶はだめです。",
+      "romaji": "koohii ga ii desu, koucha wa dame desu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T17:52:57.084144"
+    },
+    {
+      "english": "Where is the station, near here?",
+      "japanese": "駅はどこですか、近くですか。",
+      "romaji": "eki wa doko desu ka, chikai desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T17:52:57.084146"
+    },
+    {
+      "english": "I’m sorry, that was my mistake.",
+      "japanese": "すみません、私のミスです。",
+      "romaji": "sumimasen, watashi no misu desu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T17:52:57.084147"
     }
   ],
-  "last_updated": "2026-08-29T22:27:58.048892"
+  "last_updated": "2026-08-30T17:52:57.084149"
 }
