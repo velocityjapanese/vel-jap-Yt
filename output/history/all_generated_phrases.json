@@ -5004,7 +5004,42 @@
       "romaji": "sumimasen, watashi no misu desu.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-30T17:52:57.084147"
+    },
+    {
+      "english": "This one, please.",
+      "japanese": "これ, お願いします。",
+      "romaji": "Kore, onegaishimasu.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-08-30T22:28:33.473188"
+    },
+    {
+      "english": "How much is this?",
+      "japanese": "これは, いくらですか？",
+      "romaji": "Kore wa, ikura desu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-08-30T22:28:33.473197"
+    },
+    {
+      "english": "Do you have this, in blue?",
+      "japanese": "これ, 青いのはありますか？",
+      "romaji": "Kore, aoi no wa arimasu ka?",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-08-30T22:28:33.473198"
+    },
+    {
+      "english": "I'm just looking, thank you.",
+      "japanese": "ちょっと, 見ているだけです。",
+      "romaji": "Chotto, mite iru dake desu.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-08-30T22:28:33.473199"
+    },
+    {
+      "english": "I'll take this, one.",
+      "japanese": "これを, １つください。",
+      "romaji": "Kore o, hitotsu kudasai.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-08-30T22:28:33.473200"
     }
   ],
-  "last_updated": "2026-08-30T17:52:57.084149"
+  "last_updated": "2026-08-30T22:28:33.473202"
 }
