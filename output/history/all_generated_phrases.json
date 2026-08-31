@@ -5039,7 +5039,42 @@
       "romaji": "Kore o, hitotsu kudasai.",
       "category": "Shopping Japanese",
       "generated_at": "2026-08-30T22:28:33.473200"
+    },
+    {
+      "english": "Call 119 now, it's an emergency",
+      "japanese": "いますぐ119番, 緊急です",
+      "romaji": "imasugu 119ban, kinkyū desu",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-31T19:49:25.856121"
+    },
+    {
+      "english": "Call 119, someone is hurt",
+      "japanese": "119番して, ケガ人がいます",
+      "romaji": "119ban shite, kegan ga imasu",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-31T19:49:25.856132"
+    },
+    {
+      "english": "Help me, I can't breathe",
+      "japanese": "たすけて, わたしは息ができません",
+      "romaji": "tasukete, watashi wa iki ga dekimasen",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-31T19:49:25.856134"
+    },
+    {
+      "english": "Stop, the road is dangerous",
+      "japanese": "止まって, 道が危ないです",
+      "romaji": "tomatte, michi ga abunai desu",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-31T19:49:25.856137"
+    },
+    {
+      "english": "Stay back, keep distance, please",
+      "japanese": "下がって, 距離をとってください",
+      "romaji": "sagatte, kyori o totte kudasai",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-08-31T19:49:25.856138"
     }
   ],
-  "last_updated": "2026-08-30T22:28:33.473202"
+  "last_updated": "2026-08-31T19:49:25.856139"
 }
