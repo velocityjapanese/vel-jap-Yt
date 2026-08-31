@@ -5074,7 +5074,42 @@
       "romaji": "sagatte, kyori o totte kudasai",
       "category": "Emergency Japanese",
       "generated_at": "2026-08-31T19:49:25.856138"
+    },
+    {
+      "english": "Wake up, drink water, breathe slowly",
+      "japanese": "起きたら、水を飲んで、ゆっくり深呼吸",
+      "romaji": "ok i tara, mizu o nonde, yukkuri shinkokyuu",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-31T23:40:11.323820"
+    },
+    {
+      "english": "Wash your face, brush teeth, get ready",
+      "japanese": "顔を洗って、歯をみがいて、準備する",
+      "romaji": "kao o aratte, ha o migai te, junbi suru",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-31T23:40:11.323829"
+    },
+    {
+      "english": "Eat breakfast, pack your bag, leave",
+      "japanese": "朝ごはんを食べて、かばんを用意して、出る",
+      "romaji": "asagohan o tabete, kaban o yōi shite, deru",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-31T23:40:11.323831"
+    },
+    {
+      "english": "On the train, review yesterday’s notes",
+      "japanese": "電車で、昨日のノートを見直す",
+      "romaji": "densha de, kinō no nōto o minaosu",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-31T23:40:11.323832"
+    },
+    {
+      "english": "Lunch break, take a short walk",
+      "japanese": "昼休み、少し歩いて、気分転換",
+      "romaji": "hiruyasumi, sukoshi aruite, kibun tenkan",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-31T23:40:11.323834"
     }
   ],
-  "last_updated": "2026-08-31T19:49:25.856139"
+  "last_updated": "2026-08-31T23:40:11.323836"
 }
