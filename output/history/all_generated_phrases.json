@@ -5144,7 +5144,42 @@
       "romaji": "Rōma wa, ichinichi de wa tatanakatta.",
       "category": "Patience",
       "generated_at": "2026-09-01T17:33:09.917934"
+    },
+    {
+      "english": "Blue sky, calm and clear",
+      "japanese": "青い空, こころが落ち着く",
+      "romaji": "aoi sora, kokoro ga ochi tsuku",
+      "category": "Colors Japanese",
+      "generated_at": "2026-09-01T22:26:49.871568"
+    },
+    {
+      "english": "Red roses, brighten the room",
+      "japanese": "赤いバラ, 部屋が明るくなる",
+      "romaji": "akai bara, heya ga akaruku naru",
+      "category": "Colors Japanese",
+      "generated_at": "2026-09-01T22:26:49.871580"
+    },
+    {
+      "english": "Green leaves, feel fresh",
+      "japanese": "緑の葉っぱ, すごく元気",
+      "romaji": "midori no happa, sugoku genki",
+      "category": "Colors Japanese",
+      "generated_at": "2026-09-01T22:26:49.871582"
+    },
+    {
+      "english": "Yellow sunlight, warm your face",
+      "japanese": "黄色いひだまり, ほほがあたたかい",
+      "romaji": "kiiroi hidamari, hoho ga atatakai",
+      "category": "Colors Japanese",
+      "generated_at": "2026-09-01T22:26:49.871585"
+    },
+    {
+      "english": "Purple night, soft and quiet",
+      "japanese": "紫の夜, しずかでやさしい",
+      "romaji": "murasaki no yoru, shizuka de yasashii",
+      "category": "Colors Japanese",
+      "generated_at": "2026-09-01T22:26:49.871587"
     }
   ],
-  "last_updated": "2026-09-01T17:33:09.917935"
+  "last_updated": "2026-09-01T22:26:49.871590"
 }
