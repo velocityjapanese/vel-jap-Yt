@@ -5179,7 +5179,42 @@
       "romaji": "murasaki no yoru, shizuka de yasashii",
       "category": "Colors Japanese",
       "generated_at": "2026-09-01T22:26:49.871587"
+    },
+    {
+      "english": "My mom cooks dinner, every day",
+      "japanese": "母は毎日、夕ご飯を作ります",
+      "romaji": "haha wa maindes, yūgohan o tsukurimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T17:34:36.423043"
+    },
+    {
+      "english": "My dad repairs bikes, on weekends",
+      "japanese": "父は週末に、自転車を直します",
+      "romaji": "chichi wa shūmatsu ni, jitensha o naoshimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T17:34:36.423055"
+    },
+    {
+      "english": "My sister laughs loudly, in the room",
+      "japanese": "姉は部屋で、大きく笑います",
+      "romaji": "ane wa heya de, ōkiku waraimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T17:34:36.423056"
+    },
+    {
+      "english": "My brother studies quietly, after school",
+      "japanese": "弟は放課後、静かに勉強します",
+      "romaji": "otōto wa hōkago, shizuka ni benkyō shimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T17:34:36.423058"
+    },
+    {
+      "english": "My grandma waters plants, softly",
+      "japanese": "祖母は植物に、やさしく水をあげます",
+      "romaji": "sobo wa shokubutsu ni, yasashiku mizu o agemasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-02T17:34:36.423059"
     }
   ],
-  "last_updated": "2026-09-01T22:26:49.871590"
+  "last_updated": "2026-09-02T17:34:36.423061"
 }
