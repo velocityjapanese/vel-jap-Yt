@@ -5284,7 +5284,42 @@
       "romaji": "jibun o shin jite, susumi tsudzukeyō.",
       "category": "Perseverance",
       "generated_at": "2026-09-03T17:29:07.382821"
+    },
+    {
+      "english": "Welcome in, we have fresh lunch sets",
+      "japanese": "いらっしゃいませ、ランチセットをご用意しています",
+      "romaji": "irasshaimase, ranchi setto o goyōi shiteimasu",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-03T22:22:27.877644"
+    },
+    {
+      "english": "Please wait, your table is being prepared",
+      "japanese": "お待ちください、席を準備しています",
+      "romaji": "omachi kudasai, seki o junbi shiteimasu",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-03T22:22:27.877659"
+    },
+    {
+      "english": "Would you like water, or sparkling water?",
+      "japanese": "お水か炭酸水、どちらがよろしいですか",
+      "romaji": "omizu ka tansan-sui, dochira ga yoroshii desu ka",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-03T22:22:27.877662"
+    },
+    {
+      "english": "This soup is mild, try it first",
+      "japanese": "このスープはやさしい味です、まずどうぞ",
+      "romaji": "kono sūpu wa yasashii aji desu, mazu dōzo",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-03T22:22:27.877665"
+    },
+    {
+      "english": "No problem, we can adjust the spice level",
+      "japanese": "大丈夫です、辛さは調整できます",
+      "romaji": "daijōbu desu, karasa wa chōsei dekimasu",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-03T22:22:27.877667"
     }
   ],
-  "last_updated": "2026-09-03T17:29:07.382822"
+  "last_updated": "2026-09-03T22:22:27.877671"
 }
