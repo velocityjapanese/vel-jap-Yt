@@ -5319,7 +5319,42 @@
       "romaji": "daijōbu desu, karasa wa chōsei dekimasu",
       "category": "Restaurant Japanese",
       "generated_at": "2026-09-03T22:22:27.877667"
+    },
+    {
+      "english": "My chest feels tight, so nervous...",
+      "japanese": "胸が締め付けられる、緊張する...",
+      "romaji": "Mune ga shimitsukerareru, kinchō suru...",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-04T17:21:06.199012"
+    },
+    {
+      "english": "I'm a bit disappointed, but okay...",
+      "japanese": "少し残念、でも大丈夫...",
+      "romaji": "Sukoshi zan'nen, demo daijōbu...",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-04T17:21:06.199024"
+    },
+    {
+      "english": "I'm so excited, can't wait any longer!",
+      "japanese": "わくわくする、待ちきれない！",
+      "romaji": "Wakuwaku suru, machikirenai!",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-04T17:21:06.199026"
+    },
+    {
+      "english": "I feel lonely, even with people around...",
+      "japanese": "寂しいな、周りに人がいても...",
+      "romaji": "Sabishii na, mawari ni hito ga ite mo...",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-04T17:21:06.199027"
+    },
+    {
+      "english": "I'm touched, thank you so much...",
+      "japanese": "感動した、本当にありがとう...",
+      "romaji": "Kandō shita, hontō ni arigatō...",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-04T17:21:06.199028"
     }
   ],
-  "last_updated": "2026-09-03T22:22:27.877671"
+  "last_updated": "2026-09-04T17:21:06.199030"
 }
