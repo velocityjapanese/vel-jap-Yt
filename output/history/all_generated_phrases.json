@@ -5354,7 +5354,42 @@
       "romaji": "Kandō shita, hontō ni arigatō...",
       "category": "Feelings Japanese",
       "generated_at": "2026-09-04T17:21:06.199028"
+    },
+    {
+      "english": "Face your fears, step forward.",
+      "japanese": "恐れに立ち向かい、一歩踏み出そう。",
+      "romaji": "osore ni tachimukai, ippo fumidasou.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:11:48.428989"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "japanese": "もう一度挑戦、諦めないで。",
+      "romaji": "mou ichido chousen, akiramenai de.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:11:48.429000"
+    },
+    {
+      "english": "Be brave, be strong.",
+      "japanese": "勇敢であれ、強くあれ。",
+      "romaji": "yuukan de are, tsuyoku are.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:11:48.429001"
+    },
+    {
+      "english": "A new day, a new start.",
+      "japanese": "新しい日、新しい始まり。",
+      "romaji": "atarashii hi, atarashii hajimari.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:11:48.429003"
+    },
+    {
+      "english": "Push your limits, gently.",
+      "japanese": "限界を押し広げ、優しく。",
+      "romaji": "genkai wo oshihiroge, yasashiku.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:11:48.429004"
     }
   ],
-  "last_updated": "2026-09-04T17:21:06.199030"
+  "last_updated": "2026-09-04T22:11:48.429005"
 }
