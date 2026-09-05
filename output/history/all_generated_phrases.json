@@ -5424,7 +5424,42 @@
       "romaji": "mokuhyou o tatete, shizuka ni hataraokou",
       "category": "Success",
       "generated_at": "2026-09-05T16:30:37.885605"
+    },
+    {
+      "english": "Take the first right, it's nearby.",
+      "japanese": "最初を右に曲がって、すぐそこです。",
+      "romaji": "saisho o migi ni magatte, sugu soko desu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-09-05T21:57:51.347809"
+    },
+    {
+      "english": "The post office, is just ahead.",
+      "japanese": "郵便局は、この先にあります。",
+      "romaji": "yuubinkyoku wa, kono saki ni arimasu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-09-05T21:57:51.347819"
+    },
+    {
+      "english": "You'll find it, near the park.",
+      "japanese": "公園の近くに、見つかるはずです。",
+      "romaji": "kouen no chikaku ni, mitsukaru hazu desu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-09-05T21:57:51.347821"
+    },
+    {
+      "english": "Look for the red building.",
+      "japanese": "赤い建物を見てください。",
+      "romaji": "akai tatemono o mite kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-09-05T21:57:51.347822"
+    },
+    {
+      "english": "It's about five minutes, on foot.",
+      "japanese": "歩いて５分くらいです。",
+      "romaji": "aruite go-fun kurai desu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-09-05T21:57:51.347823"
     }
   ],
-  "last_updated": "2026-09-05T16:30:37.885607"
+  "last_updated": "2026-09-05T21:57:51.347825"
 }
