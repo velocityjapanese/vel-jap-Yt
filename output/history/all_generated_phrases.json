@@ -5459,7 +5459,42 @@
       "romaji": "aruite go-fun kurai desu.",
       "category": "Direction Japanese",
       "generated_at": "2026-09-05T21:57:51.347823"
+    },
+    {
+      "english": "Excuse me, this tastes amazing!",
+      "japanese": "すみません、本当に美味しいです！",
+      "romaji": "Sumimasen, hontō ni oishii desu!",
+      "category": "Travel Japanese",
+      "generated_at": "2026-09-06T16:41:12.358835"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "japanese": "SIMカードは、どこで買えますか？",
+      "romaji": "SIM kādo wa, doko de kaemasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-09-06T16:41:12.358845"
+    },
+    {
+      "english": "Is this train going to Tokyo Station?",
+      "japanese": "この電車は、東京駅に行きますか？",
+      "romaji": "Kono densha wa, Tōkyō-eki ni ikimasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-09-06T16:41:12.358846"
+    },
+    {
+      "english": "Could you speak a little slower?",
+      "japanese": "もう少しゆっくり話していただけますか？",
+      "romaji": "Mō sukoshi yukkuri hanashite itadakemasu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-09-06T16:41:12.358848"
+    },
+    {
+      "english": "This way to the restrooms, right?",
+      "japanese": "トイレは、この方向ですか？",
+      "romaji": "Toire wa, kono hōkō desu ka?",
+      "category": "Travel Japanese",
+      "generated_at": "2026-09-06T16:41:12.358849"
     }
   ],
-  "last_updated": "2026-09-05T21:57:51.347825"
+  "last_updated": "2026-09-06T16:41:12.358851"
 }
