@@ -5494,7 +5494,42 @@
       "romaji": "Toire wa, kono hōkō desu ka?",
       "category": "Travel Japanese",
       "generated_at": "2026-09-06T16:41:12.358849"
+    },
+    {
+      "english": "Tomorrow will be better.",
+      "japanese": "明日は、きっと良くなる。",
+      "romaji": "Ashita wa, kitto yoku naru.",
+      "category": "Hope",
+      "generated_at": "2026-09-06T22:00:01.316107"
+    },
+    {
+      "english": "A new day, new chances.",
+      "japanese": "新しい一日、新しいチャンス。",
+      "romaji": "Atarashii ichinichi, atarashii chansu.",
+      "category": "Hope",
+      "generated_at": "2026-09-06T22:00:01.316115"
+    },
+    {
+      "english": "You can do it, try.",
+      "japanese": "できるよ、やってみて。",
+      "romaji": "Dekiru yo, yatte mite.",
+      "category": "Hope",
+      "generated_at": "2026-09-06T22:00:01.316116"
+    },
+    {
+      "english": "Never give up hope.",
+      "japanese": "希望を、決して捨てないで。",
+      "romaji": "Kibou o, kesshite sutenaide.",
+      "category": "Hope",
+      "generated_at": "2026-09-06T22:00:01.316118"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "japanese": "小さな一歩、大きな夢。",
+      "romaji": "Chiisana ippo, ookina yume.",
+      "category": "Hope",
+      "generated_at": "2026-09-06T22:00:01.316119"
     }
   ],
-  "last_updated": "2026-09-06T16:41:12.358851"
+  "last_updated": "2026-09-06T22:00:01.316121"
 }
