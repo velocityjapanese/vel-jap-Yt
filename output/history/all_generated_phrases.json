@@ -5599,7 +5599,42 @@
       "romaji": "Koukishin ga, tobira o hiraku.",
       "category": "Wisdom",
       "generated_at": "2026-09-07T22:35:43.236108"
+    },
+    {
+      "english": "Breathe in, let go of worries",
+      "japanese": "息を吸って, 悩みを手放そう",
+      "romaji": "iki o sutte, nayami o tebanasou",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:43:01.381368"
+    },
+    {
+      "english": "Small steps, stay steady",
+      "japanese": "小さく進んで, まっすぐ行こう",
+      "romaji": "chisana ku susunde, massugu ikou",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:43:01.381377"
+    },
+    {
+      "english": "Pause now, listen to your heart",
+      "japanese": "いま止まって, 心の声を聞こう",
+      "romaji": "ima tomatte, kokoro no koe o kikou",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:43:01.381379"
+    },
+    {
+      "english": "Balance work, protect your rest",
+      "japanese": "仕事と休み, ちゃんと整えよう",
+      "romaji": "shigoto to yasumi, chanto totonoeyou",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:43:01.381380"
+    },
+    {
+      "english": "Even then, keep your calm",
+      "japanese": "それでも, 落ち着いていよう",
+      "romaji": "soredemo, ochitsuite iyou",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:43:01.381381"
     }
   ],
-  "last_updated": "2026-09-07T22:35:43.236110"
+  "last_updated": "2026-09-08T17:43:01.381383"
 }
