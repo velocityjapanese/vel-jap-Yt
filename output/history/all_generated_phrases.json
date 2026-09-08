@@ -5634,7 +5634,42 @@
       "romaji": "soredemo, ochitsuite iyou",
       "category": "Balance",
       "generated_at": "2026-09-08T17:43:01.381381"
+    },
+    {
+      "english": "Say thank you, sincerely.",
+      "japanese": "ありがとうを, 心から伝えよう。",
+      "romaji": "arigatō o, kokoro kara tsutaeyō.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T22:25:48.751749"
+    },
+    {
+      "english": "Praise good work, always.",
+      "japanese": "良いことを, いつも褒めてあげて。",
+      "romaji": "yoi koto o, itsumo homete agete.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T22:25:48.751759"
+    },
+    {
+      "english": "Comfort someone sad, gently.",
+      "japanese": "悲しい人を, そっと慰めてあげて。",
+      "romaji": "kanashii hito o, sotto nagusamete agete.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T22:25:48.751760"
+    },
+    {
+      "english": "Forgive quickly, move on.",
+      "japanese": "すぐに許して, 前に進もう。",
+      "romaji": "sugu ni yurushite, mae ni susumō.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T22:25:48.751762"
+    },
+    {
+      "english": "Spread good vibes, around.",
+      "japanese": "良い雰囲気を, 広げていこう。",
+      "romaji": "yoi fun'iki o, hirogete ikō.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T22:25:48.751763"
     }
   ],
-  "last_updated": "2026-09-08T17:43:01.381383"
+  "last_updated": "2026-09-08T22:25:48.751765"
 }
