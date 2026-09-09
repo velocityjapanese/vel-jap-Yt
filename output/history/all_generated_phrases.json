@@ -5669,7 +5669,42 @@
       "romaji": "yoi fun'iki o, hirogete ikō.",
       "category": "Kindness",
       "generated_at": "2026-09-08T22:25:48.751763"
+    },
+    {
+      "english": "It's hot, today.",
+      "japanese": "今日は、暑いです。",
+      "romaji": "kyou wa, atsui desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-09T22:21:12.955737"
+    },
+    {
+      "english": "Snow is falling, gently.",
+      "japanese": "雪が、静かに降っています。",
+      "romaji": "yuki ga, shizuka ni futte imasu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-09T22:21:12.955745"
+    },
+    {
+      "english": "A thunderstorm, is coming.",
+      "japanese": "雷雨が、来そうです。",
+      "romaji": "raiu ga, kiso u desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-09T22:21:12.955747"
+    },
+    {
+      "english": "The weather, is nice.",
+      "japanese": "天気は、いいです。",
+      "romaji": "tenki wa, ii desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-09T22:21:12.955748"
+    },
+    {
+      "english": "It might rain, later.",
+      "japanese": "後で、雨が降るかも。",
+      "romaji": "ato de, ame ga furu kamo.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-09T22:21:12.955749"
     }
   ],
-  "last_updated": "2026-09-08T22:25:48.751765"
+  "last_updated": "2026-09-09T22:21:12.955751"
 }
