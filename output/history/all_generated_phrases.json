@@ -5704,7 +5704,42 @@
       "romaji": "ato de, ame ga furu kamo.",
       "category": "Weather Japanese",
       "generated_at": "2026-09-09T22:21:12.955749"
+    },
+    {
+      "english": "Breathe in peace, breathe out calm.",
+      "japanese": "平和を吸って、静けさを吐く。",
+      "romaji": "heiwa o sutte, shizukesa o haku.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-10T17:28:01.481614"
+    },
+    {
+      "english": "Listen closely, to your own heart.",
+      "japanese": "自分の心に、よく耳を澄ませて。",
+      "romaji": "jibun no kokoro ni, yoku mimi o sumasete.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-10T17:28:01.481623"
+    },
+    {
+      "english": "Each moment, a fresh start.",
+      "japanese": "毎瞬、新しい始まり。",
+      "romaji": "maishun, atarashii hajimari.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-10T17:28:01.481625"
+    },
+    {
+      "english": "Feel the ground, beneath your feet.",
+      "japanese": "足元の地面を、感じてみよう。",
+      "romaji": "ashimoto no jimen o, kanjite miyou.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-10T17:28:01.481626"
+    },
+    {
+      "english": "Let worries fade, like clouds passing.",
+      "japanese": "心配を、流れる雲のように消して。",
+      "romaji": "shinpai o, nagareru kumo no you ni keshite.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-10T17:28:01.481627"
     }
   ],
-  "last_updated": "2026-09-09T22:21:12.955751"
+  "last_updated": "2026-09-10T17:28:01.481629"
 }
