@@ -5774,7 +5774,42 @@
       "romaji": "Yasashii kotoba wa kokoro o hiraku",
       "category": "Inspiration",
       "generated_at": "2026-09-10T22:19:29.965085"
+    },
+    {
+      "english": "Now, let's go.",
+      "japanese": "さあ、行きましょう。",
+      "romaji": "Saa, ikimashou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-09-11T17:29:32.325367"
+    },
+    {
+      "english": "Tomorrow, I'll call.",
+      "japanese": "明日、電話します。",
+      "romaji": "Ashita, denwa shimasu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-09-11T17:29:32.325376"
+    },
+    {
+      "english": "Later, maybe.",
+      "japanese": "後で、たぶん。",
+      "romaji": "Ato de, tabun.",
+      "category": "Time Japanese",
+      "generated_at": "2026-09-11T17:29:32.325378"
+    },
+    {
+      "english": "Last week, it rained.",
+      "japanese": "先週、雨でした。",
+      "romaji": "Senshuu, ame deshita.",
+      "category": "Time Japanese",
+      "generated_at": "2026-09-11T17:29:32.325379"
+    },
+    {
+      "english": "Next time, please.",
+      "japanese": "次は、お願いします。",
+      "romaji": "Tsugi wa, onegaishimasu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-09-11T17:29:32.325381"
     }
   ],
-  "last_updated": "2026-09-10T22:19:29.965088"
+  "last_updated": "2026-09-11T17:29:32.325382"
 }
