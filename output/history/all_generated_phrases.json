@@ -5879,7 +5879,42 @@
       "romaji": "yasashii kotoba ga, kokoro o atatameru",
       "category": "Happiness",
       "generated_at": "2026-09-12T16:42:36.889935"
+    },
+    {
+      "english": "There is a fire, please help",
+      "japanese": "火事です, 手伝ってください",
+      "romaji": "kaji desu, tetsudatte kudasai",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-12T21:59:30.362204"
+    },
+    {
+      "english": "Go outside now, this is urgent",
+      "japanese": "今すぐ外へ, 緊急です",
+      "romaji": "imasugu soto e, kinkyū desu",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-12T21:59:30.362215"
+    },
+    {
+      "english": "Lock it, turn off the gas now",
+      "japanese": "ガスを止めて, いますぐ",
+      "romaji": "gasu o tomete, imasugu",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-12T21:59:30.362216"
+    },
+    {
+      "english": "An accident happened, call an ambulance",
+      "japanese": "事故です, 救急車を呼んで",
+      "romaji": "jiko desu, kyūkyūsha o yonde",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-12T21:59:30.362218"
+    },
+    {
+      "english": "Earthquake now, protect your head",
+      "japanese": "地震です, 頭を守って",
+      "romaji": "jishin desu, atama o mamotte",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-12T21:59:30.362219"
     }
   ],
-  "last_updated": "2026-09-12T16:42:36.889937"
+  "last_updated": "2026-09-12T21:59:30.362221"
 }
