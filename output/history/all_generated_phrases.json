@@ -5949,7 +5949,42 @@
       "romaji": "kore wa ikura desu ka",
       "category": "Shopping Japanese",
       "generated_at": "2026-09-13T17:12:44.384662"
+    },
+    {
+      "english": "Breathe, wait, the path appears slowly",
+      "japanese": "深呼吸して、待とう、道はゆっくり見える",
+      "romaji": "shinkokyū shite, matō, michi wa yukkuri mieru",
+      "category": "Patience",
+      "generated_at": "2026-09-13T22:11:24.565651"
+    },
+    {
+      "english": "Be patient, even in small delays",
+      "japanese": "焦らず、少し遅れても大丈夫",
+      "romaji": "aserazu, sukoshi okuretemo daijōbu",
+      "category": "Patience",
+      "generated_at": "2026-09-13T22:11:24.565660"
+    },
+    {
+      "english": "Listen first, then decide with calm",
+      "japanese": "落ち着いて、まず聞いてから決めよう",
+      "romaji": "ochitsuite, mazu kiite kara kimeru",
+      "category": "Patience",
+      "generated_at": "2026-09-13T22:11:24.565661"
+    },
+    {
+      "english": "Good things take time, keep going",
+      "japanese": "いいことは時間がかかる、続けよう",
+      "romaji": "ii koto wa jikan ga kakaru, tsuzukeyō",
+      "category": "Patience",
+      "generated_at": "2026-09-13T22:11:24.565663"
+    },
+    {
+      "english": "Pause now, tomorrow will be easier",
+      "japanese": "今は止まって、明日は楽になるよ",
+      "romaji": "ima wa tomatte, ashita wa raku ni naru yo",
+      "category": "Patience",
+      "generated_at": "2026-09-13T22:11:24.565664"
     }
   ],
-  "last_updated": "2026-09-13T17:12:44.384663"
+  "last_updated": "2026-09-13T22:11:24.565666"
 }
