@@ -5914,7 +5914,42 @@
       "romaji": "jishin desu, atama o mamotte",
       "category": "Emergency Japanese",
       "generated_at": "2026-09-12T21:59:30.362219"
+    },
+    {
+      "english": "I’ll look around first, then I’ll decide",
+      "japanese": "まず見て、それから決めます",
+      "romaji": "mazu misite, sorekara kimemasu",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-09-13T17:12:44.384644"
+    },
+    {
+      "english": "Do you have this in a different size?",
+      "japanese": "このサイズ違いはありますか",
+      "romaji": "kono saizu chigai wa arimasu ka",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-09-13T17:12:44.384658"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "japanese": "試着してもいいですか",
+      "romaji": "shichaku shite mo ii desu ka",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-09-13T17:12:44.384659"
+    },
+    {
+      "english": "Where is the checkout counter, please?",
+      "japanese": "会計はどこですか",
+      "romaji": "kaikei wa doko desu ka",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-09-13T17:12:44.384660"
+    },
+    {
+      "english": "How much is this, exactly?",
+      "japanese": "これはいくらですか",
+      "romaji": "kore wa ikura desu ka",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-09-13T17:12:44.384662"
     }
   ],
-  "last_updated": "2026-09-12T21:59:30.362221"
+  "last_updated": "2026-09-13T17:12:44.384663"
 }
