@@ -6019,7 +6019,42 @@
       "romaji": "mizu kansha shite kara, shikkari hataraokou",
       "category": "Success",
       "generated_at": "2026-09-14T19:00:06.251132"
+    },
+    {
+      "english": "Let's aim higher, together.",
+      "japanese": "もっと上を目指しましょう、一緒に。",
+      "romaji": "Motto ue o mezashimashou, issho ni.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-14T22:59:39.566798"
+    },
+    {
+      "english": "What's the deadline, please?",
+      "japanese": "締め切りはいつですか、お願いします。",
+      "romaji": "Shimekiri wa itsu desu ka, onegai shimasu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-14T22:59:39.566809"
+    },
+    {
+      "english": "I'll handle this task.",
+      "japanese": "この仕事、私が担当します。",
+      "romaji": "Kono shigoto, watashi ga tantou shimasu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-14T22:59:39.566810"
+    },
+    {
+      "english": "Let's discuss it later.",
+      "japanese": "後で、それについて話しましょう。",
+      "romaji": "Ato de, sore ni tsuite hanashimashou.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-14T22:59:39.566812"
+    },
+    {
+      "english": "Good work, everyone.",
+      "japanese": "皆さん、お疲れ様でした。",
+      "romaji": "Minasan, otsukaresama deshita.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-14T22:59:39.566813"
     }
   ],
-  "last_updated": "2026-09-14T19:00:06.251134"
+  "last_updated": "2026-09-14T22:59:39.566815"
 }
