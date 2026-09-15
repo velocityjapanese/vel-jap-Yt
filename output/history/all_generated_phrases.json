@@ -6089,7 +6089,42 @@
       "romaji": "Atsuku usuku, watashitachi wa tomo ni iru...",
       "category": "Friendship",
       "generated_at": "2026-09-15T17:54:47.779350"
+    },
+    {
+      "english": "One, small step, today.",
+      "japanese": "今日、小さな一歩。",
+      "romaji": "kyou, chiisana ippo.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-09-15T22:46:24.256752"
+    },
+    {
+      "english": "Two, good friends, together.",
+      "japanese": "二人、仲の良い友達、一緒に。",
+      "romaji": "futari, naka no yoi tomodachi, issho ni.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-09-15T22:46:24.256762"
+    },
+    {
+      "english": "Three, delicious meals, daily.",
+      "japanese": "三食、美味しい食事、毎日。",
+      "romaji": "sanshoku, oishii shokuji, mainichi.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-09-15T22:46:24.256763"
+    },
+    {
+      "english": "Four, seasons, beautiful, always.",
+      "japanese": "四季、いつも美しい。",
+      "romaji": "shiki, itsumo utsukushii.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-09-15T22:46:24.256764"
+    },
+    {
+      "english": "Five, senses, experience, fully.",
+      "japanese": "五感で、体験、十分に。",
+      "romaji": "gokan de, taiken, juubun ni.",
+      "category": "Numbers Japanese",
+      "generated_at": "2026-09-15T22:46:24.256765"
     }
   ],
-  "last_updated": "2026-09-15T17:54:47.779353"
+  "last_updated": "2026-09-15T22:46:24.256766"
 }
