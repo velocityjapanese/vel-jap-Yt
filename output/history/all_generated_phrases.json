@@ -6229,7 +6229,42 @@
       "romaji": "ima ikimashou, mata ne.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-17T17:54:52.858875"
+    },
+    {
+      "english": "My grandpa tells stories, at night",
+      "japanese": "祖父は夜に、昔話をします",
+      "romaji": "sofu wa yoru ni, mukashibanashi o shimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-17T22:43:27.165465"
+    },
+    {
+      "english": "I call my parents, tonight",
+      "japanese": "今夜、両親に電話します",
+      "romaji": "kon'ya, ryōshin ni denwa shimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-17T22:43:27.165476"
+    },
+    {
+      "english": "We eat together, as a family",
+      "japanese": "家族で一緒に、食事をします",
+      "romaji": "kazoku de issho ni, shokuji o shimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-17T22:43:27.165477"
+    },
+    {
+      "english": "My aunt brings sweets, sometimes",
+      "japanese": "叔母はときどき、お菓子を持ってきます",
+      "romaji": "oba wa tokidoki, okashi o motte kimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-17T22:43:27.165478"
+    },
+    {
+      "english": "My uncle works late, today",
+      "japanese": "叔父は今日、遅くまで働きます",
+      "romaji": "oji wa kyō, osoku made hatarakimasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-17T22:43:27.165480"
     }
   ],
-  "last_updated": "2026-09-17T17:54:52.858877"
+  "last_updated": "2026-09-17T22:43:27.165482"
 }
