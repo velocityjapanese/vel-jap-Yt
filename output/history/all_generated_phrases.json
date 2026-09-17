@@ -6194,7 +6194,42 @@
       "romaji": "mainichi risetto, soshite totonoeyou",
       "category": "Balance",
       "generated_at": "2026-09-16T22:42:03.329363"
+    },
+    {
+      "english": "Today is busy, please be patient.",
+      "japanese": "今日は忙しいです、よろしくお願いします。",
+      "romaji": "kyou wa isogashii desu, yoroshiku onegaishimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T17:54:52.858861"
+    },
+    {
+      "english": "I don’t understand, could you repeat?",
+      "japanese": "わかりません、もう一度お願いします。",
+      "romaji": "wakarimasen, mou ichido onegaishimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T17:54:52.858873"
+    },
+    {
+      "english": "Nice to meet you, what’s your name?",
+      "japanese": "はじめまして、お名前は何ですか。",
+      "romaji": "hajimemashite, onamae wa nan desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T17:54:52.858873"
+    },
+    {
+      "english": "Thanks, I’ll take this one.",
+      "japanese": "ありがとうございます、これをください。",
+      "romaji": "arigatou gozaimasu, kore o kudasai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T17:54:52.858874"
+    },
+    {
+      "english": "Let’s go now, see you later.",
+      "japanese": "今行きましょう、またね。",
+      "romaji": "ima ikimashou, mata ne.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T17:54:52.858875"
     }
   ],
-  "last_updated": "2026-09-16T22:42:03.329364"
+  "last_updated": "2026-09-17T17:54:52.858877"
 }
