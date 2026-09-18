@@ -6264,7 +6264,42 @@
       "romaji": "oji wa kyō, osoku made hatarakimasu",
       "category": "Family Terms",
       "generated_at": "2026-09-17T22:43:27.165480"
+    },
+    {
+      "english": "You're amazing, thanks so much.",
+      "japanese": "すごいですね、本当にありがとう。",
+      "romaji": "sugoi desu ne, hontou ni arigatou.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T17:27:11.234148"
+    },
+    {
+      "english": "I appreciate your kindness.",
+      "japanese": "あなたの親切に、感謝します。",
+      "romaji": "anata no shinsetsu ni, kansha shimasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T17:27:11.234160"
+    },
+    {
+      "english": "Deeply thankful, from my heart.",
+      "japanese": "心から、深く感謝しています。",
+      "romaji": "kokoro kara, fukaku kansha shite imasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T17:27:11.234161"
+    },
+    {
+      "english": "Couldn't have done it, without you.",
+      "japanese": "あなたなしでは、できませんでした。",
+      "romaji": "anata nashi de wa, dekimasen deshita.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T17:27:11.234162"
+    },
+    {
+      "english": "Thanks for your help, always.",
+      "japanese": "いつも、助けてくれてありがとう。",
+      "romaji": "itsumo, tasukete kurete arigatou.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T17:27:11.234162"
     }
   ],
-  "last_updated": "2026-09-17T22:43:27.165482"
+  "last_updated": "2026-09-18T17:27:11.234164"
 }
