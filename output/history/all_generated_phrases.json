@@ -6299,7 +6299,42 @@
       "romaji": "itsumo, tasukete kurete arigatou.",
       "category": "Gratitude",
       "generated_at": "2026-09-18T17:27:11.234162"
+    },
+    {
+      "english": "I apologize, please forgive me.",
+      "japanese": "すみません、許してください。",
+      "romaji": "sumimasen, yurushite kudasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-18T22:22:32.457934"
+    },
+    {
+      "english": "That was my mistake, please excuse it.",
+      "japanese": "私のミスでした、ご容赦ください。",
+      "romaji": "watashi no misu deshita, goyousha kudasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-18T22:22:32.457943"
+    },
+    {
+      "english": "I'm truly sorry, can you forget it?",
+      "japanese": "本当にごめんなさい、水に流せますか？",
+      "romaji": "hontou ni gomennasai, mizu ni nagaremasu ka?",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-18T22:22:32.457945"
+    },
+    {
+      "english": "My deepest apologies, please accept them.",
+      "japanese": "心よりお詫び申し上げます、お受け取りください。",
+      "romaji": "kokoro yori owabi moushiagemasu, outori kudasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-18T22:22:32.457946"
+    },
+    {
+      "english": "I regret my actions, please let it go.",
+      "japanese": "行動を後悔しています、どうか手放してください。",
+      "romaji": "koudou wo koukai shite imasu, douka tebanashite kudasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-18T22:22:32.457947"
     }
   ],
-  "last_updated": "2026-09-18T17:27:11.234164"
+  "last_updated": "2026-09-18T22:22:32.457949"
 }
