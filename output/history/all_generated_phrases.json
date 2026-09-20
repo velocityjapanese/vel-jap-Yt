@@ -6439,7 +6439,42 @@
       "romaji": "souon no naka ni, shizukesa o mitsukeru.",
       "category": "Mindfulness",
       "generated_at": "2026-09-20T17:16:20.342044"
+    },
+    {
+      "english": "It’s cloudy, today might rain later.",
+      "japanese": "くもりです、あとで雨かもしれません。",
+      "romaji": "kumori desu, ato de ame kamo shiremasen.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-20T22:15:04.280189"
+    },
+    {
+      "english": "The wind is strong, please be careful.",
+      "japanese": "かぜが強いです、気をつけてください。",
+      "romaji": "kaze ga tsuyoi desu, ki o tsukete kudasai.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-20T22:15:04.280199"
+    },
+    {
+      "english": "Warm weather, but the sky is gray.",
+      "japanese": "暖かいのに、空が灰色です。",
+      "romaji": "atatakai noni, sora ga haiiro desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-20T22:15:04.280201"
+    },
+    {
+      "english": "It’s raining now, take an umbrella.",
+      "japanese": "いま雨が降っています、かさを持ってください。",
+      "romaji": "ima ame ga futteimasu, kasa o motte kudasai.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-20T22:15:04.280202"
+    },
+    {
+      "english": "The sun is out, let’s go outside.",
+      "japanese": "太陽が出ています、外へ行きましょう。",
+      "romaji": "taiyō ga deteimasu, soto e ikimashō.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-09-20T22:15:04.280203"
     }
   ],
-  "last_updated": "2026-09-20T17:16:20.342045"
+  "last_updated": "2026-09-20T22:15:04.280205"
 }
