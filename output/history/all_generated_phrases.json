@@ -6474,7 +6474,42 @@
       "romaji": "taiyō ga deteimasu, soto e ikimashō.",
       "category": "Weather Japanese",
       "generated_at": "2026-09-20T22:15:04.280203"
+    },
+    {
+      "english": "Wake up, stretch a little.",
+      "japanese": "起きて、少し伸びます。",
+      "romaji": "Okite, sukoshi nobimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-21T19:01:59.918637"
+    },
+    {
+      "english": "Brush teeth, wash face.",
+      "japanese": "歯を磨き、顔を洗います。",
+      "romaji": "Ha o migaki, kao o araimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-21T19:01:59.918648"
+    },
+    {
+      "english": "Drink water, feel refreshed.",
+      "japanese": "水を飲み、すっきりします。",
+      "romaji": "Mizu o nomi, sukkiri shimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-21T19:01:59.918650"
+    },
+    {
+      "english": "Check email, then go.",
+      "japanese": "メールをチェック、それから行きます。",
+      "romaji": "Meeru o chekku, sorekara ikimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-21T19:01:59.918651"
+    },
+    {
+      "english": "Commute to work, listen to music.",
+      "japanese": "通勤して、音楽を聴きます。",
+      "romaji": "Tsuukin shite, ongaku o kikimasu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-21T19:01:59.918652"
     }
   ],
-  "last_updated": "2026-09-20T22:15:04.280205"
+  "last_updated": "2026-09-21T19:01:59.918654"
 }
