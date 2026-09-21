@@ -6509,7 +6509,42 @@
       "romaji": "Tsuukin shite, ongaku o kikimasu.",
       "category": "Daily Routine",
       "generated_at": "2026-09-21T19:01:59.918652"
+    },
+    {
+      "english": "I go hiking, fresh air, slow pace",
+      "japanese": "ハイキングします、澄んだ空気、ゆっくり歩く",
+      "romaji": "haikingu shimasu, sunda kūki, yukkuri aruku",
+      "category": "Hobbies Japanese",
+      "generated_at": "2026-09-21T23:03:21.537432"
+    },
+    {
+      "english": "I draw portraits, listening to quiet music",
+      "japanese": "静かな音楽で似顔絵を描きます",
+      "romaji": "shizukana ongaku de nikoga o kakimasu",
+      "category": "Hobbies Japanese",
+      "generated_at": "2026-09-21T23:03:21.537441"
+    },
+    {
+      "english": "I knit scarves, soft yarn, during long trains",
+      "japanese": "長い電車でマフラーを編みます",
+      "romaji": "nagai densha de mafurā o amimasu",
+      "category": "Hobbies Japanese",
+      "generated_at": "2026-09-21T23:03:21.537443"
+    },
+    {
+      "english": "I study photography, sunrise lights, and shadows",
+      "japanese": "朝日の光で写真を撮ります",
+      "romaji": "asa no hi no hikari de shashin o torimasu",
+      "category": "Hobbies Japanese",
+      "generated_at": "2026-09-21T23:03:21.537444"
+    },
+    {
+      "english": "I read mystery novels, night time, one chapter",
+      "japanese": "夜にミステリー小説を読みます",
+      "romaji": "yoru ni misuterī shōsetsu o yomimasu",
+      "category": "Hobbies Japanese",
+      "generated_at": "2026-09-21T23:03:21.537446"
     }
   ],
-  "last_updated": "2026-09-21T19:01:59.918654"
+  "last_updated": "2026-09-21T23:03:21.537447"
 }
