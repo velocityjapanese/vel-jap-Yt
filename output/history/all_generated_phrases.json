@@ -6579,7 +6579,42 @@
       "romaji": "jibun no chikara o, kyou ukeirete.",
       "category": "Strength",
       "generated_at": "2026-09-22T17:54:25.189444"
+    },
+    {
+      "english": "Call an ambulance, please!",
+      "japanese": "救急車を呼んでください！",
+      "romaji": "Kyūkyōsha o yonde kudasai!",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-22T22:47:20.710577"
+    },
+    {
+      "english": "I need a doctor, now!",
+      "japanese": "医者が必要です、今すぐ！",
+      "romaji": "Isha ga hitsuyō desu, ima sugu!",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-22T22:47:20.710591"
+    },
+    {
+      "english": "Help me, I'm stuck!",
+      "japanese": "助けて、動けません！",
+      "romaji": "Tasukete, ugokemasen!",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-22T22:47:20.710593"
+    },
+    {
+      "english": "There's been an accident!",
+      "japanese": "事故がありました！",
+      "romaji": "Jiko ga arimashita!",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-22T22:47:20.710595"
+    },
+    {
+      "english": "I can't breathe, I need air!",
+      "japanese": "息ができません、空気が必要です！",
+      "romaji": "Iki ga dekimasen, kūki ga hitsuyō desu!",
+      "category": "Emergency Japanese",
+      "generated_at": "2026-09-22T22:47:20.710596"
     }
   ],
-  "last_updated": "2026-09-22T17:54:25.189446"
+  "last_updated": "2026-09-22T22:47:20.710598"
 }
