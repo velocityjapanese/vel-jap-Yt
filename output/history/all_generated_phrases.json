@@ -6614,7 +6614,42 @@
       "romaji": "Iki ga dekimasen, kūki ga hitsuyō desu!",
       "category": "Emergency Japanese",
       "generated_at": "2026-09-22T22:47:20.710596"
+    },
+    {
+      "english": "Could I see the menu, please?",
+      "japanese": "メニューを見せていただけますか",
+      "romaji": "menyū o misete itadakemasu ka",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-23T22:46:54.535107"
+    },
+    {
+      "english": "Are you ready to order, take your time",
+      "japanese": "ご注文の準備はできましたか、ゆっくりで大丈夫です",
+      "romaji": "go chūmon no junbi wa dekimasu ka, yukkuri de daijōbu desu",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-23T22:46:54.535118"
+    },
+    {
+      "english": "That dish is popular, it sells out fast",
+      "japanese": "その料理は人気です、すぐ売り切れます",
+      "romaji": "sono ryōri wa ninki desu, sugu uri-kiremasu",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-23T22:46:54.535120"
+    },
+    {
+      "english": "Please, let us know about allergies",
+      "japanese": "アレルギーがある場合、教えてください",
+      "romaji": "arerugī ga aru baai, oshiete kudasai",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-23T22:46:54.535121"
+    },
+    {
+      "english": "When you're done, the bill is ready",
+      "japanese": "お会計はできます、呼んでください",
+      "romaji": "okaikei wa dekimasu, yonde kudasai",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-09-23T22:46:54.535122"
     }
   ],
-  "last_updated": "2026-09-22T22:47:20.710598"
+  "last_updated": "2026-09-23T22:46:54.535124"
 }
