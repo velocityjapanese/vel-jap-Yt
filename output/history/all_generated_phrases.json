@@ -6719,7 +6719,42 @@
       "romaji": "kakidashite, kangae ga totonoau",
       "category": "Self Improvement",
       "generated_at": "2026-09-24T23:04:48.702053"
+    },
+    {
+      "english": "Can you explain this?",
+      "japanese": "これを説明してもらえますか？",
+      "romaji": "Kore o setsumei shite moraemasu ka?",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-25T18:12:21.459018"
+    },
+    {
+      "english": "I need your input.",
+      "japanese": "あなたの意見が必要です。",
+      "romaji": "Anata no iken ga hitsuyou desu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-25T18:12:21.459031"
+    },
+    {
+      "english": "Let's review the plan.",
+      "japanese": "計画を見直しましょう。",
+      "romaji": "Keikaku o minaosimashou.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-25T18:12:21.459032"
+    },
+    {
+      "english": "I'll start working now.",
+      "japanese": "今から、作業を開始します。",
+      "romaji": "Ima kara, sagyou o kaishi shimasu.",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-25T18:12:21.459034"
+    },
+    {
+      "english": "Is that clear, understood?",
+      "japanese": "それは明確ですか、分かりましたか？",
+      "romaji": "Sore wa meikaku desu ka, wakarimashita ka?",
+      "category": "Work Japanese",
+      "generated_at": "2026-09-25T18:12:21.459035"
     }
   ],
-  "last_updated": "2026-09-24T23:04:48.702055"
+  "last_updated": "2026-09-25T18:12:21.459037"
 }
