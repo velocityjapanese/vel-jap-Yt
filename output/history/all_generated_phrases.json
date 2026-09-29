@@ -6964,7 +6964,42 @@
       "romaji": "Kazoku no masukotto, uchi no inu desu",
       "category": "Family Terms",
       "generated_at": "2026-09-29T00:15:15.828419"
+    },
+    {
+      "english": "Inhale gently, feel your shoulders relax",
+      "japanese": "ゆっくり吸って, 肩の力を抜こう",
+      "romaji": "yukkuri sutte, kata no chikara o nukou",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-29T19:06:02.670702"
+    },
+    {
+      "english": "Exhale slowly, let worry fade out",
+      "japanese": "ゆっくり吐いて, 不安を手放そう",
+      "romaji": "yukkuri haite, fuan o tebanasou",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-29T19:06:02.670712"
+    },
+    {
+      "english": "Notice the present, right now, without judging",
+      "japanese": "いまを見よう, ゆっくり, 判断せずに",
+      "romaji": "ima o miyou, yukkuri, handan sezu ni",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-29T19:06:02.670714"
+    },
+    {
+      "english": "Feel your breath, count softly to three",
+      "japanese": "呼吸を感じて, ゆっくり三回",
+      "romaji": "kokyuu o kanjite, yukkuri sankai",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-29T19:06:02.670715"
+    },
+    {
+      "english": "Relax your jaw, smile just a little",
+      "japanese": "あごをゆるめて, ほんの少し微笑む",
+      "romaji": "ago o yurumente, hon no sukoshi hohoemu",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-29T19:06:02.670717"
     }
   ],
-  "last_updated": "2026-09-29T00:15:15.828421"
+  "last_updated": "2026-09-29T19:06:02.670719"
 }
