@@ -6999,7 +6999,42 @@
       "romaji": "ago o yurumente, hon no sukoshi hohoemu",
       "category": "Mindfulness",
       "generated_at": "2026-09-29T19:06:02.670717"
+    },
+    {
+      "english": "Feeling tired, a little.",
+      "japanese": "少し疲れた、気分。",
+      "romaji": "Sukoshi tsukareta, kibun.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-29T23:30:59.786589"
+    },
+    {
+      "english": "It's scary, actually.",
+      "japanese": "実は怖い、それ。",
+      "romaji": "Jitsu wa kowai, sore.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-29T23:30:59.786597"
+    },
+    {
+      "english": "I'm worried, deeply.",
+      "japanese": "深く心配、しています。",
+      "romaji": "Fukaku shinpai, shite imasu.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-29T23:30:59.786599"
+    },
+    {
+      "english": "So excited, yes!",
+      "japanese": "すごくワクワク、する！",
+      "romaji": "Sugoku wakuwaku, suru!",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-29T23:30:59.786600"
+    },
+    {
+      "english": "A little sad, today.",
+      "japanese": "今日は少し、悲しい。",
+      "romaji": "Kyō wa sukoshi, kanashii.",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-09-29T23:30:59.786601"
     }
   ],
-  "last_updated": "2026-09-29T19:06:02.670719"
+  "last_updated": "2026-09-29T23:30:59.786603"
 }
