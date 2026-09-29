@@ -6929,7 +6929,42 @@
       "romaji": "iiwake yori doryoku o, kyou erabou",
       "category": "Wisdom",
       "generated_at": "2026-09-28T20:22:45.918469"
+    },
+    {
+      "english": "Our family, we are close, yes?",
+      "japanese": "私たち家族、仲が良いですね",
+      "romaji": "Watashitachi kazoku, naka ga ii desu ne",
+      "category": "Family Terms",
+      "generated_at": "2026-09-29T00:15:15.828405"
+    },
+    {
+      "english": "My mother, she cooks everyday",
+      "japanese": "母は毎日料理してくれます",
+      "romaji": "Haha wa mainichi ryōri shite kuremasu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-29T00:15:15.828414"
+    },
+    {
+      "english": "He's my younger brother, still a student",
+      "japanese": "彼は弟です、まだ学生です",
+      "romaji": "Kare wa otōto desu, mada gakusei desu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-29T00:15:15.828416"
+    },
+    {
+      "english": "Do you live with your grandparents?",
+      "japanese": "おじいちゃん、おばあちゃんと住んでいますか？",
+      "romaji": "Ojīchan, obāchan to sunde imasu ka?",
+      "category": "Family Terms",
+      "generated_at": "2026-09-29T00:15:15.828417"
+    },
+    {
+      "english": "Our dog, the family mascot",
+      "japanese": "家族のマスコット、うちの犬です",
+      "romaji": "Kazoku no masukotto, uchi no inu desu",
+      "category": "Family Terms",
+      "generated_at": "2026-09-29T00:15:15.828419"
     }
   ],
-  "last_updated": "2026-09-28T20:22:45.918470"
+  "last_updated": "2026-09-29T00:15:15.828421"
 }
