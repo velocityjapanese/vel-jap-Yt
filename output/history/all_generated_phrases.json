@@ -7034,7 +7034,42 @@
       "romaji": "Kyō wa sukoshi, kanashii.",
       "category": "Feelings Japanese",
       "generated_at": "2026-09-29T23:30:59.786601"
+    },
+    {
+      "english": "Try this, you can do it.",
+      "japanese": "これ、やってみよう。できるよ。",
+      "romaji": "Kore, yattemiyou. Dekiru yo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-30T18:48:34.788353"
+    },
+    {
+      "english": "Don't worry, be brave.",
+      "japanese": "心配しないで、勇気を出して。",
+      "romaji": "Shinpai shinaide, yuuki wo dashite.",
+      "category": "Confidence",
+      "generated_at": "2026-09-30T18:48:34.788363"
+    },
+    {
+      "english": "You're learning well.",
+      "japanese": "上手になってるよ。",
+      "romaji": "Jouzu ni natteru yo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-30T18:48:34.788364"
+    },
+    {
+      "english": "Keep practicing, okay?",
+      "japanese": "練習続けてね。",
+      "romaji": "Renshuu tsuzukete ne.",
+      "category": "Confidence",
+      "generated_at": "2026-09-30T18:48:34.788365"
+    },
+    {
+      "english": "It's okay to make mistakes.",
+      "japanese": "間違えても大丈夫。",
+      "romaji": "Machigaetemo daijoubu.",
+      "category": "Confidence",
+      "generated_at": "2026-09-30T18:48:34.788366"
     }
   ],
-  "last_updated": "2026-09-29T23:30:59.786603"
+  "last_updated": "2026-09-30T18:48:34.788367"
 }
