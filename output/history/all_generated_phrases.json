@@ -7104,7 +7104,42 @@
       "romaji": "Yuujou wa hikaru, kurai hi mo...",
       "category": "Friendship",
       "generated_at": "2026-09-30T23:32:32.490942"
+    },
+    {
+      "english": "Snow is falling, roads may be slippery.",
+      "japanese": "雪が降っています、道はすべりやすいです。",
+      "romaji": "yuki ga futteimasu, michi wa suberi yasui desu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-01T19:14:38.446398"
+    },
+    {
+      "english": "It’s cold today, wear a warm coat.",
+      "japanese": "今日は寒いです、あたたかいコートを。",
+      "romaji": "kyō wa samui desu, atatakai kōto o.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-01T19:14:38.446410"
+    },
+    {
+      "english": "Humidity is high, it feels sticky.",
+      "japanese": "湿度が高いです、べたつきます。",
+      "romaji": "shitsudo ga takai desu, betatsukimasu.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-01T19:14:38.446411"
+    },
+    {
+      "english": "Thunder sounds, stay indoors for now.",
+      "japanese": "雷が鳴っています、いまは家の中で。",
+      "romaji": "kaminari ga natteimasu, ima wa ie no naka de.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-01T19:14:38.446413"
+    },
+    {
+      "english": "Clear skies, the weather looks nice.",
+      "japanese": "晴れています、天気がいいですね。",
+      "romaji": "hareteimasu, tenki ga ii desu ne.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-01T19:14:38.446414"
     }
   ],
-  "last_updated": "2026-09-30T23:32:32.490944"
+  "last_updated": "2026-10-01T19:14:38.446416"
 }
