@@ -7174,7 +7174,42 @@
       "romaji": "shiawase o wake te, dareka o egao ni",
       "category": "Happiness",
       "generated_at": "2026-10-01T23:45:05.467058"
+    },
+    {
+      "english": "Let's try, if we can.",
+      "japanese": "やってみましょう、もしできたら。",
+      "romaji": "Yatte mimashou, moshi dekitara.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-02T18:56:25.047590"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "japanese": "ゆっくりでいいですよ、急がなくて。",
+      "romaji": "Yukkuri de ii desu yo, isoganakute.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-02T18:56:25.047597"
+    },
+    {
+      "english": "What do you think, about this?",
+      "japanese": "どう思いますか、これについて。",
+      "romaji": "Dou omoimasu ka, kore ni tsuite.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-02T18:56:25.047599"
+    },
+    {
+      "english": "Sounds good, let's do it.",
+      "japanese": "いいですね、やりましょう。",
+      "romaji": "Ii desu ne, yarimashou.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-02T18:56:25.047600"
+    },
+    {
+      "english": "Maybe tomorrow, if possible.",
+      "japanese": "明日かも、もし可能なら。",
+      "romaji": "Ashita kamo, moshi kanou nara.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-02T18:56:25.047601"
     }
   ],
-  "last_updated": "2026-10-01T23:45:05.467060"
+  "last_updated": "2026-10-02T18:56:25.047603"
 }
