@@ -7279,7 +7279,42 @@
       "romaji": "koronde mo, mō ichido tachiagaru",
       "category": "Courage",
       "generated_at": "2026-10-03T17:44:39.093582"
+    },
+    {
+      "english": "Even if it's slow, keep going.",
+      "japanese": "遅くても、進み続けましょう。",
+      "romaji": "Osokutemo, susumi tsuzukemashou.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-03T22:44:21.015984"
+    },
+    {
+      "english": "Fall down, get up again.",
+      "japanese": "転んでも、また立ち上がろう。",
+      "romaji": "Korondemo, mata tachiagarou.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-03T22:44:21.015993"
+    },
+    {
+      "english": "Don't be afraid of mistakes.",
+      "japanese": "間違いを恐れないで。",
+      "romaji": "Machigai o osorenaide.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-03T22:44:21.015993"
+    },
+    {
+      "english": "Your effort will surely pay off.",
+      "japanese": "あなたの努力は、きっと実を結びます。",
+      "romaji": "Anata no doryoku wa, kitto mi o musubimasu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-03T22:44:21.015994"
+    },
+    {
+      "english": "Keep practicing, you'll get better.",
+      "japanese": "練習を続けて、上手になります。",
+      "romaji": "Renshuu o tsuzukete, jouzu ni narimasu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-03T22:44:21.015995"
     }
   ],
-  "last_updated": "2026-10-03T17:44:39.093599"
+  "last_updated": "2026-10-03T22:44:21.015996"
 }
