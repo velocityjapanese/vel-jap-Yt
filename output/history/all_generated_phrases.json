@@ -7314,7 +7314,42 @@
       "romaji": "Renshuu o tsuzukete, jouzu ni narimasu.",
       "category": "Perseverance",
       "generated_at": "2026-10-03T22:44:21.015995"
+    },
+    {
+      "english": "Wake up gently, stretch your arms",
+      "japanese": "やさしく起きて, 腕を伸ばします",
+      "romaji": "yasashiku okite, ude o nobashimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-04T17:58:24.488838"
+    },
+    {
+      "english": "Wash your face, breathe slowly",
+      "japanese": "顔を洗って, ゆっくり息をします",
+      "romaji": "kao o aratte, yukkuri iki o shimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-04T17:58:24.488848"
+    },
+    {
+      "english": "Brush your teeth, clean every corner",
+      "japanese": "歯を磨いて, 隅々まできれいにします",
+      "romaji": "ha o migai te, zumizumu made kirei ni shimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-04T17:58:24.488849"
+    },
+    {
+      "english": "Make breakfast, eat with gratitude",
+      "japanese": "朝ごはんを作って, 感謝して食べます",
+      "romaji": "asa gohan o tsukutte, kansha shite tabemasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-04T17:58:24.488850"
+    },
+    {
+      "english": "Pack your bag, leave on time",
+      "japanese": "かばんを詰めて, 時間どおりに出ます",
+      "romaji": "kaban o tsumete, jikan doori ni demasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-04T17:58:24.488851"
     }
   ],
-  "last_updated": "2026-10-03T22:44:21.015996"
+  "last_updated": "2026-10-04T17:58:24.488853"
 }
