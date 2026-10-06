@@ -7419,7 +7419,42 @@
       "romaji": "osore ni mukia tte, manande, seichō suru",
       "category": "Strength",
       "generated_at": "2026-10-05T21:22:14.431229"
+    },
+    {
+      "english": "Take a breath, then try again.",
+      "japanese": "一息ついて、また挑戦。",
+      "romaji": "Hitoiki tsuite, mata chōsen.",
+      "category": "Growth",
+      "generated_at": "2026-10-06T01:10:53.053876"
+    },
+    {
+      "english": "Embrace the challenge, learn from it.",
+      "japanese": "困難を受け入れ、学びましょう。",
+      "romaji": "Konnan o ukeire, manabimashou.",
+      "category": "Growth",
+      "generated_at": "2026-10-06T01:10:53.053885"
+    },
+    {
+      "english": "Every step counts, keep moving forward.",
+      "japanese": "一歩一歩が大切、前進あるのみ。",
+      "romaji": "Ippo ippo ga taisetsu, zenshin aru nomi.",
+      "category": "Growth",
+      "generated_at": "2026-10-06T01:10:53.053887"
+    },
+    {
+      "english": "Don't be afraid, just start practicing.",
+      "japanese": "怖がらず、とにかく始めてみよう。",
+      "romaji": "Kowagarazu, tonikaku hajimetemiyou.",
+      "category": "Growth",
+      "generated_at": "2026-10-06T01:10:53.053888"
+    },
+    {
+      "english": "Mistakes are part of learning.",
+      "japanese": "間違いは、学びの一部です。",
+      "romaji": "Machigai wa, manabi no ichibu desu.",
+      "category": "Growth",
+      "generated_at": "2026-10-06T01:10:53.053889"
     }
   ],
-  "last_updated": "2026-10-05T21:22:14.431231"
+  "last_updated": "2026-10-06T01:10:53.053891"
 }
