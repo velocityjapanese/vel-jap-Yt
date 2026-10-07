@@ -7524,7 +7524,42 @@
       "romaji": "jikan o kurete arigatou, totemo ureshii desu",
       "category": "Gratitude",
       "generated_at": "2026-10-06T23:39:03.382594"
+    },
+    {
+      "english": "Slow down, one step at a time",
+      "japanese": "ゆっくり、一歩ずつ",
+      "romaji": "Yukkuri, ippo zutsu",
+      "category": "Patience",
+      "generated_at": "2026-10-07T19:43:06.825210"
+    },
+    {
+      "english": "Take your time, no rush",
+      "japanese": "時間をかけて、急がなくていいよ",
+      "romaji": "Jikan o kakete, isoganakute ii yo",
+      "category": "Patience",
+      "generated_at": "2026-10-07T19:43:06.825219"
+    },
+    {
+      "english": "Patience brings good luck",
+      "japanese": "我慢は福を招く",
+      "romaji": "Gaman wa fuku o maneku",
+      "category": "Patience",
+      "generated_at": "2026-10-07T19:43:06.825221"
+    },
+    {
+      "english": "Breathe deep, wait calmly",
+      "japanese": "深呼吸して、落ち着いて待って",
+      "romaji": "Shinkokyū shite, ochitsuite matte",
+      "category": "Patience",
+      "generated_at": "2026-10-07T19:43:06.825222"
+    },
+    {
+      "english": "Good things come to those who wait",
+      "japanese": "待てば海路の日和あり",
+      "romaji": "Mateba kairo no hiyori ari",
+      "category": "Patience",
+      "generated_at": "2026-10-07T19:43:06.825223"
     }
   ],
-  "last_updated": "2026-10-06T23:39:03.382596"
+  "last_updated": "2026-10-07T19:43:06.825225"
 }
