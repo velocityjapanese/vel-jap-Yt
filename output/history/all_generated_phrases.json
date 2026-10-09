@@ -7594,7 +7594,42 @@
       "romaji": "Kono e wa ochitsuku haiiro no tōn ga suteki.",
       "category": "Colors Japanese",
       "generated_at": "2026-10-08T00:03:41.102771"
+    },
+    {
+      "english": "I can do it, step by step",
+      "japanese": "できます、いっぽずつでいいよ",
+      "romaji": "dekimasu, ippo zutsu de ii yo",
+      "category": "Confidence",
+      "generated_at": "2026-10-09T00:11:35.501763"
+    },
+    {
+      "english": "My voice is strong, I speak now",
+      "japanese": "私の声は強い、今話す",
+      "romaji": "watashi no koe wa tsuyoi, ima hanasu",
+      "category": "Confidence",
+      "generated_at": "2026-10-09T00:11:35.501774"
+    },
+    {
+      "english": "Breathe easy, I will try again",
+      "japanese": "深呼吸して、また挑戦する",
+      "romaji": "shinkokyuu shite, mata chousen suru",
+      "category": "Confidence",
+      "generated_at": "2026-10-09T00:11:35.501776"
+    },
+    {
+      "english": "I trust myself, today is mine",
+      "japanese": "自分を信じる、今日は私のもの",
+      "romaji": "jibun o shinjiru, kyou wa watashi no mono",
+      "category": "Confidence",
+      "generated_at": "2026-10-09T00:11:35.501778"
+    },
+    {
+      "english": "Small progress counts, I keep going",
+      "japanese": "小さな進歩でいい、続ける",
+      "romaji": "chiisana shinpo de ii, tsuzukeru",
+      "category": "Confidence",
+      "generated_at": "2026-10-09T00:11:35.501779"
     }
   ],
-  "last_updated": "2026-10-08T00:03:41.102773"
+  "last_updated": "2026-10-09T00:11:35.501781"
 }
