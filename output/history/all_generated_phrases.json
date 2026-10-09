@@ -7629,7 +7629,42 @@
       "romaji": "chiisana shinpo de ii, tsuzukeru",
       "category": "Confidence",
       "generated_at": "2026-10-09T00:11:35.501779"
+    },
+    {
+      "english": "The wind blows, through the trees.",
+      "japanese": "風が, 吹いています, 木々の間を。",
+      "romaji": "kaze ga, fuite imasu, kigi no aida o.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-09T19:13:58.610186"
+    },
+    {
+      "english": "Rain falls, on the quiet, mountains.",
+      "japanese": "雨が, 降っています, 静かな, 山に。",
+      "romaji": "ame ga, futte imasu, shizuka na, yama ni.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-09T19:13:58.610195"
+    },
+    {
+      "english": "Sunlight shines, on the green, leaves.",
+      "japanese": "日差しが, 照らしています, 緑の, 葉っぱを。",
+      "romaji": "hizashi ga, terashite imasu, midori no, happa o.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-09T19:13:58.610197"
+    },
+    {
+      "english": "Stars twinkle, in the dark, sky.",
+      "japanese": "星が, きらめいています, 暗い, 空に。",
+      "romaji": "hoshi ga, kirameite imasu, kurai, sora ni.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-09T19:13:58.610198"
+    },
+    {
+      "english": "A river flows, to the vast, ocean.",
+      "japanese": "川が, 流れています, 広大な, 海へ。",
+      "romaji": "kawa ga, nagarete imasu, koudai na, umi e.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-09T19:13:58.610199"
     }
   ],
-  "last_updated": "2026-10-09T00:11:35.501781"
+  "last_updated": "2026-10-09T19:13:58.610200"
 }
