@@ -7699,7 +7699,42 @@
       "romaji": "koukishin de, shitsumon shite, tsuyoku naru",
       "category": "Positive Life",
       "generated_at": "2026-10-09T23:52:16.712178"
+    },
+    {
+      "english": "Turn right, at the intersection.",
+      "japanese": "右に、曲がってください。",
+      "romaji": "Migi ni, magatte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-10T23:19:09.572759"
+    },
+    {
+      "english": "Go straight, for two blocks.",
+      "japanese": "まっすぐ、２ブロック進んでください。",
+      "romaji": "Massugu, ni burokku susunde kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-10T23:19:09.572771"
+    },
+    {
+      "english": "It's on your left, next to the park.",
+      "japanese": "公園の隣に、左手にあります。",
+      "romaji": "Kōen no tonari ni, hidari-te ni arimasu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-10T23:19:09.572774"
+    },
+    {
+      "english": "Walk ahead, until the traffic light.",
+      "japanese": "信号まで、歩いて行ってください。",
+      "romaji": "Shingō made, aruite itte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-10T23:19:09.572776"
+    },
+    {
+      "english": "Cross the bridge, then turn left.",
+      "japanese": "橋を渡って、左へ曲がってください。",
+      "romaji": "Hashi o watatte, hidari e magatte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-10T23:19:09.572779"
     }
   ],
-  "last_updated": "2026-10-09T23:52:16.712180"
+  "last_updated": "2026-10-10T23:19:09.572782"
 }
