@@ -7734,7 +7734,42 @@
       "romaji": "Hashi o watatte, hidari e magatte kudasai.",
       "category": "Direction Japanese",
       "generated_at": "2026-10-10T23:19:09.572779"
+    },
+    {
+      "english": "Soon, we'll meet again.",
+      "japanese": "また、すぐに会いましょう。",
+      "romaji": "Mata, sugu ni aimashou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-11T18:35:52.381651"
+    },
+    {
+      "english": "What time is it, now?",
+      "japanese": "今、何時ですか？",
+      "romaji": "Ima, nanji desu ka?",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-11T18:35:52.381663"
+    },
+    {
+      "english": "This is a good time.",
+      "japanese": "これは、良い時間です。",
+      "romaji": "Kore wa, yoi jikan desu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-11T18:35:52.381664"
+    },
+    {
+      "english": "It's almost time to go.",
+      "japanese": "もう、行く時間です。",
+      "romaji": "Mou, iku jikan desu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-11T18:35:52.381665"
+    },
+    {
+      "english": "Let's take our time.",
+      "japanese": "ゆっくり、時間を使いましょう。",
+      "romaji": "Yukkuri, jikan o tsukaimashou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-11T18:35:52.381666"
     }
   ],
-  "last_updated": "2026-10-10T23:19:09.572782"
+  "last_updated": "2026-10-11T18:35:52.381668"
 }
