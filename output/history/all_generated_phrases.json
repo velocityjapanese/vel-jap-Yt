@@ -7804,7 +7804,42 @@
       "romaji": "mokuhyō o kimete, tsugi no ippo ni shūchū",
       "category": "Success",
       "generated_at": "2026-10-11T23:29:44.734262"
+    },
+    {
+      "english": "I feel nervous, my hands are cold",
+      "japanese": "緊張するよ, 手が冷たい",
+      "romaji": "kinchō suruyo, te ga tsumetai",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-12T21:58:11.129339"
+    },
+    {
+      "english": "I feel calm, everything is okay now",
+      "japanese": "落ち着くよ, いま大丈夫",
+      "romaji": "ochitsuku yo, ima daijōbu",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-12T21:58:11.129350"
+    },
+    {
+      "english": "I feel happy, this smells great",
+      "japanese": "うれしい, いい匂いだね",
+      "romaji": "ureshii, ii nioi da ne",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-12T21:58:11.129352"
+    },
+    {
+      "english": "I feel sad, I miss you a lot",
+      "japanese": "悲しい, あなたが恋しい",
+      "romaji": "kanashii, anata ga koishii",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-12T21:58:11.129353"
+    },
+    {
+      "english": "I feel relieved, the problem is solved",
+      "japanese": "ほっとした, 問題は解決した",
+      "romaji": "hottoshita, mondai wa kaiketsu shita",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-12T21:58:11.129354"
     }
   ],
-  "last_updated": "2026-10-11T23:29:44.734264"
+  "last_updated": "2026-10-12T21:58:11.129356"
 }
