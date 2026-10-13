@@ -7909,7 +7909,42 @@
       "romaji": "shippai shitemo, manande susumou",
       "category": "Perseverance",
       "generated_at": "2026-10-13T20:02:25.015942"
+    },
+    {
+      "english": "Sit up straight, shoulders back",
+      "japanese": "背筋を伸ばして、肩を張って",
+      "romaji": "Se-kin o nobashite, kata o hatte",
+      "category": "Body Japanese",
+      "generated_at": "2026-10-13T23:39:03.071261"
+    },
+    {
+      "english": "Breathe deep, relax your face",
+      "japanese": "深呼吸して、顔の力を抜いて",
+      "romaji": "Shin kokyū shite, kao no chikara o nuite",
+      "category": "Body Japanese",
+      "generated_at": "2026-10-13T23:39:03.071274"
+    },
+    {
+      "english": "Stand tall, chin up",
+      "japanese": "背を高く、顎を引いて",
+      "romaji": "Se o takaku, ago o hiite",
+      "category": "Body Japanese",
+      "generated_at": "2026-10-13T23:39:03.071276"
+    },
+    {
+      "english": "Hands on hips, take charge",
+      "japanese": "手を腰に当てて、気合いを入れて",
+      "romaji": "Te o koshi ni atete, kiai o irete",
+      "category": "Body Japanese",
+      "generated_at": "2026-10-13T23:39:03.071277"
+    },
+    {
+      "english": "Cross your arms, think hard",
+      "japanese": "腕を組んで、じっくり考えて",
+      "romaji": "Ude o kunde, jikkuri kangaete",
+      "category": "Body Japanese",
+      "generated_at": "2026-10-13T23:39:03.071278"
     }
   ],
-  "last_updated": "2026-10-13T20:02:25.015944"
+  "last_updated": "2026-10-13T23:39:03.071279"
 }
