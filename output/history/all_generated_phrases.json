@@ -8049,7 +8049,42 @@
       "romaji": "Aidea o mixte, rimikkusu - atarashii mono ga umareru...",
       "category": "Creativity",
       "generated_at": "2026-10-15T17:59:02.577310"
+    },
+    {
+      "english": "May I take your order, please?",
+      "japanese": "ご注文はお決まりですか？",
+      "romaji": "Go-chūmon wa o-kimari desu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-10-15T22:56:46.833210"
+    },
+    {
+      "english": "Would you like to see the menu?",
+      "japanese": "メニューをご覧になりますか？",
+      "romaji": "Menyū o go-ran ni narimasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-10-15T22:56:46.833220"
+    },
+    {
+      "english": "This table is reserved, sorry.",
+      "japanese": "このテーブルは予約済みです。申し訳ありません。",
+      "romaji": "Kono tēburu wa yoyaku-zumi desu. Sumimasen.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-10-15T22:56:46.833222"
+    },
+    {
+      "english": "How many people in your party?",
+      "japanese": "何名様でしょうか？",
+      "romaji": "Nan-mei-sama deshō ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-10-15T22:56:46.833223"
+    },
+    {
+      "english": "Today’s special is here, would you like to try?",
+      "japanese": "本日のおすすめはこちらです。いかがですか？",
+      "romaji": "Honjitsu no o-susume wa kochira desu. Ikaga desu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-10-15T22:56:46.833224"
     }
   ],
-  "last_updated": "2026-10-15T17:59:02.577312"
+  "last_updated": "2026-10-15T22:56:46.833225"
 }
