@@ -8119,7 +8119,42 @@
       "romaji": "ato de denwa shimasu, mata ne.",
       "category": "Common Expressions",
       "generated_at": "2026-10-16T17:47:58.998118"
+    },
+    {
+      "english": "Take the train, watch the sky",
+      "japanese": "電車に乗って, 空を見ます",
+      "romaji": "densha ni notte, sora o mimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-16T22:38:11.387661"
+    },
+    {
+      "english": "Work calmly, focus on one task",
+      "japanese": "落ち着いて働いて, 一つの仕事に集中します",
+      "romaji": "ochitsuite hataraite, hitotsu no shigoto ni chuushuu shimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-16T22:38:11.387670"
+    },
+    {
+      "english": "Take a break, drink some water",
+      "japanese": "休憩して, 水を飲みます",
+      "romaji": "kyuukei shite, mizu o nomimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-16T22:38:11.387672"
+    },
+    {
+      "english": "Study Japanese, practice short sentences",
+      "japanese": "日本語を勉強して, 短い文を練習します",
+      "romaji": "nihongo o benkyou shite, mijikai bun o renshuu shimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-16T22:38:11.387673"
+    },
+    {
+      "english": "Sleep early, dream peacefully",
+      "japanese": "早く寝て, 安らかに眠ります",
+      "romaji": "hayaku nete, yasu rakani nemurimasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-16T22:38:11.387674"
     }
   ],
-  "last_updated": "2026-10-16T17:47:58.998120"
+  "last_updated": "2026-10-16T22:38:11.387676"
 }
