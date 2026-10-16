@@ -8084,7 +8084,42 @@
       "romaji": "Honjitsu no o-susume wa kochira desu. Ikaga desu ka?",
       "category": "Restaurant Japanese",
       "generated_at": "2026-10-15T22:56:46.833224"
+    },
+    {
+      "english": "I’m sorry, I was running late.",
+      "japanese": "ごめんなさい、遅れてしまいました。",
+      "romaji": "gomennasai, okurete shimaimashita.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-16T17:47:58.998104"
+    },
+    {
+      "english": "I understand, I’ll do it now.",
+      "japanese": "わかりました、今やります。",
+      "romaji": "wakarimashita, ima yarimasu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-16T17:47:58.998116"
+    },
+    {
+      "english": "It’s okay, take your time.",
+      "japanese": "大丈夫です、ゆっくりでいいです。",
+      "romaji": "daijoubu desu, yukkuri de ii desu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-16T17:47:58.998117"
+    },
+    {
+      "english": "What time does it start?",
+      "japanese": "何時に始まりますか。",
+      "romaji": "nanji ni hajimarimasu ka.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-16T17:47:58.998118"
+    },
+    {
+      "english": "I’ll call you later, bye.",
+      "japanese": "あとで電話します、またね。",
+      "romaji": "ato de denwa shimasu, mata ne.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-16T17:47:58.998118"
     }
   ],
-  "last_updated": "2026-10-15T22:56:46.833225"
+  "last_updated": "2026-10-16T17:47:58.998120"
 }
