@@ -8189,7 +8189,42 @@
       "romaji": "Dou itashimashite, daijoubu desu.",
       "category": "Greetings",
       "generated_at": "2026-10-17T16:49:17.741164"
+    },
+    {
+      "english": "Keep going, one honest effort",
+      "japanese": "続けよう, まっすぐ努力する",
+      "romaji": "tsuzukeyō, massugu doryoku suru",
+      "category": "Courage",
+      "generated_at": "2026-10-17T22:00:10.371851"
+    },
+    {
+      "english": "Your voice matters, speak up softly",
+      "japanese": "あなたの声は大切, 小さく伝えよう",
+      "romaji": "anata no koe wa taisetsu, chiisaku tsutaeyō",
+      "category": "Courage",
+      "generated_at": "2026-10-17T22:00:10.371862"
+    },
+    {
+      "english": "Choose action, not just worry",
+      "japanese": "心配より, 行動を選ぶ",
+      "romaji": "shinpai yori, kōdō o erabu",
+      "category": "Courage",
+      "generated_at": "2026-10-17T22:00:10.371864"
+    },
+    {
+      "english": "New day, new courage",
+      "japanese": "新しい日, 新しい勇気",
+      "romaji": "atarashii hi, atarashii yūki",
+      "category": "Courage",
+      "generated_at": "2026-10-17T22:00:10.371866"
+    },
+    {
+      "english": "Protect your dreams, step by step",
+      "japanese": "夢を守って, 一歩ずつ進む",
+      "romaji": "yume o mamotte, ippozutsu susumu",
+      "category": "Courage",
+      "generated_at": "2026-10-17T22:00:10.371867"
     }
   ],
-  "last_updated": "2026-10-17T16:49:17.741165"
+  "last_updated": "2026-10-17T22:00:10.371869"
 }
