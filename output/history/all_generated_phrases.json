@@ -8154,7 +8154,42 @@
       "romaji": "hayaku nete, yasu rakani nemurimasu",
       "category": "Daily Routine",
       "generated_at": "2026-10-16T22:38:11.387674"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "japanese": "こんにちは、はじめまして。",
+      "romaji": "Konnichiwa, hajimemashite.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T16:49:17.741148"
+    },
+    {
+      "english": "Good evening, sleep well.",
+      "japanese": "こんばんは、よく眠ってくださいね。",
+      "romaji": "Konbanwa, yoku nemutte kudasai ne.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T16:49:17.741161"
+    },
+    {
+      "english": "See you later, bye!",
+      "japanese": "また後でね、バイバイ！",
+      "romaji": "Mata ato de ne, bai bai!",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T16:49:17.741162"
+    },
+    {
+      "english": "Excuse me, may I ask?",
+      "japanese": "すみません、お伺いしてもいいですか？",
+      "romaji": "Sumimasen, o-ukagai shite mo ii desu ka?",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T16:49:17.741163"
+    },
+    {
+      "english": "You're welcome, no problem.",
+      "japanese": "どういたしまして、大丈夫です。",
+      "romaji": "Dou itashimashite, daijoubu desu.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T16:49:17.741164"
     }
   ],
-  "last_updated": "2026-10-16T22:38:11.387676"
+  "last_updated": "2026-10-17T16:49:17.741165"
 }
