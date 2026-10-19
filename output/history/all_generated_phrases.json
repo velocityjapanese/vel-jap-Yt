@@ -8294,7 +8294,42 @@
       "romaji": "jibun o shinji te, yakusoku o mamoru",
       "category": "Strength",
       "generated_at": "2026-10-18T22:17:01.303712"
+    },
+    {
+      "english": "Hands on your heart, be kind to you",
+      "japanese": "胸に手を当てて, 自分を大切に",
+      "romaji": "mune ni te o atete, jibun o taisetsu ni",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-19T19:37:37.074916"
+    },
+    {
+      "english": "Listen to sounds, let thoughts pass by",
+      "japanese": "音に気づき, 思考を通そう",
+      "romaji": "oto ni kizuki, shikou o toosu",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-19T19:37:37.074925"
+    },
+    {
+      "english": "Stand still, feel your feet on the ground",
+      "japanese": "そのまま立って, 足元を感じよう",
+      "romaji": "sono mama tatte, ashimoto o kanjiyou",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-19T19:37:37.074927"
+    },
+    {
+      "english": "Release tension, soften your belly",
+      "japanese": "緊張をほどいて, おなかをゆるめる",
+      "romaji": "kinchou o hodoite, onaka o yurumeru",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-19T19:37:37.074928"
+    },
+    {
+      "english": "Today is enough, return to this moment",
+      "japanese": "今日でいい, いまに戻ろう",
+      "romaji": "kyou de ii, ima ni modorou",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-19T19:37:37.074929"
     }
   ],
-  "last_updated": "2026-10-18T22:17:01.303714"
+  "last_updated": "2026-10-19T19:37:37.074931"
 }
