@@ -8329,7 +8329,42 @@
       "romaji": "kyou de ii, ima ni modorou",
       "category": "Mindfulness",
       "generated_at": "2026-10-19T19:37:37.074929"
+    },
+    {
+      "english": "Thanks, I’ll remember your generosity",
+      "japanese": "親切にありがとう、忘れません",
+      "romaji": "shinsetsu ni arigatou, wasuremasen",
+      "category": "Gratitude",
+      "generated_at": "2026-10-19T23:24:14.595451"
+    },
+    {
+      "english": "I’m thankful, for the lesson today",
+      "japanese": "今日の学びに感謝しています",
+      "romaji": "kyou no manabi ni kansha shiteimasu",
+      "category": "Gratitude",
+      "generated_at": "2026-10-19T23:24:14.595462"
+    },
+    {
+      "english": "Thank you, your words helped me",
+      "japanese": "言葉をありがとう、救われました",
+      "romaji": "kotoba o arigatou, sukuwaremashita",
+      "category": "Gratitude",
+      "generated_at": "2026-10-19T23:24:14.595464"
+    },
+    {
+      "english": "Thanks for listening, I feel lighter",
+      "japanese": "聞いてくれてありがとう、気持ちが軽いです",
+      "romaji": "kiite kurete arigatou, kimochi ga karui desu",
+      "category": "Gratitude",
+      "generated_at": "2026-10-19T23:24:14.595465"
+    },
+    {
+      "english": "Grateful for you, I’ll do my best",
+      "japanese": "あなたに感謝します、がんばります",
+      "romaji": "anata ni kansha shimasu, ganbarimasu",
+      "category": "Gratitude",
+      "generated_at": "2026-10-19T23:24:14.595466"
     }
   ],
-  "last_updated": "2026-10-19T19:37:37.074931"
+  "last_updated": "2026-10-19T23:24:14.595468"
 }
