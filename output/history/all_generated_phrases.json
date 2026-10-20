@@ -8364,7 +8364,42 @@
       "romaji": "anata ni kansha shimasu, ganbarimasu",
       "category": "Gratitude",
       "generated_at": "2026-10-19T23:24:14.595466"
+    },
+    {
+      "english": "My time is limited.",
+      "japanese": "私の時間は、限られています。",
+      "romaji": "Watashi no jikan wa, kagirarete imasu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-20T18:17:11.195750"
+    },
+    {
+      "english": "That took a long time.",
+      "japanese": "それは、時間がかかりました。",
+      "romaji": "Sore wa, jikan ga kakarimashita.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-20T18:17:11.195760"
+    },
+    {
+      "english": "Is it time for lunch?",
+      "japanese": "お昼の時間ですか？",
+      "romaji": "O-hiru no jikan desu ka?",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-20T18:17:11.195762"
+    },
+    {
+      "english": "We have plenty of time.",
+      "japanese": "まだ、時間があります。",
+      "romaji": "Mada, jikan ga arimasu.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-20T18:17:11.195763"
+    },
+    {
+      "english": "Let's save some time.",
+      "japanese": "時間を、節約しましょう。",
+      "romaji": "Jikan o, setsuyaku shimashou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-10-20T18:17:11.195764"
     }
   ],
-  "last_updated": "2026-10-19T23:24:14.595468"
+  "last_updated": "2026-10-20T18:17:11.195766"
 }
