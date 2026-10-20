@@ -8399,7 +8399,42 @@
       "romaji": "Jikan o, setsuyaku shimashou.",
       "category": "Time Japanese",
       "generated_at": "2026-10-20T18:17:11.195764"
+    },
+    {
+      "english": "Wow, it's blazing hot today, isn't it?",
+      "japanese": "うわあ、今日は暑すぎるね。",
+      "romaji": "Uwaa, kyō wa atsugisugiru ne.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-20T22:59:29.648713"
+    },
+    {
+      "english": "The wind’s a bit strong today, huh?",
+      "japanese": "今日は風がちょっと強いね。",
+      "romaji": "Kyō wa kaze ga chotto tsuyoi ne.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-20T22:59:29.648723"
+    },
+    {
+      "english": "It’s cloudy today, feels cozy...",
+      "japanese": "今日は曇りで、なんだか居心地いいな。",
+      "romaji": "Kyō wa kumori de, nandaka igokochi ii na.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-20T22:59:29.648724"
+    },
+    {
+      "english": "Brrr, it’s freezing out there.",
+      "japanese": "うぅ、外は凍えるほど寒い。",
+      "romaji": "Uu, soto wa koeru hodo samui.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-20T22:59:29.648726"
+    },
+    {
+      "english": "Perfect weather for a walk today.",
+      "japanese": "今日は散歩日和だね。",
+      "romaji": "Kyō wa sanpo biyori da ne.",
+      "category": "Weather Japanese",
+      "generated_at": "2026-10-20T22:59:29.648727"
     }
   ],
-  "last_updated": "2026-10-20T18:17:11.195766"
+  "last_updated": "2026-10-20T22:59:29.648729"
 }
