@@ -8434,7 +8434,42 @@
       "romaji": "Kyō wa sanpo biyori da ne.",
       "category": "Weather Japanese",
       "generated_at": "2026-10-20T22:59:29.648727"
+    },
+    {
+      "english": "Flowers bloom, in the warm, spring.",
+      "japanese": "花が, 咲いています, 暖かい, 春に。",
+      "romaji": "hana ga, saite imasu, atatakai, haru ni.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-21T18:21:15.222673"
+    },
+    {
+      "english": "Clouds drift, across the blue, expanse.",
+      "japanese": "雲が, 流れています, 青い, 大空を。",
+      "romaji": "kumo ga, nagarete imasu, aoi, oozora o.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-21T18:21:15.222682"
+    },
+    {
+      "english": "Birds sing, their cheerful, songs.",
+      "japanese": "鳥が, 歌っています, 楽しそうな, 歌を。",
+      "romaji": "tori ga, utatte imasu, tanoshisou na, uta o.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-21T18:21:15.222684"
+    },
+    {
+      "english": "The moon rises, over the calm, lake.",
+      "japanese": "月が, 昇っています, 静かな, 湖の上に。",
+      "romaji": "tsuki ga, nobotte imasu, shizuka na, mizuumi no ue ni.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-21T18:21:15.222685"
+    },
+    {
+      "english": "A gentle breeze, cools the, summer air.",
+      "japanese": "心地よい風が, 涼しくします, 夏の, 空気を。",
+      "romaji": "kokochiyoi kaze ga, suzushiku shimasu, natsu no, kuuki o.",
+      "category": "Nature Japanese",
+      "generated_at": "2026-10-21T18:21:15.222686"
     }
   ],
-  "last_updated": "2026-10-20T22:59:29.648729"
+  "last_updated": "2026-10-21T18:21:15.222687"
 }
