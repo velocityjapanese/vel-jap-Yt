@@ -8574,7 +8574,42 @@
       "romaji": "sotto shinjite, mae e susumō",
       "category": "Hope",
       "generated_at": "2026-10-22T23:01:20.654727"
+    },
+    {
+      "english": "Thank you, I really appreciate it.",
+      "japanese": "ありがとうございます、本当に助かりました。",
+      "romaji": "arigatou gozaimasu, hontou ni tasukarimashita.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-23T18:04:57.037048"
+    },
+    {
+      "english": "Please speak slower, I’m learning.",
+      "japanese": "ゆっくり話してください、勉強中です。",
+      "romaji": "yukkuri hanashite kudasai, benkyou chuu desu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-23T18:04:57.037060"
+    },
+    {
+      "english": "I don’t understand, please say again.",
+      "japanese": "わかりません、もう一度お願いします。",
+      "romaji": "wakarimasen, mou ichido onegaishimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-23T18:04:57.037062"
+    },
+    {
+      "english": "Is this expensive, or is it cheap?",
+      "japanese": "これは高いですか、安いですか。",
+      "romaji": "kore wa takai desu ka, yasui desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-23T18:04:57.037063"
+    },
+    {
+      "english": "I’m looking for this, where is it?",
+      "japanese": "これを探しています、どこですか。",
+      "romaji": "kore o sagashite imasu, doko desu ka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-23T18:04:57.037065"
     }
   ],
-  "last_updated": "2026-10-22T23:01:20.654729"
+  "last_updated": "2026-10-23T18:04:57.037067"
 }
