@@ -8609,7 +8609,42 @@
       "romaji": "kore o sagashite imasu, doko desu ka.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-23T18:04:57.037065"
+    },
+    {
+      "english": "I feel angry, please stop that",
+      "japanese": "怒ってる, それはやめて",
+      "romaji": "okottēru, sore wa yamete",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-24T00:06:27.891934"
+    },
+    {
+      "english": "I feel worried, what if it goes wrong",
+      "japanese": "心配だ, 失敗したらどうしよう",
+      "romaji": "shinpai da, shippai shitara dō shiyō",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-24T00:06:27.891947"
+    },
+    {
+      "english": "I feel excited, let's go right now",
+      "japanese": "わくわくする, すぐ行こう",
+      "romaji": "waku waku suru, sugu ikō",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-24T00:06:27.891949"
+    },
+    {
+      "english": "I feel tired, my body needs rest",
+      "japanese": "疲れた, 体を休めたい",
+      "romaji": "tsukareta, karada o yasumetai",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-24T00:06:27.891950"
+    },
+    {
+      "english": "I feel hopeful, tomorrow will be better",
+      "japanese": "希望がある, 明日は良くなる",
+      "romaji": "kibō ga aru, ashita wa yoku naru",
+      "category": "Feelings Japanese",
+      "generated_at": "2026-10-24T00:06:27.891951"
     }
   ],
-  "last_updated": "2026-10-23T18:04:57.037067"
+  "last_updated": "2026-10-24T00:06:27.891953"
 }
