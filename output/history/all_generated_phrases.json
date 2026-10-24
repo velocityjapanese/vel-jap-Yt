@@ -8644,7 +8644,42 @@
       "romaji": "kibō ga aru, ashita wa yoku naru",
       "category": "Feelings Japanese",
       "generated_at": "2026-10-24T00:06:27.891951"
+    },
+    {
+      "english": "Good morning, sleep well?",
+      "japanese": "おはよう、よく眠れた？",
+      "romaji": "Ohayō, yoku nemureta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-24T17:10:44.819575"
+    },
+    {
+      "english": "Let’s eat, I’m starving!",
+      "japanese": "食べよう、お腹減った！",
+      "romaji": "Tabeyō, onaka hetta!",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-24T17:10:44.819582"
+    },
+    {
+      "english": "Take care, stay safe out there.",
+      "japanese": "気をつけて、行ってらっしゃい。",
+      "romaji": "Ki o tsukete, itterasshai.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-24T17:10:44.819583"
+    },
+    {
+      "english": "Hurry up, we’re late!",
+      "japanese": "急いで、遅れるよ！",
+      "romaji": "Isoide, okureru yo!",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-24T17:10:44.819584"
+    },
+    {
+      "english": "Wow, that’s amazing!",
+      "japanese": "わあ、すごいね！",
+      "romaji": "Wā, sugoi ne!",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-24T17:10:44.819585"
     }
   ],
-  "last_updated": "2026-10-24T00:06:27.891953"
+  "last_updated": "2026-10-24T17:10:44.819586"
 }
