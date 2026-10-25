@@ -8679,7 +8679,42 @@
       "romaji": "Wā, sugoi ne!",
       "category": "Common Expressions",
       "generated_at": "2026-10-24T17:10:44.819585"
+    },
+    {
+      "english": "This is wonderful, truly.",
+      "japanese": "これは本当に、素晴らしいです。",
+      "romaji": "kore wa hontou ni, subarashii desu.",
+      "category": "Joy",
+      "generated_at": "2026-10-25T17:23:03.610697"
+    },
+    {
+      "english": "I feel so happy, right now.",
+      "japanese": "今、とても幸せです。",
+      "romaji": "ima, totemo shiawase desu.",
+      "category": "Joy",
+      "generated_at": "2026-10-25T17:23:03.610709"
+    },
+    {
+      "english": "What a great day, yes!",
+      "japanese": "なんて素晴らしい日でしょう、はい！",
+      "romaji": "nante subarashii hi deshou, hai!",
+      "category": "Joy",
+      "generated_at": "2026-10-25T17:23:03.610710"
+    },
+    {
+      "english": "It makes me smile, a lot.",
+      "japanese": "とても、笑顔になります。",
+      "romaji": "totemo, egao ni narimasu.",
+      "category": "Joy",
+      "generated_at": "2026-10-25T17:23:03.610711"
+    },
+    {
+      "english": "This is amazing, wow!",
+      "japanese": "これはすごい、わあ！",
+      "romaji": "kore wa sugoi, waa!",
+      "category": "Joy",
+      "generated_at": "2026-10-25T17:23:03.610712"
     }
   ],
-  "last_updated": "2026-10-24T17:10:44.819586"
+  "last_updated": "2026-10-25T17:23:03.610714"
 }
