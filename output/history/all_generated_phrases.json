@@ -8714,7 +8714,42 @@
       "romaji": "kore wa sugoi, waa!",
       "category": "Joy",
       "generated_at": "2026-10-25T17:23:03.610712"
+    },
+    {
+      "english": "Autumn leaves turn fiery red, don’t they?",
+      "japanese": "秋の葉は燃えるような赤に変わるんだよね。",
+      "romaji": "Aki no ha wa moeru yō na aka ni kawaru n da yo ne.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-10-26T20:51:46.742392"
+    },
+    {
+      "english": "The ocean’s color changes, from turquoise to deep blue.",
+      "japanese": "海の色は、青緑から深い青へと変わる。",
+      "romaji": "Umi no iro wa, seiryoku kara fukai ao e to kawaru.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-10-26T20:51:46.742403"
+    },
+    {
+      "english": "Purple flowers bloom in the garden every year.",
+      "japanese": "毎年庭に紫の花が咲くんだ。",
+      "romaji": "Maitoshi niwa ni murasaki no hana ga saku n da.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-10-26T20:51:46.742404"
+    },
+    {
+      "english": "This fabric feels silky, like warm cream.",
+      "japanese": "この生地、温かいクリームみたいでサラサラしてる。",
+      "romaji": "Kono kiji, atatakai kurīmu mitai de sarasara shite ru.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-10-26T20:51:46.742406"
+    },
+    {
+      "english": "Bright yellow flowers brighten up the room.",
+      "japanese": "明るい黄色の花が部屋を明るくする。",
+      "romaji": "Akarui kiiro no hana ga heya o akaruku suru.",
+      "category": "Colors Japanese",
+      "generated_at": "2026-10-26T20:51:46.742407"
     }
   ],
-  "last_updated": "2026-10-25T17:23:03.610714"
+  "last_updated": "2026-10-26T20:51:46.742408"
 }
