@@ -8784,7 +8784,42 @@
       "romaji": "kyou mo, anata o erabu",
       "category": "Love",
       "generated_at": "2026-10-26T23:37:29.787868"
+    },
+    {
+      "english": "Don't rush, the process.",
+      "japanese": "過程を、急がないで。",
+      "romaji": "katei o, isoganaide.",
+      "category": "Patience",
+      "generated_at": "2026-10-27T19:11:29.920569"
+    },
+    {
+      "english": "Keep trying, little by little.",
+      "japanese": "少しずつ、頑張り続けて。",
+      "romaji": "sukoshi zutsu, ganbari tsuzukete.",
+      "category": "Patience",
+      "generated_at": "2026-10-27T19:11:29.920576"
+    },
+    {
+      "english": "Wait for, the right moment.",
+      "japanese": "良い時を、待って。",
+      "romaji": "yoi toki o, matte.",
+      "category": "Patience",
+      "generated_at": "2026-10-27T19:11:29.920578"
+    },
+    {
+      "english": "Let it bloom, in its own time.",
+      "japanese": "自分の時に、咲かせよう。",
+      "romaji": "jibun no toki ni, sakaseyou.",
+      "category": "Patience",
+      "generated_at": "2026-10-27T19:11:29.920579"
+    },
+    {
+      "english": "Trust the journey, it's unfolding.",
+      "japanese": "旅を信じて、進む。",
+      "romaji": "tabi o shinjite, susumu.",
+      "category": "Patience",
+      "generated_at": "2026-10-27T19:11:29.920580"
     }
   ],
-  "last_updated": "2026-10-26T23:37:29.787870"
+  "last_updated": "2026-10-27T19:11:29.920582"
 }
