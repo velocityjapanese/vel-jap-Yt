@@ -8819,7 +8819,42 @@
       "romaji": "tabi o shinjite, susumu.",
       "category": "Patience",
       "generated_at": "2026-10-27T19:11:29.920580"
+    },
+    {
+      "english": "You'll see it, on your right side.",
+      "japanese": "右側の方に、見えるはずです。",
+      "romaji": "Migigawa no hō ni, mieru hazu desu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-27T23:35:17.217876"
+    },
+    {
+      "english": "Go past the station, and keep going.",
+      "japanese": "駅を過ぎて、そのまま進んでください。",
+      "romaji": "Eki o sugite, sonomama susunde kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-27T23:35:17.217887"
+    },
+    {
+      "english": "Take the second road, on the left.",
+      "japanese": "左の、２番目の道を行ってください。",
+      "romaji": "Hidari no, nibanme no michi o itte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-27T23:35:17.217889"
+    },
+    {
+      "english": "It's just around, the corner.",
+      "japanese": "角を、曲がったところです。",
+      "romaji": "Kado o, magatta tokoro desu.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-27T23:35:17.217890"
+    },
+    {
+      "english": "Follow this street, to the end.",
+      "japanese": "この道を、まっすぐ行ってください。",
+      "romaji": "Kono michi o, massugu itte kudasai.",
+      "category": "Direction Japanese",
+      "generated_at": "2026-10-27T23:35:17.217891"
     }
   ],
-  "last_updated": "2026-10-27T19:11:29.920582"
+  "last_updated": "2026-10-27T23:35:17.217892"
 }
