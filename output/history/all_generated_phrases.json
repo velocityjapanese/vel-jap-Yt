@@ -8994,7 +8994,42 @@
       "romaji": "ima wa yurumete, ashita o shin jite",
       "category": "Positive Life",
       "generated_at": "2026-10-29T23:50:03.250936"
+    },
+    {
+      "english": "Hello, nice to meet you, today is great.",
+      "japanese": "こんにちは, はじめまして, 今日はいい日です。",
+      "romaji": "konnichiwa, hajimemashite, kyou wa ii hi desu",
+      "category": "Greetings",
+      "generated_at": "2026-10-30T18:58:12.582691"
+    },
+    {
+      "english": "Good morning, take it easy, see you soon.",
+      "japanese": "おはよう, ゆっくりね, またね。",
+      "romaji": "ohayou, yukkuri ne, mata ne",
+      "category": "Greetings",
+      "generated_at": "2026-10-30T18:58:12.582710"
+    },
+    {
+      "english": "Good evening, thanks for coming, please relax.",
+      "japanese": "こんばんは, 来てくれてありがとう, どうぞ楽に。",
+      "romaji": "konbanwa, kite kurete arigatou, douzo rakuni",
+      "category": "Greetings",
+      "generated_at": "2026-10-30T18:58:12.582712"
+    },
+    {
+      "english": "Hi there, how are you, are you okay?",
+      "japanese": "やあ, 元気ですか, 大丈夫？",
+      "romaji": "yaa, genki desu ka, daijoubu",
+      "category": "Greetings",
+      "generated_at": "2026-10-30T18:58:12.582714"
+    },
+    {
+      "english": "Welcome in, have a seat, enjoy your time.",
+      "japanese": "いらっしゃい, 座ってください, ゆっくりどうぞ。",
+      "romaji": "irasshai, suwatte kudasai, yukkuri douzo",
+      "category": "Greetings",
+      "generated_at": "2026-10-30T18:58:12.582715"
     }
   ],
-  "last_updated": "2026-10-29T23:50:03.250938"
+  "last_updated": "2026-10-30T18:58:12.582718"
 }
