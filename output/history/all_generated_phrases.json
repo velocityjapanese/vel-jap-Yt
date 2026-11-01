@@ -9029,7 +9029,42 @@
       "romaji": "irasshai, suwatte kudasai, yukkuri douzo",
       "category": "Greetings",
       "generated_at": "2026-10-30T18:58:12.582715"
+    },
+    {
+      "english": "Thank you, for your kindness, today.",
+      "japanese": "今日、優しい気持ちをありがとう。",
+      "romaji": "Kyō, yasashii kimochi o arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-01T23:25:19.676296"
+    },
+    {
+      "english": "I really appreciate your help.",
+      "japanese": "助けてくれて、本当にありがとう。",
+      "romaji": "Tasukete kurete, hontō ni arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-01T23:25:19.676306"
+    },
+    {
+      "english": "Your support means so much to me.",
+      "japanese": "あなたの支え、心から grateful です。",
+      "romaji": "Anata no sasae, kokoro kara grateful desu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-01T23:25:19.676308"
+    },
+    {
+      "english": "Thanks for listening, to my silly story.",
+      "japanese": " silly な話だけど、聞いてくれてありがとう。",
+      "romaji": "Silly na hanashi dakedo, kiite kurete arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-01T23:25:19.676309"
+    },
+    {
+      "english": "Your smile, makes my day brighter.",
+      "japanese": "あなたの笑顔が、今日を明るくしてくれます。",
+      "romaji": "Anata no egao ga, kyō o akaruku shite kuremasu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-01T23:25:19.676310"
     }
   ],
-  "last_updated": "2026-10-30T18:58:12.582718"
+  "last_updated": "2026-11-01T23:25:19.676312"
 }
