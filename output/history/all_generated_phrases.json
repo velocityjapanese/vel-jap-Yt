@@ -9064,7 +9064,42 @@
       "romaji": "Anata no egao ga, kyō o akaruku shite kuremasu.",
       "category": "Gratitude",
       "generated_at": "2026-11-01T23:25:19.676310"
+    },
+    {
+      "english": "Would you like to add a drink?",
+      "japanese": "飲み物はお付けしますか？",
+      "romaji": "Nomimono wa o-tsuke shimasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-11-03T02:02:49.070781"
+    },
+    {
+      "english": "Is this seat taken?",
+      "japanese": "こちらの席は空いていますか？",
+      "romaji": "Kochira no seki wa aite imasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-11-03T02:02:49.070788"
+    },
+    {
+      "english": "Please wait just a moment.",
+      "japanese": "少々お待ちください。",
+      "romaji": "Shōshō o-machi kudasai.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-11-03T02:02:49.070790"
+    },
+    {
+      "english": "Would you like to pay separately?",
+      "japanese": "お会計は別々にしますか？",
+      "romaji": "O-kaikei wa betsu-betsu ni shimasu ka?",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-11-03T02:02:49.070792"
+    },
+    {
+      "english": "Thank you very much! Come again.",
+      "japanese": "ありがとうございました。またどうぞ。",
+      "romaji": "Arigatō gozaimashita. Mata dōzo.",
+      "category": "Restaurant Japanese",
+      "generated_at": "2026-11-03T02:02:49.070793"
     }
   ],
-  "last_updated": "2026-11-01T23:25:19.676312"
+  "last_updated": "2026-11-03T02:02:49.070794"
 }
