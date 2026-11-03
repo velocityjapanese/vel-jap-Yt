@@ -23,7 +23,7 @@ AI_MODEL = os.getenv("AI_MODEL")
 
 if not AI_MODEL:
     raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file. "
+        "AI_MODEL not set! Please add 'AI_MODEL=openai/gpt-5.4-nano' to your .env file. "
         "For GitHub Actions: Add AI_MODEL to repository secrets."
     )
 
@@ -227,7 +227,7 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_japanese = CATEGORIES_JAPANESE[category_english]
 
     # Try AI first
-    AI_MODELS_FALLBACK = [AI_MODEL, "openai", "mistral", "llama"]
+    AI_MODELS_FALLBACK = [AI_MODEL, "openai/gpt-5.4-nano", "mistral", "llama"]
     max_attempts = 3
     for attempt in range(max_attempts):
         for model_idx, model in enumerate(AI_MODELS_FALLBACK):
