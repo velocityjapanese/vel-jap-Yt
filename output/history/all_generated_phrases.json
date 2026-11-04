@@ -9169,7 +9169,42 @@
       "romaji": "kyou wa, ikari ja naku heiwa",
       "category": "Forgiveness",
       "generated_at": "2026-11-04T00:26:47.045495"
+    },
+    {
+      "english": "Touch your forehead, breathe slowly, relax.",
+      "japanese": "おでこを触って, ゆっくり息を吸って, ゆるめて。",
+      "romaji": "odeko o futte, yukkuri iki o sutte, yurumete.",
+      "category": "Body Japanese",
+      "generated_at": "2026-11-04T20:42:58.329721"
+    },
+    {
+      "english": "Roll your shoulders back, straighten your spine.",
+      "japanese": "肩を後ろへ回して, 背すじをまっすぐに。",
+      "romaji": "kata o ushiro e mawashite, sesuji o massugu ni.",
+      "category": "Body Japanese",
+      "generated_at": "2026-11-04T20:42:58.329729"
+    },
+    {
+      "english": "Stretch your arms, hold, then release.",
+      "japanese": "腕を伸ばして, 止めて, それから離して。",
+      "romaji": "ude o nobashite, tomete, soretara hanashite.",
+      "category": "Body Japanese",
+      "generated_at": "2026-11-04T20:42:58.329731"
+    },
+    {
+      "english": "Turn your head slowly, eyes soft, breathe.",
+      "japanese": "頭をゆっくり回して, 目はやさしく, 息をして。",
+      "romaji": "atama o yukkuri mawashite, me wa yasashiku, iki o shite.",
+      "category": "Body Japanese",
+      "generated_at": "2026-11-04T20:42:58.329733"
+    },
+    {
+      "english": "Feel your chest rise, then fall.",
+      "japanese": "胸が上がって, それから下がって。",
+      "romaji": "mune ga agatte, soret kara sagatte.",
+      "category": "Body Japanese",
+      "generated_at": "2026-11-04T20:42:58.329734"
     }
   ],
-  "last_updated": "2026-11-04T00:26:47.045497"
+  "last_updated": "2026-11-04T20:42:58.329736"
 }
