@@ -9134,7 +9134,42 @@
       "romaji": "hakki ri itte, ato wa koudou",
       "category": "Confidence",
       "generated_at": "2026-11-03T20:23:34.752999"
+    },
+    {
+      "english": "I forgive you, let’s move forward together",
+      "japanese": "ゆるすよ, いっしょに すすもう",
+      "romaji": "yurusu yo, isshoni susumou",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:26:47.045478"
+    },
+    {
+      "english": "It’s okay, I’ll let it go now",
+      "japanese": "だいじょうぶ, いますぐ わすれる",
+      "romaji": "daijoubu, imasugu wasureru",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:26:47.045488"
+    },
+    {
+      "english": "I understand, so please forgive me",
+      "japanese": "わかってるよ, おねがい 許して",
+      "romaji": "wakatteru yo, onegai yurushite",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:26:47.045493"
+    },
+    {
+      "english": "No hard feelings, we can heal",
+      "japanese": "きまずくないよ, いっしょに やさしく",
+      "romaji": "kima zukunai yo, isshoni yasashiku",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:26:47.045494"
+    },
+    {
+      "english": "I choose peace, not anger today",
+      "japanese": "きょうは, いかりじゃなく へいわ",
+      "romaji": "kyou wa, ikari ja naku heiwa",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:26:47.045495"
     }
   ],
-  "last_updated": "2026-11-03T20:23:34.753001"
+  "last_updated": "2026-11-04T00:26:47.045497"
 }
