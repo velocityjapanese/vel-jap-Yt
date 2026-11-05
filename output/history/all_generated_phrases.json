@@ -9239,7 +9239,42 @@
       "romaji": "yukkuri demo, michi o mamorō",
       "category": "Perseverance",
       "generated_at": "2026-11-05T00:46:47.057238"
+    },
+    {
+      "english": "Please wait, I will be right back.",
+      "japanese": "少し待って、すぐ戻ります。",
+      "romaji": "sukoshi matte, sugu modorimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T21:57:46.468803"
+    },
+    {
+      "english": "I understand, but please say it again.",
+      "japanese": "わかりました、もう一度お願いします。",
+      "romaji": "wakarimashita, mou ichido onegaishimasu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T21:57:46.468814"
+    },
+    {
+      "english": "Let’s go now, it’s getting late.",
+      "japanese": "いま行こう、もう遅いよ。",
+      "romaji": "ima ikou, mou osoi yo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T21:57:46.468816"
+    },
+    {
+      "english": "I’m hungry, can I eat something?",
+      "japanese": "お腹がすいた、何か食べたいです。",
+      "romaji": "onaka ga suita, nanika tabetai desu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T21:57:46.468817"
+    },
+    {
+      "english": "Sorry, I made a mistake.",
+      "japanese": "ごめんなさい、間違えました。",
+      "romaji": "gomennasai, machigaemashita.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T21:57:46.468818"
     }
   ],
-  "last_updated": "2026-11-05T00:46:47.057240"
+  "last_updated": "2026-11-05T21:57:46.468820"
 }
