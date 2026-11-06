@@ -9309,7 +9309,42 @@
       "romaji": "kyō tameshite, ashita yoku shiyō",
       "category": "Creativity",
       "generated_at": "2026-11-06T00:50:51.580047"
+    },
+    {
+      "english": "Right now, take a deep breath.",
+      "japanese": "いま、深呼吸してね。",
+      "romaji": "ima, shinkokyuu shite ne.",
+      "category": "Time Japanese",
+      "generated_at": "2026-11-06T20:13:31.778177"
+    },
+    {
+      "english": "Later today, I will call you.",
+      "japanese": "今日のあとで、電話するよ。",
+      "romaji": "kyou no ato de, denwa suru yo.",
+      "category": "Time Japanese",
+      "generated_at": "2026-11-06T20:13:31.778191"
+    },
+    {
+      "english": "In two hours, we meet.",
+      "japanese": "二時間後に、会おう。",
+      "romaji": "ni jikan go ni, aou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-11-06T20:13:31.778193"
+    },
+    {
+      "english": "Tomorrow morning, let's start early.",
+      "japanese": "あしたの朝、早く始めよう。",
+      "romaji": "ashita no asa, hayaku hajimeyou.",
+      "category": "Time Japanese",
+      "generated_at": "2026-11-06T20:13:31.778194"
+    },
+    {
+      "english": "Before sleep, write one sentence.",
+      "japanese": "寝る前に、一文書いて。",
+      "romaji": "neru mae ni, ichibun kaite.",
+      "category": "Time Japanese",
+      "generated_at": "2026-11-06T20:13:31.778195"
     }
   ],
-  "last_updated": "2026-11-06T00:50:51.580048"
+  "last_updated": "2026-11-06T20:13:31.778196"
 }
