@@ -9344,7 +9344,42 @@
       "romaji": "neru mae ni, ichibun kaite.",
       "category": "Time Japanese",
       "generated_at": "2026-11-06T20:13:31.778195"
+    },
+    {
+      "english": "Excuse me, where is the station, please?",
+      "japanese": "すみません、駅はどこですか、お願いします。",
+      "romaji": "sumimasen, eki wa doko desu ka, onegai shimasu",
+      "category": "Travel Japanese",
+      "generated_at": "2026-11-06T23:59:08.239442"
+    },
+    {
+      "english": "How much is this ticket, please?",
+      "japanese": "この切符はいくらですか、お願いします。",
+      "romaji": "kono kippu wa ikura desu ka, onegai shimasu",
+      "category": "Travel Japanese",
+      "generated_at": "2026-11-06T23:59:08.239450"
+    },
+    {
+      "english": "Is there a restroom nearby, right?",
+      "japanese": "近くにトイレはありますか、ね。",
+      "romaji": "chikaku ni toire wa arimasu ka, ne",
+      "category": "Travel Japanese",
+      "generated_at": "2026-11-06T23:59:08.239451"
+    },
+    {
+      "english": "I want to buy a prepaid card.",
+      "japanese": "プリペイドカードを買いたいです。",
+      "romaji": "puripeido kaado o kaitai desu",
+      "category": "Travel Japanese",
+      "generated_at": "2026-11-06T23:59:08.239453"
+    },
+    {
+      "english": "Where can I change money, please?",
+      "japanese": "両替はどこでできますか、お願いします。",
+      "romaji": "ryōgae wa doko de dekimasu ka, onegai shimasu",
+      "category": "Travel Japanese",
+      "generated_at": "2026-11-06T23:59:08.239454"
     }
   ],
-  "last_updated": "2026-11-06T20:13:31.778196"
+  "last_updated": "2026-11-06T23:59:08.239455"
 }
