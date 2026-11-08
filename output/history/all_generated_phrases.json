@@ -9484,7 +9484,42 @@
       "romaji": "yukkuri demo, susunderu, michi wa hiraku",
       "category": "Motivation",
       "generated_at": "2026-11-08T18:38:38.386776"
+    },
+    {
+      "english": "Do you have this in a smaller size?",
+      "japanese": "これの小さいサイズはありますか。",
+      "romaji": "kore no chiisai saizu wa arimasu ka.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-11-08T23:27:51.729159"
+    },
+    {
+      "english": "Does this come in other colors?",
+      "japanese": "この色違いはありますか。",
+      "romaji": "kono iro chigai wa arimasu ka.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-11-08T23:27:51.729169"
+    },
+    {
+      "english": "I’ll take this one, please.",
+      "japanese": "これをお願いします。",
+      "romaji": "kore o onegaishimasu.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-11-08T23:27:51.729171"
+    },
+    {
+      "english": "Can I pay by card?",
+      "japanese": "カードで支払えますか。",
+      "romaji": "kaado de shiharahaemasu ka.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-11-08T23:27:51.729172"
+    },
+    {
+      "english": "Where is the register, please?",
+      "japanese": "レジはどこですか。",
+      "romaji": "reji wa doko desu ka.",
+      "category": "Shopping Japanese",
+      "generated_at": "2026-11-08T23:27:51.729173"
     }
   ],
-  "last_updated": "2026-11-08T18:38:38.386777"
+  "last_updated": "2026-11-08T23:27:51.729175"
 }
