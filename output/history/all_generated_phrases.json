@@ -9589,7 +9589,42 @@
       "romaji": "saki ni waratte, yuuki ga sodatsu",
       "category": "Positive Life",
       "generated_at": "2026-11-10T02:35:33.984854"
+    },
+    {
+      "english": "Hello, how are you today, friend?",
+      "japanese": "こんにちは、元気ですか、友だち？",
+      "romaji": "konnichiwa, genki desu ka, tomodachi?",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:42:39.008152"
+    },
+    {
+      "english": "Good morning, please have a great day.",
+      "japanese": "おはようございます、今日もよろしくお願いします。",
+      "romaji": "ohayou gozaimasu, kyou mo yoroshiku onegaishimasu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:42:39.008164"
+    },
+    {
+      "english": "Good evening, how was your day?",
+      "japanese": "こんばんは、今日はいかがでしたか？",
+      "romaji": "konbanwa, kyou wa ikaga deshita ka?",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:42:39.008166"
+    },
+    {
+      "english": "Nice to meet you, welcome!",
+      "japanese": "はじめまして、ようこそいらっしゃい！",
+      "romaji": "hajimemashite, youkoso irasshai!",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:42:39.008167"
+    },
+    {
+      "english": "Welcome back, great to see you again.",
+      "japanese": "おかえりなさい、また会えてうれしいです。",
+      "romaji": "okaeri nasai, mata aete ureshii desu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:42:39.008168"
     }
   ],
-  "last_updated": "2026-11-10T02:35:33.984856"
+  "last_updated": "2026-11-10T20:42:39.008170"
 }
