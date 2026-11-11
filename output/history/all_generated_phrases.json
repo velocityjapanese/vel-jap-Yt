@@ -9659,7 +9659,42 @@
       "romaji": "taberu mae to ato, te o araattene",
       "category": "Health Japanese",
       "generated_at": "2026-11-11T00:28:06.970274"
+    },
+    {
+      "english": "It’s sunny today, isn’t it?",
+      "japanese": "今日は晴れてるね。",
+      "transliteration": "Kyou wa hareteru ne.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T09:31:39.865731"
+    },
+    {
+      "english": "The sky looks cloudy, though.",
+      "japanese": "でも空が雲っぽい。",
+      "transliteration": "Demo sora ga kumoppoi.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T09:31:39.865743"
+    },
+    {
+      "english": "It’s raining right now, sorry.",
+      "japanese": "いま雨が降ってる、ね。",
+      "transliteration": "Ima ame ga futteru, ne.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T09:31:39.865745"
+    },
+    {
+      "english": "The rain is light, I think.",
+      "japanese": "雨、けっこう弱いよ。",
+      "transliteration": "Ame, kekkou yowai yo.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T09:31:39.865747"
+    },
+    {
+      "english": "Stop, it’s going to rain.",
+      "japanese": "やめて、雨になりそう。",
+      "transliteration": "Yamete, ame ni narisou.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T09:31:39.865748"
     }
   ],
-  "last_updated": "2026-11-11T00:28:06.970276"
+  "last_updated": "2026-11-11T09:31:39.865750"
 }
