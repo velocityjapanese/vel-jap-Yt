@@ -9694,7 +9694,42 @@
       "transliteration": "Yamete, ame ni narisou.",
       "category": "Weather",
       "generated_at": "2026-11-11T09:31:39.865748"
+    },
+    {
+      "english": "Where is the nearest convenience store?",
+      "japanese": "いちばん近いコンビニはどこですか。",
+      "transliteration": "ichiban chikai konbini wa doko desu ka",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T21:06:00.118508"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "japanese": "これ、試着してもいいですか。",
+      "transliteration": "kore, shichaku shite mo ii desu ka",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T21:06:00.118525"
+    },
+    {
+      "english": "How much is this? Is it on sale?",
+      "japanese": "これはいくらですか、セールですか。",
+      "transliteration": "kore wa ikura desu ka, se-ru desu ka",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T21:06:00.118529"
+    },
+    {
+      "english": "I’ll take it, how do I pay?",
+      "japanese": "買います、どうやって支払いますか。",
+      "transliteration": "kaimasu, dou yatte shiharai masu ka",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T21:06:00.118531"
+    },
+    {
+      "english": "Do you accept credit cards here?",
+      "japanese": "ここでクレジットカードは使えますか。",
+      "transliteration": "koko de kurejitto ka-do wa tsukaemasu ka",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T21:06:00.118534"
     }
   ],
-  "last_updated": "2026-11-11T09:31:39.865750"
+  "last_updated": "2026-11-11T21:06:00.118537"
 }
