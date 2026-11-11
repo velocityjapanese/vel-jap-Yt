@@ -9624,7 +9624,42 @@
       "romaji": "okaeri nasai, mata aete ureshii desu.",
       "category": "Greetings",
       "generated_at": "2026-11-10T20:42:39.008168"
+    },
+    {
+      "english": "Drink water, slowly, every morning",
+      "japanese": "水を飲もう、ゆっくり、毎朝",
+      "romaji": "mizu o nomou, yukkuri, maiasa",
+      "category": "Health Japanese",
+      "generated_at": "2026-11-11T00:28:06.970255"
+    },
+    {
+      "english": "Take a walk, after lunch, for ten minutes",
+      "japanese": "昼休みのあと、十分歩こう",
+      "romaji": "hiruyasumi no ato, juppun arukou",
+      "category": "Health Japanese",
+      "generated_at": "2026-11-11T00:28:06.970269"
+    },
+    {
+      "english": "Eat vegetables, each day, in small portions",
+      "japanese": "毎日野菜を、少しずつ食べよう",
+      "romaji": "mainichi yasai o, sukoshizutsu tabeyou",
+      "category": "Health Japanese",
+      "generated_at": "2026-11-11T00:28:06.970271"
+    },
+    {
+      "english": "Stretch your body, gently, before sleeping",
+      "japanese": "寝る前に、体をやさしく伸ばして",
+      "romaji": "neru mae ni, karada o yasashiku nobashite",
+      "category": "Health Japanese",
+      "generated_at": "2026-11-11T00:28:06.970273"
+    },
+    {
+      "english": "Wash your hands, before meals, and after",
+      "japanese": "食べる前とあと、手を洗ってね",
+      "romaji": "taberu mae to ato, te o araattene",
+      "category": "Health Japanese",
+      "generated_at": "2026-11-11T00:28:06.970274"
     }
   ],
-  "last_updated": "2026-11-10T20:42:39.008170"
+  "last_updated": "2026-11-11T00:28:06.970276"
 }
