@@ -9764,7 +9764,42 @@
       "transliteration": "sumimasen, mayoi mashita",
       "category": "Travel",
       "generated_at": "2026-11-12T01:50:09.380673"
+    },
+    {
+      "english": "Thank you, I really needed that.",
+      "japanese": "ありがとう、すごく助かりました。",
+      "transliteration": "arigatou, sugoku tasukarimashita",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:17:35.438655"
+    },
+    {
+      "english": "Thanks for checking on me.",
+      "japanese": "気にかけてくれてありがとう。",
+      "transliteration": "kini kakete kurete arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:17:35.438665"
+    },
+    {
+      "english": "Thank you for your quick reply.",
+      "japanese": "早い返信、ありがとうございます。",
+      "transliteration": "haya i henshin, arigatou gozaimasu",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:17:35.438667"
+    },
+    {
+      "english": "I appreciate you making time.",
+      "japanese": "時間を作ってくれてありがとう。",
+      "transliteration": "jikan o tsukutte kurete arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:17:35.438669"
+    },
+    {
+      "english": "Thanks, that was very thoughtful.",
+      "japanese": "それ、すごく気が利いてるね。ありがとう。",
+      "transliteration": "sore, sugoku ki ga kiiteru ne. arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:17:35.438670"
     }
   ],
-  "last_updated": "2026-11-12T01:50:09.380675"
+  "last_updated": "2026-11-12T21:17:35.438672"
 }
