@@ -9729,7 +9729,42 @@
       "transliteration": "koko de kurejitto ka-do wa tsukaemasu ka",
       "category": "Shopping",
       "generated_at": "2026-11-11T21:06:00.118534"
+    },
+    {
+      "english": "Where is the nearest train station?",
+      "japanese": "いちばん近い駅はどこですか。",
+      "transliteration": "ichiban chikai eki wa doko desu ka",
+      "category": "Travel",
+      "generated_at": "2026-11-12T01:50:09.380656"
+    },
+    {
+      "english": "I need a ticket to Shinjuku.",
+      "japanese": "新宿までの切符をください。",
+      "transliteration": "Shinjuku made no kippu o kudasai",
+      "category": "Travel",
+      "generated_at": "2026-11-12T01:50:09.380668"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "japanese": "近くにトイレはありますか。",
+      "transliteration": "chikaku ni toire wa arimasu ka",
+      "category": "Travel",
+      "generated_at": "2026-11-12T01:50:09.380670"
+    },
+    {
+      "english": "Please show me on the map.",
+      "japanese": "地図で教えてください。",
+      "transliteration": "chizu de oshiete kudasai",
+      "category": "Travel",
+      "generated_at": "2026-11-12T01:50:09.380672"
+    },
+    {
+      "english": "Excuse me, I’m lost.",
+      "japanese": "すみません、迷いました。",
+      "transliteration": "sumimasen, mayoi mashita",
+      "category": "Travel",
+      "generated_at": "2026-11-12T01:50:09.380673"
     }
   ],
-  "last_updated": "2026-11-11T21:06:00.118537"
+  "last_updated": "2026-11-12T01:50:09.380675"
 }
