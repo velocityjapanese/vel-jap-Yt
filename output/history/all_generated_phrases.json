@@ -9834,7 +9834,42 @@
       "transliteration": "Arigatai, kokoro ga atatakai.",
       "category": "Joy",
       "generated_at": "2026-11-13T00:56:46.901558"
+    },
+    {
+      "english": "I feel happy right now,",
+      "japanese": "いま、うれしい気持ちです。",
+      "transliteration": "ima, ureshii kimochi desu.",
+      "category": "Feelings",
+      "generated_at": "2026-11-13T20:45:41.440844"
+    },
+    {
+      "english": "I'm feeling calm,",
+      "japanese": "落ち着いています。",
+      "transliteration": "ochitsuiteimasu.",
+      "category": "Feelings",
+      "generated_at": "2026-11-13T20:45:41.440861"
+    },
+    {
+      "english": "I feel nervous today,",
+      "japanese": "今日は緊張しています。",
+      "transliteration": "kyou wa kinchou shiteimasu.",
+      "category": "Feelings",
+      "generated_at": "2026-11-13T20:45:41.440863"
+    },
+    {
+      "english": "I'm a little worried,",
+      "japanese": "少し心配です。",
+      "transliteration": "sukoshi shinpai desu.",
+      "category": "Feelings",
+      "generated_at": "2026-11-13T20:45:41.440865"
+    },
+    {
+      "english": "I feel excited,",
+      "japanese": "ワクワクしています。",
+      "transliteration": "waku waku shiteimasu.",
+      "category": "Feelings",
+      "generated_at": "2026-11-13T20:45:41.440867"
     }
   ],
-  "last_updated": "2026-11-13T00:56:46.901560"
+  "last_updated": "2026-11-13T20:45:41.440869"
 }
