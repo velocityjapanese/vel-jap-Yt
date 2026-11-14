@@ -1,8 +1,9 @@
-name: Velocity Japanese - Daily Upload
+name: Velocity Japanese - Daily 2x Upload
 
 on:
   schedule:
     - cron: '0 14 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch:
 
 permissions:
