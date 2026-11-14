@@ -9904,7 +9904,42 @@
       "transliteration": "yukkuri de ii, yamenai de.",
       "category": "Strength",
       "generated_at": "2026-11-14T18:56:27.636014"
+    },
+    {
+      "english": "Wake up, open the curtains.",
+      "japanese": "起きて、カーテンを開ける。",
+      "transliteration": "oki te, kaaten o akeru.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T23:45:43.249671"
+    },
+    {
+      "english": "Roll out of bed, then sit.",
+      "japanese": "ベッドから出て、すぐ座る。",
+      "transliteration": "beddo kara dete, sugu tsu maru.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T23:45:43.249687"
+    },
+    {
+      "english": "Take a slow breath, steady yourself.",
+      "japanese": "ゆっくり息を吸って、落ち着く。",
+      "transliteration": "yukkuri iki o sutte, ochi tsuku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T23:45:43.249688"
+    },
+    {
+      "english": "Rinse your mouth, brush teeth.",
+      "japanese": "歯を磨く前に、口をすすぐ。",
+      "transliteration": "ha o migaku mae ni, kuchi o susugu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T23:45:43.249689"
+    },
+    {
+      "english": "Brush your teeth, change toothbrush water.",
+      "japanese": "歯ブラシをすすいでから磨く。",
+      "transliteration": "ha burashi o susunde kara migaku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T23:45:43.249690"
     }
   ],
-  "last_updated": "2026-11-14T18:56:27.636017"
+  "last_updated": "2026-11-14T23:45:43.249692"
 }
