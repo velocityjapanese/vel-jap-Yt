@@ -10184,7 +10184,42 @@
       "transliteration": "te no chikara o nuite, shizen ni kokyū shite.",
       "category": "Mindfulness",
       "generated_at": "2026-11-18T21:42:12.081565"
+    },
+    {
+      "english": "It's 7 o'clock exactly, right?",
+      "japanese": "ちょうど7時だよね？",
+      "transliteration": "Choudo shichi-ji da yo ne?",
+      "category": "Time",
+      "generated_at": "2026-11-19T01:47:16.821418"
+    },
+    {
+      "english": "My train leaves at 8.",
+      "japanese": "電車は8時に出ます。",
+      "transliteration": "Densha wa hachiji ni demasu.",
+      "category": "Time",
+      "generated_at": "2026-11-19T01:47:16.821430"
+    },
+    {
+      "english": "I’ll meet you at 5.",
+      "japanese": "5時に会おう。",
+      "transliteration": "Go-ji ni aou.",
+      "category": "Time",
+      "generated_at": "2026-11-19T01:47:16.821432"
+    },
+    {
+      "english": "Sorry, I’m late, again!",
+      "japanese": "ごめん、また遅れた！",
+      "transliteration": "Gomen, mata okureta!",
+      "category": "Time",
+      "generated_at": "2026-11-19T01:47:16.821434"
+    },
+    {
+      "english": "We have time before dinner.",
+      "japanese": "夕食前に時間があるよ。",
+      "transliteration": "Yushoku mae ni jikan ga aru yo.",
+      "category": "Time",
+      "generated_at": "2026-11-19T01:47:16.821436"
     }
   ],
-  "last_updated": "2026-11-18T21:42:12.081567"
+  "last_updated": "2026-11-19T01:47:16.821438"
 }
