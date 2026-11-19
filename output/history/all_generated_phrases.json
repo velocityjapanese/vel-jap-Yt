@@ -10219,7 +10219,42 @@
       "transliteration": "Yushoku mae ni jikan ga aru yo.",
       "category": "Time",
       "generated_at": "2026-11-19T01:47:16.821436"
+    },
+    {
+      "english": "I’m sorry, I didn’t mean that.",
+      "japanese": "ごめんなさい、悪気はなかったんです。",
+      "transliteration": "Gomen nasai, waki wa nakattan desu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T22:07:39.342551"
+    },
+    {
+      "english": "Please don’t hold it against me.",
+      "japanese": "気にしないで、お願い。",
+      "transliteration": "Ki ni shinaide, onegai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T22:07:39.342569"
+    },
+    {
+      "english": "I’m sorry, I was careless.",
+      "japanese": "ごめんなさい、うっかりしていました。",
+      "transliteration": "Gomen nasai, ukkari shite imashita.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T22:07:39.342570"
+    },
+    {
+      "english": "I hurt you, I’m really sorry.",
+      "japanese": "あなたを傷つけて、ごめんなさい。",
+      "transliteration": "Anata o kizutsukete, gomen nasai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T22:07:39.342571"
+    },
+    {
+      "english": "I’ll own it, please forgive me.",
+      "japanese": "私が責任を取ります、許して。",
+      "transliteration": "Watashi ga sekinin o torimasu, yurushite.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T22:07:39.342573"
     }
   ],
-  "last_updated": "2026-11-19T01:47:16.821438"
+  "last_updated": "2026-11-19T22:07:39.342574"
 }
