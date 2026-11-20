@@ -10254,7 +10254,42 @@
       "transliteration": "Watashi ga sekinin o torimasu, yurushite.",
       "category": "Forgiveness",
       "generated_at": "2026-11-19T22:07:39.342573"
+    },
+    {
+      "english": "Please wait here, for a moment.",
+      "japanese": "こちらで少しお待ちください。",
+      "transliteration": "Kochira de sukoshi omachi kudasai.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T01:43:55.126556"
+    },
+    {
+      "english": "Can you show me how to do it?",
+      "japanese": "やり方を教えてもらえますか。",
+      "transliteration": "Yarikata o oshiete moraemasu ka.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T01:43:55.126570"
+    },
+    {
+      "english": "I’ll be there soon, I promise.",
+      "japanese": "すぐ行きます。約束します。",
+      "transliteration": "Sugu ikimasu. Yakusoku shimasu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T01:43:55.126572"
+    },
+    {
+      "english": "Sorry, I didn’t catch that.",
+      "japanese": "すみません、聞き取れませんでした。",
+      "transliteration": "Sumimasen, kikitokoremasendeshita.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T01:43:55.126573"
+    },
+    {
+      "english": "I’m looking for this address.",
+      "japanese": "この住所を探しています。",
+      "transliteration": "Kono jūsho o sagashiteimasu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T01:43:55.126574"
     }
   ],
-  "last_updated": "2026-11-19T22:07:39.342574"
+  "last_updated": "2026-11-20T01:43:55.126576"
 }
