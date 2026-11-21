@@ -10359,7 +10359,42 @@
       "transliteration": "Nyūnyū o kiraku ni yome ru you ni naritai.",
       "category": "Purpose",
       "generated_at": "2026-11-21T01:14:18.601553"
+    },
+    {
+      "english": "Turn right at the next corner.",
+      "japanese": "次の角を右に曲がってください。",
+      "transliteration": "tsugi no kado o migi ni magatte kudasai.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T20:20:56.776461"
+    },
+    {
+      "english": "Walk two blocks, then stop.",
+      "japanese": "二つ先まで歩いて、そこで止まって。",
+      "transliteration": "futatsu saki made aruite, soko de tomatte.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T20:20:56.776472"
+    },
+    {
+      "english": "The station is down the street.",
+      "japanese": "駅は通りの先です。",
+      "transliteration": "eki wa dori no saki desu.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T20:20:56.776474"
+    },
+    {
+      "english": "Please follow me, it's this way.",
+      "japanese": "こっちです、私についてきてください。",
+      "transliteration": "kocchi desu, watashi ni tsuite kite kudasai.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T20:20:56.776475"
+    },
+    {
+      "english": "It's near, you can’t miss it.",
+      "japanese": "近いよ、すぐわかるはず。",
+      "transliteration": "chikai yo, sugu wakaru hazu.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T20:20:56.776477"
     }
   ],
-  "last_updated": "2026-11-21T01:14:18.601555"
+  "last_updated": "2026-11-21T20:20:56.776483"
 }
