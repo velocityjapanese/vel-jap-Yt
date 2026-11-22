@@ -10394,7 +10394,42 @@
       "transliteration": "chikai yo, sugu wakaru hazu.",
       "category": "Directions",
       "generated_at": "2026-11-21T20:20:56.776477"
+    },
+    {
+      "english": "My mom is always smiling, at home.",
+      "japanese": "母はいつも家でにこにこしている。",
+      "transliteration": "Haha wa itsumo ie de niko nico shite iru.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-22T00:11:33.850954"
+    },
+    {
+      "english": "My dad fixes things, whenever something breaks.",
+      "japanese": "父はいつでも直してくれる。",
+      "transliteration": "Chichi wa itsudemo naoshite kureru.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-22T00:11:33.850966"
+    },
+    {
+      "english": "My older brother plays soccer after work.",
+      "japanese": "兄は仕事のあとサッカーをする。",
+      "transliteration": "Ani wa shigoto no ato sakkaa o suru.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-22T00:11:33.850968"
+    },
+    {
+      "english": "My older sister reads manga on Sundays.",
+      "japanese": "姉は日曜にマンガを読む。",
+      "transliteration": "Ane wa nichiyou ni manga o yomu.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-22T00:11:33.850969"
+    },
+    {
+      "english": "My younger brother helps me with homework.",
+      "japanese": "弟は宿題を手伝ってくれる。",
+      "transliteration": "Otouto wa shukudai o tetsudatte kureru.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-22T00:11:33.850973"
     }
   ],
-  "last_updated": "2026-11-21T20:20:56.776483"
+  "last_updated": "2026-11-22T00:11:33.850975"
 }
