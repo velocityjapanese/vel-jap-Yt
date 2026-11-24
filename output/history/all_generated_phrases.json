@@ -10499,7 +10499,42 @@
       "transliteration": "kyou wa jikan o tsukutte, hon no juu-bun demo.",
       "category": "Success",
       "generated_at": "2026-11-23T00:40:16.900051"
+    },
+    {
+      "english": "I study Japanese after dinner, every day.",
+      "japanese": "毎日、夕食のあとに日本語を勉強します。",
+      "transliteration": "mainichi, yushoku no ato ni nihongo o benkyou shimasu.",
+      "category": "Education",
+      "generated_at": "2026-11-24T01:28:27.444609"
+    },
+    {
+      "english": "Can you help me review tonight?",
+      "japanese": "今夜、一緒に復習してくれますか。",
+      "transliteration": "kon'ya, issho ni fukushuu shite kuremasu ka.",
+      "category": "Education",
+      "generated_at": "2026-11-24T01:28:27.444621"
+    },
+    {
+      "english": "My teacher explains things very clearly.",
+      "japanese": "先生はとてもわかりやすく説明します。",
+      "transliteration": "sensei wa totemo wakariyasuku setsumei shimasu.",
+      "category": "Education",
+      "generated_at": "2026-11-24T01:28:27.444623"
+    },
+    {
+      "english": "I need new vocabulary words today.",
+      "japanese": "今日は新しい単語が必要です。",
+      "transliteration": "kyou wa atarashii tango ga hitsuyou desu.",
+      "category": "Education",
+      "generated_at": "2026-11-24T01:28:27.444645"
+    },
+    {
+      "english": "Let’s practice speaking, right now.",
+      "japanese": "今すぐ、話す練習をしましょう。",
+      "transliteration": "ima sugu, hanasu renshuu o shimashou.",
+      "category": "Education",
+      "generated_at": "2026-11-24T01:28:27.444648"
     }
   ],
-  "last_updated": "2026-11-23T00:40:16.900053"
+  "last_updated": "2026-11-24T01:28:27.444652"
 }
