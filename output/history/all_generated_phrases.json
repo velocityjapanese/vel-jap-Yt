@@ -10604,7 +10604,42 @@
       "transliteration": "matte, juu-ni-ji da yo",
       "category": "Numbers",
       "generated_at": "2026-11-24T23:22:04.197825"
+    },
+    {
+      "english": "I feel a little sick today,",
+      "japanese": "今日は少し体調が悪いです、",
+      "transliteration": "kyou wa sukoshi taichou ga warui desu,",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:27:51.187127"
+    },
+    {
+      "english": "My throat hurts,",
+      "japanese": "のどが痛いです、",
+      "transliteration": "nodo ga itai desu,",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:27:51.187141"
+    },
+    {
+      "english": "I have a headache,",
+      "japanese": "頭が痛いです、",
+      "transliteration": "atama ga itai desu,",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:27:51.187143"
+    },
+    {
+      "english": "I need water, please,",
+      "japanese": "水をください、",
+      "transliteration": "mizu o kudasai,",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:27:51.187143"
+    },
+    {
+      "english": "I’m feeling dizzy right now,",
+      "japanese": "今、めまいがします、",
+      "transliteration": "ima, memai ga shimasu,",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:27:51.187145"
     }
   ],
-  "last_updated": "2026-11-24T23:22:04.197827"
+  "last_updated": "2026-11-25T03:27:51.187147"
 }
