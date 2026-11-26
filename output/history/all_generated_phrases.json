@@ -10674,7 +10674,42 @@
       "transliteration": "tsurakutemo, chanto mananditeru",
       "category": "Motivation",
       "generated_at": "2026-11-25T22:55:15.696439"
+    },
+    {
+      "english": "Thank you for helping me earlier.",
+      "japanese": "さっきは助けてくれてありがとう。",
+      "transliteration": "Sakki wa tasukete kurete arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:43:12.734723"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "japanese": "私に我慢してくれてありがとう。",
+      "transliteration": "Watashi ni gaman shite kurete arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:43:12.734738"
+    },
+    {
+      "english": "Thanks, I truly needed the support.",
+      "japanese": "本当に支えてくれてありがとう。",
+      "transliteration": "Hontō ni sasaete kurete arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:43:12.734739"
+    },
+    {
+      "english": "Thank you for your kind encouragement.",
+      "japanese": "やさしく励ましてくれてありがとう。",
+      "transliteration": "Yasashiku hagemashite kurete arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:43:12.734740"
+    },
+    {
+      "english": "I’m grateful you showed me the way.",
+      "japanese": "道を教えてくれてありがとう。",
+      "transliteration": "Michi o oshiete kurete arigatō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:43:12.734741"
     }
   ],
-  "last_updated": "2026-11-25T22:55:15.696440"
+  "last_updated": "2026-11-26T02:43:12.734743"
 }
