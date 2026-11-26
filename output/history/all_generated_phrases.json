@@ -34264,7 +34264,28 @@
       "transliteration": "Michi o oshiete kurete arigatō.",
       "category": "Gratitude",
       "generated_at": "2026-11-26T02:43:12.734741"
+    },
+    {
+      "english": "Could I get a table for two, please?",
+      "japanese": "二人用の席をお願いできますか。",
+      "transliteration": "Futari-yō no seki o onegaidekimasu ka?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T13:29:21.222196"
+    },
+    {
+      "english": "We’re ready to order, thank you.",
+      "japanese": "注文してもいいですか。",
+      "transliteration": "Chūmon shite mo ii desu ka?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T13:29:21.222209"
+    },
+    {
+      "english": "What’s the house specialty today?",
+      "japanese": "今日のおすすめは何ですか。",
+      "transliteration": "Kyō no osusume wa nan desu ka?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T13:29:21.222211"
     }
   ],
-  "last_updated": "2026-11-26T14:55:02.228753"
+  "last_updated": "2026-11-26T13:29:21.222213"
 }
