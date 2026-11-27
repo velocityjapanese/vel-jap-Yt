@@ -34348,7 +34348,28 @@
       "transliteration": "Sumimasen, nihongo amari hanasemasen.",
       "category": "Introductions",
       "generated_at": "2026-11-27T18:41:12.200229"
+    },
+    {
+      "english": "Let’s get started, shall we?",
+      "japanese": "始めましょうか。",
+      "transliteration": "Hajimemashou ka",
+      "category": "Work",
+      "generated_at": "2026-11-27T19:21:31.331959"
+    },
+    {
+      "english": "Please send it by email.",
+      "japanese": "メールで送ってください。",
+      "transliteration": "Meeru de okutte kudasai",
+      "category": "Work",
+      "generated_at": "2026-11-27T19:21:31.331974"
+    },
+    {
+      "english": "Could you check this for me?",
+      "japanese": "これ確認してもらえますか。",
+      "transliteration": "Kore kakunin shite moraemasu ka",
+      "category": "Work",
+      "generated_at": "2026-11-27T19:21:31.331976"
     }
   ],
-  "last_updated": "2026-11-27T18:41:12.200231"
+  "last_updated": "2026-11-27T19:21:31.331977"
 }

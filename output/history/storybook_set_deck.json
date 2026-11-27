@@ -1,15 +1,14 @@
 {
   "deck": [
-    "beach",
     "market"
   ],
   "recent": [
-    "snow",
     "jungle",
     "forest",
     "savanna",
     "garden",
-    "desert"
+    "desert",
+    "beach"
   ],
-  "updated": "2026-11-27T18:41:02.870659"
+  "updated": "2026-11-27T19:21:22.802531"
 }
