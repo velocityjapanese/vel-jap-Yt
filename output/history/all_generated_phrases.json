@@ -34306,7 +34306,28 @@
       "transliteration": "Kite kurete arigatou!",
       "category": "Greetings",
       "generated_at": "2026-11-27T03:56:07.152582"
+    },
+    {
+      "english": "I watch soccer highlights on weekends.",
+      "japanese": "週末はサッカーのハイライトを見ます。",
+      "transliteration": "Shuumatsu wa sakkaa no hairaito o mimasu.",
+      "category": "Sports",
+      "generated_at": "2026-11-27T11:31:22.368922"
+    },
+    {
+      "english": "I’m joining a swimming class tomorrow.",
+      "japanese": "明日、水泳教室に入ります。",
+      "transliteration": "Ashita, suieikyoushitsu ni hairimasu.",
+      "category": "Sports",
+      "generated_at": "2026-11-27T11:31:22.368937"
+    },
+    {
+      "english": "My basketball practice starts at seven.",
+      "japanese": "バスケの練習は七時からです。",
+      "transliteration": "BASUke no renshuu wa shichiji kara desu.",
+      "category": "Sports",
+      "generated_at": "2026-11-27T11:31:22.368939"
     }
   ],
-  "last_updated": "2026-11-27T03:56:07.152584"
+  "last_updated": "2026-11-27T11:31:22.368942"
 }
