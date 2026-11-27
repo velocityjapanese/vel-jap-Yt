@@ -34327,7 +34327,28 @@
       "transliteration": "BASUke no renshuu wa shichiji kara desu.",
       "category": "Sports",
       "generated_at": "2026-11-27T11:31:22.368939"
+    },
+    {
+      "english": "Hi, I’m learning Japanese. Nice to meet you.",
+      "japanese": "こんにちは、日本語を勉強しています。よろしくお願いします。",
+      "transliteration": "Konnichiwa, nihongo o benkyou shiteimasu. Yoroshiku onegaishimasu.",
+      "category": "Introductions",
+      "generated_at": "2026-11-27T18:41:12.200213"
+    },
+    {
+      "english": "Hi! I’m new here, please be kind to me.",
+      "japanese": "こんにちは、ここ初めてです。よろしくお願いします。",
+      "transliteration": "Konnichiwa, koko hajimete desu. Yoroshiku onegaishimasu.",
+      "category": "Introductions",
+      "generated_at": "2026-11-27T18:41:12.200228"
+    },
+    {
+      "english": "Sorry, I don’t speak much Japanese.",
+      "japanese": "すみません、日本語あまり話せません。",
+      "transliteration": "Sumimasen, nihongo amari hanasemasen.",
+      "category": "Introductions",
+      "generated_at": "2026-11-27T18:41:12.200229"
     }
   ],
-  "last_updated": "2026-11-27T11:31:22.368942"
+  "last_updated": "2026-11-27T18:41:12.200231"
 }
