@@ -2,9 +2,9 @@ name: Velocity Japanese - YouTube 3x Publish
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-    - cron: '0 3 * * *'
-    - cron: '0 10 * * *'
+    - cron: '22:20 * * *'
+    - cron: '03:25 * * *'
+    - cron: '09:30 * * *'
   workflow_dispatch:
     inputs:
       category:
