@@ -34285,7 +34285,28 @@
       "transliteration": "Kyō no osusume wa nan desu ka?",
       "category": "Restaurant",
       "generated_at": "2026-11-26T13:29:21.222211"
+    },
+    {
+      "english": "Hi there, how’s it going today?",
+      "japanese": "こんにちは、今日はどう？",
+      "transliteration": "Konnichiwa, kyou dou?",
+      "category": "Greetings",
+      "generated_at": "2026-11-27T03:56:07.152563"
+    },
+    {
+      "english": "Morning! Are you free right now?",
+      "japanese": "おはよう！今、暇？",
+      "transliteration": "Ohayou! Ima, hima?",
+      "category": "Greetings",
+      "generated_at": "2026-11-27T03:56:07.152579"
+    },
+    {
+      "english": "Hey, thanks for coming by!",
+      "japanese": "来てくれてありがとう！",
+      "transliteration": "Kite kurete arigatou!",
+      "category": "Greetings",
+      "generated_at": "2026-11-27T03:56:07.152582"
     }
   ],
-  "last_updated": "2026-11-26T13:29:21.222213"
+  "last_updated": "2026-11-27T03:56:07.152584"
 }
