@@ -34369,7 +34369,28 @@
       "transliteration": "Kore kakunin shite moraemasu ka",
       "category": "Work",
       "generated_at": "2026-11-27T19:21:31.331976"
+    },
+    {
+      "english": "I feel so happy right now.",
+      "japanese": "今めっちゃうれしい。",
+      "transliteration": "Ima meccha ureshii.",
+      "category": "Emotions",
+      "generated_at": "2026-11-28T12:07:08.658712"
+    },
+    {
+      "english": "I'm feeling a bit nervous.",
+      "japanese": "ちょっと緊張してる。",
+      "transliteration": "Chotto kinchou shiteru.",
+      "category": "Emotions",
+      "generated_at": "2026-11-28T12:07:08.658724"
+    },
+    {
+      "english": "I'm not sure, I'm anxious.",
+      "japanese": "不安になってきた。",
+      "transliteration": "Fuan ni natte kita.",
+      "category": "Emotions",
+      "generated_at": "2026-11-28T12:07:08.658726"
     }
   ],
-  "last_updated": "2026-11-27T19:21:31.331977"
+  "last_updated": "2026-11-28T12:07:08.658730"
 }
