@@ -51,7 +51,7 @@ LANGUAGE = {
     "native_fallback_voice": "ja-JP-KeitaNeural",
     "native_engine": "edge",
     "native_lang_code": "ja",
-    "english_rate": '+0%',
+    "english_rate": '-15%',
     "native_rate": '-6%',
     "english_pitch": "+0Hz",
     "native_pitch": "+0Hz",
